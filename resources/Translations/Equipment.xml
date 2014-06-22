@@ -376,4 +376,12 @@
     <JP-Name>12.7cm連装高角砲(後期型)</JP-Name>
     <TR-Name>12.7cm 연장고각포(후기형)</TR-Name>
   </Item>
+  <Item>
+    <JP-Name>22号対水上電探改四</JP-Name>
+    <TR-Name>22호 대수상 레이더改四</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>21号対空電探改</JP-Name>
+    <TR-Name>21호 대공 레이더改</TR-Name>
+  </Item>
 </Equipment>

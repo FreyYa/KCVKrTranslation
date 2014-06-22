@@ -873,4 +873,9 @@
     <TR-Name>신편성「제2항공전대」 출격하라!</TR-Name>
     <TR-Detail>「히류改2」를 기함으로 하고 소류 와 구축함 두척이 포함된 함대로 5-2 보스방 S승리.</TR-Detail>
   </Quest>
+  <Quest>
+    <ID>249</ID>
+    <TR-Name>신편성「제2항공전대」 출격하라!</TR-Name>
+    <TR-Detail>「히류改2」를 기함으로 하고 소류 와 구축함 두척이 포함된 함대로 5-2 보스방 S승리.</TR-Detail>
+  </Quest>
 </Quests>
