@@ -432,13 +432,13 @@
 	<Area>
 		<Number>39</Number>
 		<Title>원양잠수함작전</Title>
-		<FlagLv>???</FlagLv>
-		<NeedShip>???</NeedShip>
+		<FlagLv>Lv3</FlagLv>
+		<NeedShip>5척</NeedShip>
 		<Time>30시간0분</Time>
 		<Fuel>0</Fuel>
 		<Armo>-</Armo>
 		<Metal>300</Metal>
 		<Bo>-</Bo>
-		<Detail>잠수모함1척 필수. 나머지 편성조건 검증중</Detail>
+		<Detail>함대 총합 Lv180 타이게이1척(잠수모함), 잠수함(잠수항모가능)4척</Detail>
 	</Area>
 </Expeditions>
