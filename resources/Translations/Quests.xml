@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.5">
+<Quests Version="1.0.6">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -867,5 +867,10 @@
     <TR-Name>기종전환</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
     <TR-Detail>97식함공(토모나가대)를 탑재한 항공모함을 기함으로 두고 천산 두개를 폐기(임무 완료전까지 장비변경 및 기함변경X. 실패하는모양)</TR-Detail>
+  </Quest>
+   <Quest>
+    <ID>249</ID>
+    <TR-Name>신편성「제2항공전대」 출격하라!</TR-Name>
+    <TR-Detail>「히류改2」를 기함으로 하고 소류 와 구축함 두척이 포함된 함대로 5-2 보스방 S승리.</TR-Detail>
   </Quest>
 </Quests>
