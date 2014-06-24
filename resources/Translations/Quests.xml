@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.6">
+<Quests Version="1.0.7">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -852,7 +852,7 @@
     <JP-Name>遠洋潜水艦作戦を実施せよ！</JP-Name>
     <TR-Name>원양잠수함작전 실행</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
-    <TR-Detail>39번원정 성공</TR-Detail>
+    <TR-Detail>39번원정 2회 성공</TR-Detail>
   </Quest>
   <Quest>
     <ID>415</ID>
