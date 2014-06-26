@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.7">
+<Quests Version="1.0.8">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -677,7 +677,7 @@
     <JP-Name>「大型艦建造」の準備！(その弐)</JP-Name>
     <TR-Name>대형함건조 준비(제2차)</TR-Name>
     <JP-Detail>大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！</JP-Detail>
-    <TR-Detail>장비 4개 폐기</TR-Detail>
+    <TR-Detail>장비 4회 폐기</TR-Detail>
   </Quest>
   <Quest>
     <ID>F11</ID>
