@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.11">
+<Equipment Version="1.0.12">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -383,5 +383,9 @@
   <Item>
     <JP-Name>21号対空電探改</JP-Name>
     <TR-Name>21호 대공 레이더改</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>20.3cm(2号)連装砲</JP-Name>
+    <TR-Name>20.3cm(2호)연장포</TR-Name>
   </Item>
 </Equipment>
