@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.11">
+<Quests Version="1.0.12">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -386,7 +386,7 @@
     <TR-Detail>제30구축대(1차)를 포함한 함대로 3-2해역의 보스전 도달(남은 2척은 자유배치)</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd1</ID>
+    <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>적 함대 격파! - 일일반복</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
@@ -512,7 +512,7 @@
     <TR-Detail>승패에 관계 없이 연습전투 1회 수행</TR-Detail>
   </Quest>
   <Quest>
-    <ID>C2</ID>
+    <ID>303</ID>
     <JP-Name>「演習」で練度向上！</JP-Name>
     <TR-Name>연습으로 훈련도 향상 - 일일반복</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊に対して3回「演習」を挑もう！</JP-Detail>
@@ -526,7 +526,7 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 연습에서 B랭크 이상으로 5회 승리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>C4</ID>
+    <ID>302</ID>
     <JP-Name>大規模演習</JP-Name>
     <TR-Name>대규모연습 - 주간</TR-Name>
     <JP-Detail>今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！</JP-Detail>
@@ -547,14 +547,14 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 3번 성공</TR-Detail>
   </Quest>
   <Quest>
-    <ID>D3</ID>
+    <ID>403</ID>
     <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
     <TR-Name>원정 10회 성공 - 일일반복</TR-Name>
     <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 10번 성공</TR-Detail>
   </Quest>
   <Quest>
-    <ID>D4</ID>
+    <ID>404</ID>
     <JP-Name>大規模遠征作戦、発令！</JP-Name>
     <TR-Name>대규모 원정작전 발령 - 주간</TR-Name>
     <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
@@ -568,14 +568,14 @@
     <TR-Detail>원정번호30번 잠수함 파견작전 성공</TR-Detail>
   </Quest>
   <Quest>
-    <ID>D6</ID>
+    <ID>406</ID>
     <JP-Name>第二次潜水艦派遣作戦</JP-Name>
     <TR-Name>제2차 잠수함 파견작전</TR-Name>
     <JP-Detail>第２次潜水艦派遣作戦を成功させよう！</JP-Detail>
     <TR-Detail>원정30번 잠수함 파견작전 2번째 성공</TR-Detail>
   </Quest>
   <Quest>
-    <ID>D7</ID>
+    <ID>408</ID>
     <JP-Name>潜水艦派遣作戦による技術入手の継続！</JP-Name>
     <TR-Name>잠수함 파견 작전으로 지속적 기술획득</TR-Name>
     <JP-Detail>第3次及び第4次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</JP-Detail>
@@ -596,7 +596,7 @@
     <TR-Detail>전투로 인한 상처받은 군함 1회 수리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>E3</ID>
+    <ID>503</ID>
     <JP-Name>艦隊大整備！</JP-Name>
     <TR-Name>함대 대정비 - 일일반복</TR-Name>
     <JP-Detail>各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！</JP-Detail>
@@ -708,7 +708,7 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
   </Quest>
   <Quest>
-    <ID>G3</ID>
+    <ID>703</ID>
     <JP-Name>「近代化改修」を進め、戦備を整えよ！</JP-Name>
     <TR-Name>근대화개수를 진행하여 군비를 갖춰라 - 주간</TR-Name>
     <JP-Detail>一週間の間に、近代化改修を１5回成功させよ！</JP-Detail>
