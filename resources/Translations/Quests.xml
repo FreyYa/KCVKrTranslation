@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.12">
+<Quests Version="1.0.13">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -393,14 +393,14 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd2</ID>
+    <ID>216</ID>
     <JP-Name>敵艦隊主力を撃滅せよ！</JP-Name>
     <TR-Name>적 함대 주력 격파! - 일일반복</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd3</ID>
+    <ID>210</ID>
     <JP-Name>敵艦隊を10回邀撃せよ！</JP-Name>
     <TR-Name>적 함대 10회 요격 - 일일반복</TR-Name>
     <JP-Detail>艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！</JP-Detail>
@@ -414,49 +414,49 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 정규공모나 경공모 3척 격침</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd5</ID>
+    <ID>218</ID>
     <JP-Name>敵補給艦を3隻撃沈せよ！</JP-Name>
     <TR-Name>적 보급함 3척 격침 - 일일반복</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 보급함 3척 격침(추천:2-2,2-3)</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd6</ID>
+    <ID>212</ID>
     <JP-Name>敵輸送船団を叩け！</JP-Name>
     <TR-Name>적 수송선단을 쳐라 - 일일반복</TR-Name>
     <JP-Detail>敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 보급함 5척 격침(추천:2-2,2-3)</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd7</ID>
+    <ID>226</ID>
     <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
     <TR-Name>남서제도해역 제해권 획득 - 일일반복</TR-Name>
     <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 2-1 ~ 4 해역 보스전에서 5회 승리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd8</ID>
+    <ID>230</ID>
     <JP-Name>敵潜水艦を制圧せよ！</JP-Name>
     <TR-Name>적 잠수함 제압 - 일일반복</TR-Name>
     <JP-Detail>対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 잠수함 6척 격침(추천: 1-5혹은 4해역)</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bw1</ID>
+    <ID>214</ID>
     <JP-Name>あ号作戦</JP-Name>
     <TR-Name>아호작전 - 주간</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
     <TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 출격36회/보스전투24회/보스전투승리12회/S랭크완전승리6회 모두달성</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bw2</ID>
+    <ID>220</ID>
     <JP-Name>い号作戦</JP-Name>
     <TR-Name>이호작전 - 주간</TR-Name>
     <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
     <TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 정규공모(경공모가능) 20척 격침</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bw3</ID>
+    <ID>213</ID>
     <JP-Name>海上通商破壊作戦</JP-Name>
     <TR-Name>해상통상파괴작전 - 주간</TR-Name>
     <JP-Detail>1週間で敵輸送船を20隻以上撃沈せよ！</JP-Detail>
@@ -519,7 +519,7 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 승패 관계 없이 연습 전투 3회 수행</TR-Detail>
   </Quest>
   <Quest>
-    <ID>C3</ID>
+    <ID>304</ID>
     <JP-Name>「演習」で他提督を圧倒せよ！</JP-Name>
     <TR-Name>연습으로 다른 제독 압도</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！</JP-Detail>
@@ -540,7 +540,7 @@
     <TR-Detail>성공과 실패 관계 없이 원정 1회 수행</TR-Detail>
   </Quest>
   <Quest>
-    <ID>D2</ID>
+    <ID>402</ID>
     <JP-Name>「遠征」を３回成功させよう！</JP-Name>
     <TR-Name>원정 3회 성공 - 일일반복</TR-Name>
     <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
@@ -603,7 +603,7 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 군함 5척 수리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>E4</ID>
+    <ID>504</ID>
     <JP-Name>艦隊酒保祭り！</JP-Name>
     <TR-Name>함대 PX 축제! - 일일반복</TR-Name>
     <JP-Detail>艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！</JP-Detail>
@@ -638,35 +638,35 @@
     <TR-Detail>종류에 관계 없이 장비 1개 폐기</TR-Detail>
   </Quest>
   <Quest>
-    <ID>F5</ID>
+    <ID>605</ID>
     <JP-Name>新装備「開発」指令</JP-Name>
     <TR-Name>신 장비 개발 지령 - 일일반복</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 장비 1회 개발 (실패도 포함)</TR-Detail>
   </Quest>
   <Quest>
-    <ID>F6</ID>
+    <ID>606</ID>
     <JP-Name>新造艦「建造」指令</JP-Name>
     <TR-Name>신 조함 건조 지령 - 일일반복</TR-Name>
     <JP-Detail>「工廠」で艦娘を本日中に新たに「建造」しよう！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 군함 1회 건조</TR-Detail>
   </Quest>
   <Quest>
-    <ID>F7</ID>
+    <ID>607</ID>
     <JP-Name>装備「開発」集中強化！</JP-Name>
     <TR-Name>장비 개발 집중강화 - 일일반복</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 장비 3개 개발 (실패도 포함)</TR-Detail>
   </Quest>
   <Quest>
-    <ID>F8</ID>
+    <ID>608</ID>
     <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
     <TR-Name>칸무스메 건조 함대강화 - 일일반복</TR-Name>
     <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 군함 3척 건조</TR-Detail>
   </Quest>
   <Quest>
-    <ID>F9</ID>
+    <ID>609</ID>
     <JP-Name>軍縮条約対応！</JP-Name>
     <TR-Name>군축조약 대응 - 일일반복</TR-Name>
     <JP-Detail>少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！</JP-Detail>
@@ -701,7 +701,7 @@
     <TR-Detail>종류에 관계 없이 군함 1척을 근대화 개수 한다.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>G2</ID>
+    <ID>702</ID>
     <JP-Name>艦の「近代化改修」を実施せよ！</JP-Name>
     <TR-Name>군함의 근대화 개수 실시 - 일일반복</TR-Name>
     <JP-Detail>近代化改修を実施して、２回以上これを成功させよ！</JP-Detail>
