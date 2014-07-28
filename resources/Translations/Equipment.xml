@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.14">
+<Equipment Version="1.0.15">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -403,5 +403,9 @@
   <Item>
     <JP-Name>九七式艦攻(熟練)</JP-Name>
     <TR-Name>97식 함상 공격기(숙련)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>35.6cm連装砲(ダズル迷彩)</JP-Name>
+    <TR-Name>35.6cm연장포(다즐위장)</TR-Name>
   </Item>
 </Equipment>
