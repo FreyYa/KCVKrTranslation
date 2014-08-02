@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.15">
+<Quests Version="1.0.16">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -899,6 +899,6 @@
   <Quest>
   <ID>252</ID>
     <TR-Name>전함 하루나 출격하라!</TR-Name>
-    <TR-Detail>개2개조가 끝난 하루나를 기함으로 5-1 보스방 S승리</TR-Detail>
+    <TR-Detail>개2개조가 끝난 하루나를 포함한 함대로 5-1 보스방 S승리(기함으로 설정할 필요X)</TR-Detail>
   </Quest>
 </Quests>
