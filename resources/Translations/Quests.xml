@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.14">
+<Quests Version="1.0.15">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -831,7 +831,7 @@
     <JP-Name>「第五戦隊」出撃せよ！</JP-Name>
     <TR-Name>「제5전대」출격！</TR-Name>
     <JP-Detail>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>「제5전대」를 중심으로 한 함대로 2-5 S랭크 클리어</TR-Detail>
+    <TR-Detail>「묘코」「나치」「하구로」를 중심으로 한 함대로 2-5 S랭크 클리어</TR-Detail>
   </Quest>
   <Quest>
     <ID>138</ID>
