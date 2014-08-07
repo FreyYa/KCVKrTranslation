@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.19">
+<Quests Version="1.1.0">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -76,13 +76,6 @@
 		<TR-Name>첫 개발</TR-Name>
 		<JP-Detail>「工廠」でボーキサイトなどの資材を使って新しい装備アイテムを「開発」しよう！</JP-Detail>
 		<TR-Detail>장비를 1회 개발</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>F12</ID>
-		<JP-Name>資源の再利用</JP-Name>
-		<TR-Name>자원의 재활용</TR-Name>
-		<JP-Detail>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！</JP-Detail>
-		<TR-Detail>장비 24회 폐기</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>F11</ID>
@@ -565,6 +558,11 @@
 		<ID>614</ID>
 		<TR-Name>기종전환</TR-Name>
 		<TR-Detail>97식함공(토모나가대)를 탑재한 항공모함을 기함으로 두고 텐잔 두개를 폐기(임무 완료전까지 장비변경 및 기함변경X. 실패하는모양)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>613</ID>
+		<TR-Name>자원의 재활용</TR-Name>
+		<TR-Detail>장비 24회 폐기</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>609</ID>
