@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.17">
+<Quests Version="1.0.18">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -443,10 +443,8 @@
     <TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 수송선(보급함 포함) 20척 격침(추천:2-2,2-3)</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bw4</ID>
-    <JP-Name>ろ号作戦</JP-Name>
+    <ID>221</ID>
     <TR-Name>로호작전 - 주간</TR-Name>
-    <JP-Detail>1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！</JP-Detail>
     <TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 수송선(보급함 포함) 50척 격침(추천: 2-2,2-3)</TR-Detail>
   </Quest>
   <Quest>
@@ -467,10 +465,8 @@
     <TR-Detail>3-3 or 3-4보스전에서 5번 승리</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bw8</ID>
-    <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
+    <ID>242</ID>
     <TR-Name>적 동방 중추함대 격멸</TR-Name>
-    <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
     <TR-Detail>4-4 보스함대에게 1회 승리</TR-Detail>
   </Quest>
   <Quest>
