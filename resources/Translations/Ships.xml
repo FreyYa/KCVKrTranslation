@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.14">
+<Ships Version="1.0.15">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -1235,5 +1235,53 @@
   <Ship>
     <JP-Name>榛名改二</JP-Name>
     <TR-Name>하루나改2</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>春雨</JP-Name>
+    <TR-Name>하루사메</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>大淀</JP-Name>
+    <TR-Name>오요도</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>時津風</JP-Name>
+    <TR-Name>토키츠카제</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>清霜</JP-Name>
+    <TR-Name>키요시모</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>雲龍</JP-Name>
+    <TR-Name>운류</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>磯風</JP-Name>
+    <TR-Name>이소카제</TR-Name>
+  </Ship>
+<Ship>
+    <JP-Name>春雨改</JP-Name>
+    <TR-Name>하루사메 改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>大淀改</JP-Name>
+    <TR-Name>오요도 改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>時津風改</JP-Name>
+    <TR-Name>토키츠카제 改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>清霜改</JP-Name>
+    <TR-Name>키요시모 改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>雲龍改</JP-Name>
+    <TR-Name>운류 改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>磯風改</JP-Name>
+    <TR-Name>이소카제 改</TR-Name>
   </Ship>
 </Ships>

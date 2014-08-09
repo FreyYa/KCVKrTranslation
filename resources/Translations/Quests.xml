@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.0">
+<Quests Version="1.1.1">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -139,20 +139,6 @@
 		<TR-Name>남방해역 산호섬 앞바다 제공권 장악</TR-Name>
 		<JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
 		<TR-Detail>5-2보스함대에서 2회 S승리</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>Bw6</ID>
-		<JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
-		<TR-Name>적동방함대 격멸</TR-Name>
-		<JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
-		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 4-1~4 해역에서 보스전 12회 승리</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>Bd4</ID>
-		<JP-Name>敵空母を３隻撃沈せよ！</JP-Name>
-		<TR-Name>적 공모 3척 격침 - 일일반복</TR-Name>
-		<JP-Detail>艦隊の脅威となる敵空母群。これを捕捉撃滅し、3隻轟沈せよ！</JP-Detail>
-		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 정규공모나 경공모 3척 격침</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B9</ID>
@@ -720,6 +706,11 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 잠수함 6척 격침(추천: 1-5혹은 4해역)</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>229</ID>
+		<TR-Name>적 동방함대 격멸</TR-Name>
+		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 4-1~4 해역에서 보스전 12회 승리</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>228</ID>
 		<TR-Name>해상호위전 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 잠수함 15척 격침(추천: 1-5혹은 4해역)</TR-Detail>
@@ -763,6 +754,11 @@
 		<ID>212</ID>
 		<TR-Name>적 수송선단을 쳐라 - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 보급함 5척 격침(추천:2-2,2-3)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>211</ID>
+		<TR-Name>적 공모 3척 격침 - 일일반복</TR-Name>
+		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 정규공모나 경공모 3척 격침</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>210</ID>
