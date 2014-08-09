@@ -356,4 +356,8 @@
     <JP-Name>対潜掃討部隊</JP-Name>
     <TR-Name>대잠소탕부대</TR-Name>
   </Sortie>
+  <Sortie>
+    <JP-Name>北方方面主力艦隊</JP-Name>
+    <TR-Name>북방방면 주력함대</TR-Name>
+  </Sortie>
 </Operations>
