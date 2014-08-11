@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.1">
+<Quests Version="1.1.2">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -804,5 +804,15 @@
 		<ID>136</ID>
 		<TR-Name>제30구축대(제2차)」를 편성하라!</TR-Name>
 		<TR-Detail>「무츠키」 「야요이」 「우즈키」 「모치즈키」4척으로 30구축대(2차)를 구성하라!</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>143</ID>
+		<TR-Name>「신형정규모함」을 배치하라!</TR-Name>
+		<TR-Detail>운류형 항공모함 1번함 「운류」를 제1함대 기함에 배치</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>253</ID>
+		<TR-Name>601항공대 출격하라!</TR-Name>
+		<TR-Detail> 「운류改」를 포함한 기동부대로 5-2 보스방 S승리(클리어 조건 아직 정보 부족)</TR-Detail>
 	</Quest>
 </Quests>
