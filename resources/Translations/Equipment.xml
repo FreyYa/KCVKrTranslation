@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.18">
+<Equipment Version="1.0.19">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -427,5 +427,17 @@
   <Item>
     <JP-Name>九八式水上偵察機(夜偵)</JP-Name>
     <TR-Name>98식 수상 정찰기(야간정찰)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零戦52型丙(六〇一空)</JP-Name>
+    <TR-Name>영전52형 병(601 항공대)(</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>彗星(六〇一空)</JP-Name>
+    <TR-Name>스이세이(601 항공대)(</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>天山(六〇一空)</JP-Name>
+    <TR-Name>텐잔(601 항공대)(</TR-Name>
   </Item>
 </Equipment>

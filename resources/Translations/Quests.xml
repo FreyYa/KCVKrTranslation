@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.2">
+<Quests Version="1.1.3">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -534,6 +534,11 @@
 		<ID>702</ID>
 		<TR-Name>군함의 근대화 개수 실시 - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>616</ID>
+		<TR-Name>기종전환</TR-Name>
+		<TR-Detail>「영전52형-병-(601 항공대)」를 탑제한 항공모함을 기함으로 두고 렛푸2개 폐기(임무 완료전까지 601영전 장비해제 및 기함변경X. 실패하는모양)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>615</ID>
