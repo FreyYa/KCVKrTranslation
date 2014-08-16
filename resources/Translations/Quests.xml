@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.5">
+<Quests Version="1.1.6">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -721,7 +721,7 @@
 	<Quest>
 		<ID>226</ID>
 		<TR-Name>남서제도해역 제해권 획득 - 일일반복</TR-Name>
-		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 2-1 ~ 4 해역 보스전에서 5회 승리</TR-Detail>
+		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 2-1 ~ 2-5 해역 보스전에서 5회 승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>221</ID>
