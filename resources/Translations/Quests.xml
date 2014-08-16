@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.4">
+<Quests Version="1.1.5">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -20,13 +20,6 @@
 		<TR-Name>둘이 같이 하는 첫 임무!</TR-Name>
 		<JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
 		<TR-Detail>강한 유대 관계를 맺은 칸무스를 기함으로 하고 4-3에서 승리!</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>WB01</ID>
-		<JP-Name>式の準備！(最終)</JP-Name>
-		<TR-Name>결혼식 준비!(최종)</TR-Name>
-		<JP-Detail>練度の高い(Lv.90以上～99以下）第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！</JP-Detail>
-		<TR-Detail>숙련도가 높은 칸무스를 기함으로 하고 2-3의 보스전에서 S승리!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>WA02</ID>
@@ -694,6 +687,11 @@
 		<ID>247</ID>
 		<TR-Name>「항공전함」 출항하라!</TR-Name>
 		<TR-Detail>항공전함2대를 포함한 함대로 4-4보스전 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>245</ID>
+		<TR-Name>결혼식 준비!(최종)</TR-Name>
+		<TR-Detail>숙련도가 높은 칸무스를 기함으로 하고 2-3의 보스전에서 S승리!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>242</ID>
