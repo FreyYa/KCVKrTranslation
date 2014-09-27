@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.6">
+<Operations Version="1.0.8">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>해역 1-1</TR-Name>
@@ -324,7 +324,7 @@
     <JP-Name>敵前衛警戒部隊</JP-Name>
     <TR-Name>적 전위 경계부대</TR-Name>
   </Sortie>
- <Map>
+  <Map>
     <JP-Name>沖ノ島沖</JP-Name>
     <TR-Name>해역 2-5</TR-Name>
   </Map>
@@ -372,4 +372,80 @@
     <JP-Name>AL防衛哨戒ライン</JP-Name>
     <TR-Name>AL방위초계라인</TR-Name>
   </Sortie>
+  <Sortie>
+    <JP-Name>敵潜水艦隊B群</JP-Name>
+    <TR-Name>敵潜水艦隊B群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>増派部隊前衛潜水艦隊(I)</JP-Name>
+    <TR-Name>増派部隊前衛潜水艦隊(I)</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>北太平洋MI諸島沖</JP-Name>
+    <TR-Name>北太平洋MI諸島沖</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>増派部隊前衛潜水艦隊(II)</JP-Name>
+    <TR-Name>増派部隊前衛潜水艦隊(II)</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊(III)</JP-Name>
+    <TR-Name>任務部隊(III)</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>MI島部隊</JP-Name>
+    <TR-Name>MI島部隊</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>北太平洋海域</JP-Name>
+    <TR-Name>北太平洋海域</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>任務部隊(Y群)</JP-Name>
+    <TR-Name>任務部隊(Y群)</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊(II)</JP-Name>
+    <TR-Name>任務部隊(II)</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵前衛部隊</JP-Name>
+    <TR-Name>敵前衛部隊</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵ピケット艦隊</JP-Name>
+    <TR-Name>敵ピケット艦隊</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵機動部隊主力</JP-Name>
+    <TR-Name>敵機動部隊主力</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵補給部隊本体</JP-Name>
+    <TR-Name>敵補給部隊本体</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>北方海域戦闘哨戒</JP-Name>
+    <TR-Name>해역 3-5</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>北方増援部隊前衛A</JP-Name>
+    <TR-Name>北方増援部隊前衛A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊前衛B</JP-Name>
+    <TR-Name>北方増援部隊前衛B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊主力</JP-Name>
+    <TR-Name>北方増援部隊主力</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方遊撃部隊</JP-Name>
+    <TR-Name>北方遊撃部隊</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>モーレイ海</JP-Name>
+    <TR-Name>モーレイ海</TR-Name>
+  </Map>
 </Operations>

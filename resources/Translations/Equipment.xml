@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.0">
+<Equipment Version="1.1.3">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -344,7 +344,7 @@
     <JP-Name>3.7cm FlaK M42</JP-Name>
     <TR-Name>3.7cm FlaK M42</TR-Name>
   </Item>
-    <Item>
+  <Item>
     <JP-Name>新型高温高圧缶</JP-Name>
     <TR-Name>신형 고온 고압 보일러</TR-Name>
   </Item>
@@ -439,5 +439,21 @@
   <Item>
     <JP-Name>天山(六〇一空)</JP-Name>
     <TR-Name>텐잔(601 항공대)(</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>艦隊司令部施設</JP-Name>
+    <TR-Name>함대 사령부 시설</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風(六〇一空)</JP-Name>
+    <TR-Name>렛푸(601 항공대)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Ar196改</JP-Name>
+    <TR-Name>Ar196改</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>38cm連装砲改</JP-Name>
+    <TR-Name>38cm다연장포改</TR-Name>
   </Item>
 </Equipment>
