@@ -448,4 +448,44 @@
     <JP-Name>モーレイ海</JP-Name>
     <TR-Name>モーレイ海</TR-Name>
   </Map>
+  <Sortie>
+    <JP-Name>北方前衛警戒部隊</JP-Name>
+    <TR-Name>北方前衛警戒部隊</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方派遣任務部隊</JP-Name>
+    <TR-Name>北方派遣任務部隊</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方AL泊地</JP-Name>
+    <TR-Name>北方AL泊地</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域 敵遊撃部隊</JP-Name>
+    <TR-Name>中部海域 敵遊撃部隊</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>中部海域哨戒線</JP-Name>
+    <TR-Name>中部海域哨戒線</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 B地点</JP-Name>
+    <TR-Name>中部海域哨戒戦 B地点</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 D地点</JP-Name>
+    <TR-Name>中部海域哨戒戦 D地点</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵回航中空母</JP-Name>
+    <TR-Name>敵回航中空母</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵任務部隊前衛</JP-Name>
+    <TR-Name>敵任務部隊前衛</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵任務部隊本隊</JP-Name>
+    <TR-Name>敵任務部隊本隊</TR-Name>
+  </Sortie>
 </Operations>

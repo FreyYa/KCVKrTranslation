@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.10">
+<Quests Version="1.1.11">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -494,17 +494,17 @@
 	<Quest>
 		<ID>616</ID>
 		<TR-Name>기종전환</TR-Name>
-		<TR-Detail>「영식함상전투기 52병형(601 항공대)」를 탑제한 항공모함을 기함으로 두고 렛푸2개 폐기(임무 완료전까지 601영전 장비해제 및 기함변경 시 실패)</TR-Detail>
+		<TR-Detail>「영식함상전투기 52병형(601 항공대)」를 탑제한 항공모함을 기함으로 두고 렛푸2개 폐기(임무 완료전까지 601영전 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>615</ID>
 		<TR-Name>기종전환</TR-Name>
-		<TR-Detail>「99식 함상폭격기(에구사대)」를 탑제한 항공모함을 기함으로 두고 스이세이2개 폐기(임무 완료전까지 장비변경 및 기함변경 시 실패)</TR-Detail>
+		<TR-Detail>「99식 함상폭격기(에구사대)」를 탑제한 항공모함을 기함으로 두고 스이세이2개 폐기(임무 완료전까지 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>614</ID>
 		<TR-Name>기종전환</TR-Name>
-		<TR-Detail>97식함공(토모나가대)를 탑재한 항공모함을 기함으로 두고 텐잔 두개를 폐기(임무 완료전까지 장비변경 및 기함변경 시 실패)</TR-Detail>
+		<TR-Detail>97식함공(토모나가대)를 탑재한 항공모함을 기함으로 두고 텐잔 두개를 폐기(임무 완료전까지 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>613</ID>
@@ -632,6 +632,21 @@
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>260</ID>
+		<TR-Name>「전함부대」북방해역에 돌입하라!</TR-Name>
+		<TR-Detail>전함2척(항공전함 불가)와 경공모1척(정규공모 불가)를 기반으로 한 함대로 3-5 S승(전함,경공모 기준 초과시 실패)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>259</ID>
+		<TR-Name>「수상타격부대」남쪽으로! - 월간임무</TR-Name>
+		<TR-Detail>전함3척과 경순1척을 기반으로 한 수상타격대로 5-1 S승 1회(고속전함으로는 달성 불가)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>258</ID>
+		<TR-Name>「제2전대」발묘!</TR-Name>
+		<TR-Detail>나가토형이나 후소형을 기함으로 한「제2전대」로 4-2 S승 2회</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>257</ID>
 		<TR-Name>「수뢰전대」남서쪽으로! - 월간임무</TR-Name>
 		<TR-Detail>경순양함을 기함으로 한 수뢰전대(경순양함 최대 3척,그 외 구축함)을 파견, 남서제도해역(1-4)보스전 승리</TR-Detail>
@@ -639,7 +654,7 @@
 	<Quest>
 		<ID>256</ID>
 		<TR-Name>「잠수함대」출격하라! - 월간임무</TR-Name>
-		<TR-Detail>잠수함 전력을 핵심으로 한 함대에서 중부 해역 초계선(6-1)에 반복 출격하여 적의 전력을 줄여라!</TR-Detail>
+		<TR-Detail>중부 해역 초계선(6-1) S승 3회</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>255</ID>
@@ -780,6 +795,16 @@
 		<ID>201</ID>
 		<TR-Name>적 함대 격파! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>145</ID>
+		<TR-Name>전함을 주력으로 한 수상타격부대를 편성하라!</TR-Name>
+		<TR-Detail>야마토급, 나가토급, 이세급, 후소급 중 3척과 경순 1척의 수상타격부대를 배치</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>144</ID>
+		<TR-Name>주력전함부대「제2전대」를 편성하라!</TR-Name>
+		<TR-Detail>나가토급 2척과 후소급 2척의 합계 4척을 주력으로 하는 제2전대를 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>143</ID>
