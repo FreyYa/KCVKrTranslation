@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.12">
+<Quests Version="1.1.13">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -488,8 +488,8 @@
 	</Quest>
 	<Quest>
 		<ID>619</ID>
-		<TR-Name>장비의 개수강화</TR-Name>
-		<TR-Detail>「개수공창」에서「장비」의 개수강화에 힘쓰자</TR-Detail>
+		<TR-Name>장비의 개수강화 - 일일반복</TR-Name>
+		<TR-Detail>「개수공창」에서「장비」의 개수강화 1회 (실패도 포함)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>618</ID>
@@ -504,7 +504,7 @@
 	<Quest>
 		<ID>616</ID>
 		<TR-Name>기종전환</TR-Name>
-		<TR-Detail>「영식함상전투기 52병형(601 항공대)」를 탑제한 항공모함을 기함으로 두고 렛푸2개 폐기(임무 완료전까지 601영전 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
+		<TR-Detail>「영식함상전투기 52병형(601 항공대)」를 탑재한 항공모함을 기함으로 두고 렛푸2개 폐기(임무 완료전까지 601영전 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>615</ID>
@@ -644,12 +644,12 @@
 	<Quest>
 		<ID>262</ID>
 		<TR-Name>「니시무라 함대」남방해역에 진출하라!</TR-Name>
-		<TR-Detail>「니시무라 함대」(후소,야마시로,모가미,시구레,미치시오)를 중심으로 한 함대로 5-1 보스방 S승 (1척 자유편성)</TR-Detail>
+		<TR-Detail>「니시무라 함대」(후소,야마시로,모가미,시구레,미치시오)를 중심으로 한 함대로 5-1 보스방 S승 (1척 자유편성,기함자유)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>261</ID>
 		<TR-Name>해상수송로의 안전확보에 힘쓰자! - 주간임무</TR-Name>
-		<TR-Detail>진수부 정면 대잠 초계(1-5) S승 3회</TR-Detail>
+		<TR-Detail>진수부 정면 대잠 초계(1-5) A승 이상 3회</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>260</ID>
@@ -829,7 +829,7 @@
 	<Quest>
 		<ID>145</ID>
 		<TR-Name>전함을 주력으로 한 수상타격부대를 편성하라!</TR-Name>
-		<TR-Detail>야마토급, 나가토급, 이세급, 후소급 중 3척과 경순 1척의 수상타격부대를 배치</TR-Detail>
+		<TR-Detail>야마토급, 나가토급, 이세급, 후소급 중 3척과 경순 1척의 수상타격부대를 배치 (해당 급의 함들을 4척 이상 편성 시 달성 불가)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>144</ID>

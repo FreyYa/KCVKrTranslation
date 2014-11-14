@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.21">
+<Ships Version="1.0.22">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>나가토</TR-Name>
@@ -632,6 +632,10 @@
     <JP-Name>潮改</JP-Name>
     <TR-Name>우시오改</TR-Name>
   </Ship>
+    <Ship>
+    <JP-Name>潮改二</JP-Name>
+    <TR-Name>우시오改2</TR-Name>
+  </Ship>
   <Ship>
     <JP-Name>暁</JP-Name>
     <TR-Name>아카츠키</TR-Name>
@@ -1226,7 +1230,7 @@
   </Ship> 
   <Ship>
     <JP-Name>大鯨</JP-Name>
-    <TR-Name>다이게이</TR-Name>
+    <TR-Name>타이게이</TR-Name>
   </Ship> 
    <Ship>
     <JP-Name>龍驤改二</JP-Name>
@@ -1307,5 +1311,37 @@
   <Ship>
     <JP-Name>早霜改</JP-Name>
     <TR-Name>하야시모改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>秋月</JP-Name>
+    <TR-Name>아키즈키</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>秋月改</JP-Name>
+    <TR-Name>아키즈키改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Prinz Eugen</JP-Name>
+    <TR-Name>프린츠 오이겐</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Prinz Eugen改</JP-Name>
+    <TR-Name>프린츠 오이겐改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝雲</JP-Name>
+    <TR-Name>아사구모</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝雲改</JP-Name>
+    <TR-Name>아사구모改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>野分</JP-Name>
+    <TR-Name>노와키</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>野分改</JP-Name>
+    <TR-Name>노와키改</TR-Name>
   </Ship>
 </Ships>
