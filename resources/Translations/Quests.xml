@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.13">
+<Quests Version="1.1.14">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -442,13 +442,6 @@
 		<TR-Detail>묘우코우, 나치, 아시가라, 하구로를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
-		<ID>A14</ID>
-		<JP-Name>「川内」型軽巡姉妹の全3艦を編成せよ！</JP-Name>
-		<TR-Name>센다이형 경순양함 자매 3척 함대 편성</TR-Name>
-		<JP-Detail>川内型軽巡洋艦、「川内」「神通」「那珂」を同一艦隊に編成せよ！</JP-Detail>
-		<TR-Detail>센다이, 진츠, 나카를 같은 함대에 배치</TR-Detail>
-	</Quest>
-	<Quest>
 		<ID>A13</ID>
 		<JP-Name>戦艦と重巡による主力艦隊を編成せよ！</JP-Name>
 		<TR-Name>전함과 중순양함으로 주력함대 편성</TR-Name>
@@ -885,6 +878,11 @@
 		<ID>115</ID>
 		<TR-Name>제2함대를 편성하라!</TR-Name>
 		<TR-Detail>두번째 함대, 제2함대의 기함을 지정하여 제2함대를 편성하라!</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>109</ID>
+		<TR-Name>센다이형 경순양함 자매 3척 함대 편성</TR-Name>
+		<TR-Detail>센다이, 진츠, 나카를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>105</ID>
