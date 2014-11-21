@@ -7,12 +7,12 @@
   	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.6</Version>
+		<Version>1.1.7</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
 		<Name>Operations</Name>
-		<Version>1.0.8</Version>
+		<Version>1.0.9</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Operations.xml</URL>
 	</Item>
 	<Item>
