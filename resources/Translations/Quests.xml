@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.15">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quests Version="1.1.16">
   <Quest>
     <ID>WF01</ID>
     <JP-Name>式の準備！(その壱)</JP-Name>
@@ -428,13 +428,6 @@
     <TR-Detail>후소우, 야마시로를 같은 함대에 배치</TR-Detail>
   </Quest>
   <Quest>
-    <ID>A16</ID>
-    <JP-Name>「金剛」型による高速戦艦部隊を編成せよ！</JP-Name>
-    <TR-Name>콩고형 고속전함부대 편성</TR-Name>
-    <JP-Detail>金剛型戦艦「金剛」「比叡」「榛名」「霧島」全4隻の高速戦艦を集中配備せよ！</JP-Detail>
-    <TR-Detail>콩고, 히에이, 하루나, 키리시마를 같은 함대에 배치</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>A15</ID>
     <JP-Name>「妙高」型重巡姉妹の全4隻を編成せよ！</JP-Name>
     <TR-Name>묘우코우형 중순양함 자매 4척 함대 편성</TR-Name>
@@ -635,6 +628,11 @@
     <TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
   </Quest>
   <Quest>
+    <ID>266</ID>
+    <TR-Name>「수상반격부대」돌입하라!</TR-Name>
+    <TR-Detail>구축함을 기함으로,중순 1척과 경순1척,구축함 4척으로 구성된 함대로 2-5 보스 S승리 (윗길 색적주의!)</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>265</ID>
     <TR-Name>해상호위강화 월간</TR-Name>
     <TR-Detail>진수부 전면 해역의 대잠초계를 강화하고 적의 잠수함을 제압해 안전한 해상 수송 체제를 확립하라!(1-5 보스전 A승 이상 10회)</TR-Detail>
@@ -825,6 +823,11 @@
     <TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
   </Quest>
   <Quest>
+    <ID>148</ID>
+    <TR-Name>경쾌한「수상반격부대」를 편성하라!</TR-Name>
+    <TR-Detail>구축함「카스미」를 기함으로,중순「아시가라」를 필수로 한 경순1척과 구축함4척(카스미 포함)을 추가한 함대를 편성</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>147</ID>
     <TR-Name>「니시무라 함대」를 재구성하라!</TR-Name>
     <TR-Detail>「후소」「야마시로」「모가미」「시구레」「미치시오」를 중심으로 한 니시무라 함대를 편성하라!</TR-Detail>
@@ -888,6 +891,11 @@
     <ID>117</ID>
     <TR-Name>제2함대로 항모기동부대를 편성하라!</TR-Name>
     <TR-Detail>제2함대에 항모를 배치하여 항모기동부대를 편성하라!</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>116</ID>
+    <TR-Name>콩고형 고속전함부대 편성</TR-Name>
+    <TR-Detail>콩고, 히에이, 하루나, 키리시마를 같은 함대에 배치</TR-Detail>
   </Quest>
   <Quest>
     <ID>115</ID>
