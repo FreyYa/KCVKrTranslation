@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.16">
+<Quests Version="1.1.17">
   <Quest>
     <ID>WF01</ID>
     <JP-Name>式の準備！(その壱)</JP-Name>
@@ -555,12 +555,12 @@
   <Quest>
     <ID>415</ID>
     <TR-Name>원양잠수함작전의 성과를 확대하자!</TR-Name>
-    <TR-Detail>39번원정 추가성공</TR-Detail>
+    <TR-Detail>39번원정 추가 2회 성공</TR-Detail>
   </Quest>
   <Quest>
     <ID>414</ID>
     <TR-Name>원양잠수함작전 실행</TR-Name>
-    <TR-Detail>39번원정 2회 성공</TR-Detail>
+    <TR-Detail>39번원정 성공</TR-Detail>
   </Quest>
   <Quest>
     <ID>413</ID>
