@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.29">
+<Ships Version="1.0.30">
 	<Ship>
 		<JP-Name>軽母ヌ級</JP-Name>
 		<TR-Name>경모 누급</TR-Name>
@@ -191,6 +191,10 @@
 	<Ship>
 		<JP-Name>那智改</JP-Name>
 		<TR-Name>나치改</TR-Name>
+	</Ship>
+  	<Ship>
+		<JP-Name>那智改二</JP-Name>
+		<TR-Name>나치改2</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>那珂</JP-Name>
@@ -1567,6 +1571,10 @@
 	<Ship>
 		<JP-Name>初霜改</JP-Name>
 		<TR-Name>하츠시모改</TR-Name>
+	</Ship>
+  	<Ship>
+		<JP-Name>初霜改二</JP-Name>
+		<TR-Name>하츠시모改2</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>初雪</JP-Name>
