@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.30">
+<Ships Version="1.0.31">
 	<Ship>
 		<JP-Name>軽母ヌ級</JP-Name>
 		<TR-Name>경모 누급</TR-Name>
@@ -1618,7 +1618,7 @@
 	</Ship>
 	<Ship>
 		<JP-Name>護衛要塞</JP-Name>
-		<TR-Name>호위요세</TR-Name>
+		<TR-Name>호위요새</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>古鷹</JP-Name>
