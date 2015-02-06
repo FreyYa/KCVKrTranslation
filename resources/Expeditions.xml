@@ -360,6 +360,18 @@
 		<Bo>-</Bo>
 	</Area>
 	<Area>
+		<Number>32</Number>
+		<Title>원양 연습 항해</Title>
+		<FlagLv>Lv?</FlagLv>
+		<NeedShip>?</NeedShip>
+		<Time>0시간24분</Time>
+		<Fuel>?</Fuel>
+		<Armo>?</Armo>
+		<Metal>?</Metal>
+		<Bo>?</Bo>
+		<Detail>?</Detail>
+	</Area>
+	<Area>
 		<Number>33</Number>
 		<Title>전위 지원 임무</Title>
 		<FlagLv>-</FlagLv>
