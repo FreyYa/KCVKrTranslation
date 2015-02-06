@@ -352,15 +352,6 @@
 	</Area>
 	<Area>
 		<Number>32</Number>
-		<Title>------미구현------</Title>
-		<FlagLv>-</FlagLv>
-		<Fuel>-</Fuel>
-		<Armo>-</Armo>
-		<Metal>-</Metal>
-		<Bo>-</Bo>
-	</Area>
-	<Area>
-		<Number>32</Number>
 		<Title>원양 연습 항해</Title>
 		<FlagLv>Lv?</FlagLv>
 		<NeedShip>?</NeedShip>
