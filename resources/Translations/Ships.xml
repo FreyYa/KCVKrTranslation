@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.31">
+<Ships Version="1.0.32">
+	<Ship>
+		<JP-Name>U-511</JP-Name>
+		<TR-Name>U-511</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>U-511改</JP-Name>
+		<TR-Name>U-511改</TR-Name>
+	</Ship>
 	<Ship>
 		<JP-Name>軽母ヌ級</JP-Name>
 		<TR-Name>경모 누급</TR-Name>
@@ -192,7 +200,7 @@
 		<JP-Name>那智改</JP-Name>
 		<TR-Name>나치改</TR-Name>
 	</Ship>
-  	<Ship>
+	<Ship>
 		<JP-Name>那智改二</JP-Name>
 		<TR-Name>나치改2</TR-Name>
 	</Ship>
@@ -283,6 +291,10 @@
 	<Ship>
 		<JP-Name>Z1改</JP-Name>
 		<TR-Name>레베改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>呂500</JP-Name>
+		<TR-Name>로-500</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>龍驤</JP-Name>
@@ -665,6 +677,14 @@
 		<TR-Name>아라시오改</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>天城改</JP-Name>
+		<TR-Name>아마기改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>天城改</JP-Name>
+		<TR-Name>아마기改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>天津風</JP-Name>
 		<TR-Name>아마츠카제</TR-Name>
 	</Ship>
@@ -687,6 +707,14 @@
 	<Ship>
 		<JP-Name>朝雲改</JP-Name>
 		<TR-Name>아사구모改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>朝霜</JP-Name>
+		<TR-Name>아사시모</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>朝霜改</JP-Name>
+		<TR-Name>아사시모改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>朝潮</JP-Name>
@@ -1321,6 +1349,14 @@
 		<TR-Name>카코改</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>香取</JP-Name>
+		<TR-Name>카토리</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>香取改</JP-Name>
+		<TR-Name>카토리改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>金剛</JP-Name>
 		<TR-Name>콩고</TR-Name>
 	</Ship>
@@ -1572,7 +1608,7 @@
 		<JP-Name>初霜改</JP-Name>
 		<TR-Name>하츠시모改</TR-Name>
 	</Ship>
-  	<Ship>
+	<Ship>
 		<JP-Name>初霜改二</JP-Name>
 		<TR-Name>하츠시모改2</TR-Name>
 	</Ship>

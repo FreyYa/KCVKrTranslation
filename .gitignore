@@ -213,3 +213,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+resources/Translations/new/ShipTypes.xml
+resources/Translations/new/Ships.xml
+resources/Translations/new/Quests.xml
+resources/Translations/new/Operations.xml
+resources/Translations/new/Expeditions.xml
+resources/Translations/new/Equipment.xml

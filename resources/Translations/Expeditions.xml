@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.5">
+<Expeditions Version="1.0.6">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -151,6 +151,11 @@
 		<TR-Detail>잠수함 4척 이상으로 구성된 함대를 편성·파견하여 해외함과의 접촉을 시도하라!</TR-Detail>
 	</Expedition>
 	<Expedition>
+		<ID>32</ID>
+		<TR-Name>원양 연습 항해</TR-Name>
+		<TR-Detail>연습순양함을 기함으로한 연습함대에서 원양 연습항해를 실시,기초 숙련도 향상에 힘쓰자!</TR-Detail>
+	</Expedition>
+	<Expedition>
 		<ID>33</ID>
 		<TR-Name>전위 지원 임무</TR-Name>
 		<TR-Detail>남방 해역에 지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
@@ -196,12 +201,22 @@
 		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
 	</Expedition>
 	<Expedition>
-	    <ID>133</ID>
+		<ID>133</ID>
 		<TR-Name>전위 지원 임무</TR-Name>
 		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
 	</Expedition>
 	<Expedition>
 		<ID>134</ID>
+		<TR-Name>함대 결전 지원 임무</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>141</ID>
+		<TR-Name>전위지원임무</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>142</ID>
 		<TR-Name>함대 결전 지원 임무</TR-Name>
 		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
 	</Expedition>
