@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.9">
+<Operations Version="1.0.10">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>해역 1-1</TR-Name>
@@ -535,5 +535,121 @@
   <Sortie>
     <JP-Name>軽巡戦隊</JP-Name>
     <TR-Name>경순전대</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>トラック泊地</JP-Name>
+    <TR-Name>트랙 정박지</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>潜水艦隊 III群</JP-Name>
+    <TR-Name>잠수함대 III군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>潜水艦隊 IV群</JP-Name>
+    <TR-Name>잠수함대 IV군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>潜水艦隊支援部隊</JP-Name>
+    <TR-Name>잠수함부대 지원부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>潜水艦隊群 旗艦艦隊</JP-Name>
+    <TR-Name>잠수함대군 주력함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>潜水艦隊 I群</JP-Name>
+    <TR-Name>잠수함대 I군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>潜水艦隊 II群</JP-Name>
+    <TR-Name>잠수함대 II군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>前衛ピケット艦隊 I群</JP-Name>
+    <TR-Name>전위 피켓함대 I군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>前衛水上打撃部隊</JP-Name>
+    <TR-Name>전위 수상타격부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>前衛護衛空母群</JP-Name>
+    <TR-Name>전위 호위 항공모항군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵機動部隊先鋒</JP-Name>
+    <TR-Name>적 기동 부대 선봉</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>前衛ピケット艦隊 II群</JP-Name>
+    <TR-Name>전위 피켓함대 II군</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>トラック泊地沖</JP-Name>
+    <TR-Name>트랙정박지 바다</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>分遣索敵艦隊</JP-Name>
+    <TR-Name>분견 색적함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>機動部隊 II群</JP-Name>
+    <TR-Name>기동부대 II군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 主力B群</JP-Name>
+    <TR-Name>임무부대 주력B군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 旗艦艦隊</JP-Name>
+    <TR-Name>임무부대 주력함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>空母機動部隊 V群</JP-Name>
+    <TR-Name>공모기동부대 V군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>空母機動部隊 II群</JP-Name>
+    <TR-Name>공모기동부대 II군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>空母機動部隊 III群</JP-Name>
+    <TR-Name>공모기동부대 III군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>空母機動部隊 主力</JP-Name>
+    <TR-Name>공모기동부대 주력</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>空母機動部隊主力</JP-Name>
+    <TR-Name>공모기동부대주력</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 C群</JP-Name>
+    <TR-Name>임무부대 C군</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>トラック諸島海域</JP-Name>
+    <TR-Name>트랙 제도 해역</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>主力部隊前衛艦隊</JP-Name>
+    <TR-Name>주력부대 전위함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>水上打撃部隊主力</JP-Name>
+    <TR-Name>수상 타격부대 주력</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 B群</JP-Name>
+    <TR-Name>임무부대 B군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 旗艦艦隊</JP-Name>
+    <TR-Name>임무부대 주력함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 A群</JP-Name>
+    <TR-Name>임무부대 A군</TR-Name>
   </Sortie>
 </Operations>

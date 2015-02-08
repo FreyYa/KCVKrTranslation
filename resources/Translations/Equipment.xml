@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.9">
+<Equipment Version="1.1.10">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm 단장포</TR-Name>
@@ -503,5 +503,13 @@
   <Item>
     <JP-Name>試製51cm連装砲</JP-Name>
     <TR-Name>시제품51cm연장포</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>WG42 (Wurfgerät 42)</JP-Name>
+    <TR-Name>WG42 (Wurfgerät 42)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>試製FaT仕様九五式酸素魚雷改</JP-Name>
+    <TR-Name>시제FaT사양 95식 산소어뢰改</TR-Name>
   </Item>
 </Equipment>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.32">
+<Ships Version="1.0.33">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -59,6 +59,10 @@
 	<Ship>
 		<JP-Name>軽巡ホ級 flagship</JP-Name>
 		<TR-Name>경순 호급 flagship</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>軽巡棲鬼</JP-Name>
+		<TR-Name>경순서귀</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>空母ヲ級</JP-Name>
@@ -677,8 +681,8 @@
 		<TR-Name>아라시오改</TR-Name>
 	</Ship>
 	<Ship>
-		<JP-Name>天城改</JP-Name>
-		<TR-Name>아마기改</TR-Name>
+		<JP-Name>天城</JP-Name>
+		<TR-Name>아마기</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>天城改</JP-Name>
@@ -1157,6 +1161,10 @@
 		<TR-Name>전함 루급 flagship</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>戦艦ル級改</JP-Name>
+		<TR-Name>전함 루급改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>戦艦ル級改 flagship</JP-Name>
 		<TR-Name>전함 루급改 flagship</TR-Name>
 	</Ship>
@@ -1175,6 +1183,10 @@
 	<Ship>
 		<JP-Name>戦艦棲姫</JP-Name>
 		<TR-Name>전함서희</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>戦艦水鬼</JP-Name>
+		<TR-Name>전함수귀</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>隼鷹</JP-Name>
