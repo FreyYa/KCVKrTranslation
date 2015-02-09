@@ -2,13 +2,13 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>3.5.0.144</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.5.0r144/KanColleViewer-KR.3.5.r144.zip</URL>
+ 		<Version>3.5.0.145</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.5.0r145/KanColleViewer-KR.3.5.r145.zip</URL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
- 		<Version>1.0.1.0</Version>
-  		<URL>https://github.com/FreyYa/KCVAutoUpdater/releases/download/1.0.1.0/AutoUpdater.zip</URL>
+ 		<Version>1.0.2.0</Version>
+  		<URL>https://github.com/FreyYa/KCVAutoUpdater/releases/download/1.0.2.0/AutoUpdater.zip</URL>
   	</Item>
 	<Item>
 		<Name>Equipment</Name>
