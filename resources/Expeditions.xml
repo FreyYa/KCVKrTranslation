@@ -353,14 +353,14 @@
 	<Area>
 		<Number>32</Number>
 		<Title>원양 연습 항해</Title>
-		<FlagLv>Lv?</FlagLv>
-		<NeedShip>?</NeedShip>
+		<FlagLv>Lv5</FlagLv>
+		<NeedShip>3</NeedShip>
 		<Time>0시간24분</Time>
 		<Fuel>?</Fuel>
 		<Armo>?</Armo>
 		<Metal>?</Metal>
 		<Bo>?</Bo>
-		<Detail>?</Detail>
+		<Detail>함대총합 Lv ?.최소 3척이상.연습순양함 1척(Lv5이상 기함고정),2구축.</Detail>
 	</Area>
 	<Area>
 		<Number>33</Number>
