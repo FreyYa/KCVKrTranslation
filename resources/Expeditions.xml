@@ -354,13 +354,13 @@
 		<Number>32</Number>
 		<Title>원양 연습 항해</Title>
 		<FlagLv>Lv5</FlagLv>
-		<NeedShip>3</NeedShip>
+		<NeedShip>3척(연순1,구축2)</NeedShip>
 		<Time>0시간24분</Time>
-		<Fuel>?</Fuel>
-		<Armo>?</Armo>
-		<Metal>?</Metal>
-		<Bo>?</Bo>
-		<Detail>함대총합 Lv ?.최소 3척이상.연습순양함 1척(Lv5이상 기함고정),2구축.</Detail>
+		<Fuel>50</Fuel>
+		<Armo>50</Armo>
+		<Metal>50</Metal>
+		<Bo>50</Bo>
+		<Detail>연습순양함 기함고정(Lv5이상),2구축</Detail>
 	</Area>
 	<Area>
 		<Number>33</Number>
