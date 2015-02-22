@@ -355,7 +355,7 @@
 		<Title>원양 연습 항해</Title>
 		<FlagLv>Lv5</FlagLv>
 		<NeedShip>3척(연순1,구축2)</NeedShip>
-		<Time>0시간24분</Time>
+		<Time>24시간0분</Time>
 		<Fuel>50</Fuel>
 		<Armo>50</Armo>
 		<Metal>50</Metal>
