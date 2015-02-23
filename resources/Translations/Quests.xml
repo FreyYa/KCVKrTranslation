@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.24">
+<Quests Version="1.1.25">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -619,6 +619,11 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>272</ID>
+		<TR-Name>삼짇날：「히시모찌」를 모으자!</TR-Name>
+		<TR-Detail>특정해역(3-3외 불명)의 적을 격파하여 「히시모찌」를 3개 모으자!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>271</ID>
