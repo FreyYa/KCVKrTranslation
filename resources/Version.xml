@@ -2,8 +2,8 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>3.6.1.155</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.6.1r150/KanColleViewer-KR.3.6.1.r155.zip</URL>
+ 		<Version>3.7.0.156</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.7.0r156/KanColleViewer-KR.3.7.r156.zip</URL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
@@ -39,5 +39,10 @@
 		<Name>Expeditions</Name>
 		<Version>1.0.6</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Expeditions.xml</URL>
+	</Item>
+	<Item>
+		<Name>RemodelSlots</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/RemodelSlots.xml</URL>
 	</Item>
 </Versions>
