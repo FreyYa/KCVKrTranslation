@@ -2,8 +2,8 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>3.7.0.156</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.7.0r156/KanColleViewer-KR.3.7.r156.zip</URL>
+ 		<Version>3.7.0.157</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.7.0r156/KanColleViewer-KR.3.7.0.r157.zip</URL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
@@ -22,7 +22,7 @@
 	</Item>
 	<Item>
 		<Name>Quests</Name>
-		<Version>1.1.26</Version>
+		<Version>1.1.27</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Quests.xml</URL>
 	</Item>
 	<Item>
@@ -42,7 +42,7 @@
 	</Item>
 	<Item>
 		<Name>RemodelSlots</Name>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/RemodelSlots.xml</URL>
 	</Item>
 </Versions>
