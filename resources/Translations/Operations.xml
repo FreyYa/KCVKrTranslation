@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.10">
+<Operations Version="1.0.11">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>해역 1-1</TR-Name>
@@ -648,8 +648,16 @@
     <JP-Name>任務部隊 旗艦艦隊</JP-Name>
     <TR-Name>임무부대 주력함대</TR-Name>
   </Sortie>
-  <Sortie>
+  <Sortie>適はぐれ艦隊
     <JP-Name>任務部隊 A群</JP-Name>
     <TR-Name>임무부대 A군</TR-Name>
+  </Sortie>
+  <Sortie>適侵攻打擊A捃
+    <JP-Name>適はぐれ艦隊</JP-Name>
+    <TR-Name>적 잔존함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>適侵攻打擊A捃</JP-Name>
+    <TR-Name>적 침공타격 A군</TR-Name>
   </Sortie>
 </Operations>
