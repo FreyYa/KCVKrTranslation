@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.28">
+<Quests Version="1.1.29">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -696,7 +696,7 @@
 	<Quest>
 		<ID>258</ID>
 		<TR-Name>「제2전대」발묘!</TR-Name>
-		<TR-Detail>나가토형이나 후소형을 기함으로 한「제2전대」로 4-2 S승 2회</TR-Detail>
+		<TR-Detail>「제2전대」(나가토형과 후소형 4척)을 포함한 함대로 4-2 보스전 S승 2회 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>257</ID>
