@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.29">
+<Quests Version="1.1.30">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -530,7 +530,7 @@
 	</Quest>
 	<Quest>
 		<ID>504</ID>
-		<TR-Name>함대 PX 축제! - 일일반복</TR-Name>
+		<TR-Name>함대 BX 축제! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 15회 보급 (일괄보급은 1회로 계산되니 주의)</TR-Detail>
 	</Quest>
 	<Quest>
@@ -609,6 +609,11 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 3번 성공</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>307</ID>
+		<TR-Name>함대의 숙련도 향상에 힘써라</TR-Name>
+		<TR-Detail>하루 안에 연습전 승리 3회이상 달성</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>304</ID>
 		<TR-Name>연습으로 다른 제독 압도</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 연습에서 B랭크 이상으로 5회 승리</TR-Detail>
@@ -622,6 +627,21 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>275</ID>
+		<TR-Name>출항! 제 18전대</TR-Name>
+		<TR-Detail>2-3 보스전 S승 달성.편성임무와 동일하게 텐류+타츠다 이외의 함이 추가로 편성되어있어도 무방.기함지정 없음</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>274</ID>
+		<TR-Name>제6구축대 대잠초계인거에요!</TR-Name>
+		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 승리 또는 C패배 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>273</ID>
+		<TR-Name>신 편성 미카와 함대 솔로몬 방면으로!</TR-Name>
+		<TR-Detail>쵸우카이改2를 기함으로 한 미카와 함대( 「후루타카」 「카코」 「아오바」 「키누가사」 「유바리」 「텐류」 중 5척 선택)로 5-1 보스전 S승</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>272</ID>
@@ -847,6 +867,16 @@
 		<ID>201</ID>
 		<TR-Name>적 함대 격파! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>153</ID>
+		<TR-Name>제 18전대를 새롭게 편성하라!</TR-Name>
+		<TR-Detail>텐류,타츠다를 포함한 함대를 구성. 다른 함이 있어도 무방. 기함 지정 없음</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>152</ID>
+		<TR-Name>미카와 함대를 새로 편성하여 돌입을 준비하라</TR-Name>
+		<TR-Detail>쵸카이改2를 기함으로 하고  「후루타카」 「카코」 「아오바」 「키누가사」 「유우바리」 「텐류」중 5척을 선택해 총 인원 6척의 함대를 구성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>151</ID>
