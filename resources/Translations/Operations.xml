@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.12">
+<Operations Version="1.0.13">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>해역 1-1</TR-Name>
@@ -15,6 +15,10 @@
   <Map>
     <JP-Name>南西諸島防衛線</JP-Name>
     <TR-Name>해역 1-4</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>鎮守府近海航路</JP-Name>
+    <TR-Name>해역 1-6</TR-Name>
   </Map>
   <Map>
     <JP-Name>カムラン半島</JP-Name>
@@ -659,5 +663,41 @@
   <Sortie>
     <JP-Name>適侵攻打擊A捃</JP-Name>
     <TR-Name>적 침공타격 A군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊C群 前衛艦隊</JP-Name>
+    <TR-Name>임무부대C군 전위함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 II群</JP-Name>
+    <TR-Name>통상파괴 잠수함대 II군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊(第二波)</JP-Name>
+    <TR-Name>임무부대 A군 기동부대(제2파)</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 III群</JP-Name>
+    <TR-Name>통상파괴 잠수함대 III군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊C群 機動部隊</JP-Name>
+    <TR-Name>임무부대C군 기동부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 I群</JP-Name>
+    <TR-Name>통상파괴 잠수함대 I군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊本隊</JP-Name>
+    <TR-Name>임무부대 A군 기동부대 본대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊支援 水上打撃部隊</JP-Name>
+    <TR-Name>임무부대 지원 수상타격부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
+    <TR-Name>임무부대 A군 기동부대(제1파)</TR-Name>
   </Sortie>
 </Operations>

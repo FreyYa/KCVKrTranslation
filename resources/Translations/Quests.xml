@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.31">
+<Quests Version="1.1.32">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -539,6 +539,16 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 군함 5척 수리</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>419</ID>
+		<TR-Name>관함식을 감행하자!</TR-Name>
+		<TR-Detail>「관함식」(8번)원정을 1회 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>418</ID>
+		<TR-Name>관함식예행을 실시하자!</TR-Name>
+		<TR-Detail>「관함식예행」(7번)원정을 2회 성공</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>417</ID>
 		<TR-Name>미끼기동부대지원작전을 수행하라!</TR-Name>
 		<TR-Detail>「미끼 기동부대 지원작전」(15번)원정을 1회 성공</TR-Detail>
@@ -607,6 +617,11 @@
 		<ID>402</ID>
 		<TR-Name>원정 3회 성공 - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 3번 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>308</ID>
+		<TR-Name>연습을 강화, 함대의 숙련도를 향상시키자!</TR-Name>
+		<TR-Detail>함대의 추가 숙련도 향상을 위해 오늘 내에 「연습」4회 승리하라!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>307</ID>
@@ -876,7 +891,7 @@
 	<Quest>
 		<ID>152</ID>
 		<TR-Name>미카와 함대를 새로 편성하여 돌입을 준비하라</TR-Name>
-		<TR-Detail>쵸카이改2를 기함으로 하고  「후루타카」 「카코」 「아오바」 「키누가사」 「유우바리」 「텐류」중 5척을 선택해 총 인원 6척의 함대를 구성</TR-Detail>
+		<TR-Detail>쵸카이改2를 기함으로 하고  「후루타카」 「카코」 「아오바」 「키누가사」 「유바리」 「텐류」중 5척을 선택해 총 인원 6척의 함대를 구성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>151</ID>
