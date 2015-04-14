@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.6">
+<Expeditions Version="1.0.7">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -167,7 +167,7 @@
 	</Expedition>
 	<Expedition>
 		<ID>35</ID>
-		<TR-Name>MO 전략</TR-Name>
+		<TR-Name>MO작전</TR-Name>
 		<TR-Detail>항공모함 2척을 기간으로 MO기동 부대를 출격시키고, 남방 해역의 제해권을 확보하라!</TR-Detail>
 	</Expedition>
 	<Expedition>
