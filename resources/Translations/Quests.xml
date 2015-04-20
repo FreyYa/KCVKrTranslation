@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.32">
+<Quests Version="1.1.33">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -716,7 +716,7 @@
 	<Quest>
 		<ID>261</ID>
 		<TR-Name>해상수송로의 안전확보에 힘쓰자! - 주간임무</TR-Name>
-		<TR-Detail>진수부 정면 대잠 초계(1-5) A승 이상 3회</TR-Detail>
+		<TR-Detail>진수부 정면 대잠 초계(1-5) 보스전 A승 이상 3회</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>260</ID>
