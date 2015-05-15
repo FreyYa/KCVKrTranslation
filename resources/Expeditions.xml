@@ -250,7 +250,7 @@
 		<Number>23</Number>
 		<Title>항공 전함 운용 연습</Title>
 		<FlagLv>Lv50</FlagLv>
-		<NeedShip>6척(항전2 구축2)</NeedShip>
+		<NeedShip>6척(항전2 구축4)</NeedShip>
 		<Time>4시간</Time>
 		<Fuel>-</Fuel>
 		<Armo>20</Armo>
