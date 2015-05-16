@@ -244,19 +244,19 @@
 		<Armo>10</Armo>
 		<Metal>-</Metal>
 		<Bo>-</Bo>
-		<Detail>함대 총합 Lv45</Detail>
+		<Detail>함대 레벨 총합 Lv45</Detail>
 	</Area>
 	<Area>
 		<Number>23</Number>
 		<Title>항공 전함 운용 연습</Title>
 		<FlagLv>Lv50</FlagLv>
-		<NeedShip>6척(항전2 구축4)</NeedShip>
+		<NeedShip>6척(항전2 구축2)</NeedShip>
 		<Time>4시간</Time>
 		<Fuel>-</Fuel>
 		<Armo>20</Armo>
 		<Metal>-</Metal>
 		<Bo>100</Bo>
-		<Detail>함대 총합 Lv200</Detail>
+		<Detail>함대 레벨 총합 Lv200</Detail>
 	</Area>
 	<Area>
 		<Number>24</Number>
@@ -348,7 +348,7 @@
 		<Armo>30</Armo>
 		<Metal>-</Metal>
 		<Bo>-</Bo>
-		<Detail>함대 총합 Lv200. 잠수항모 가능</Detail>
+		<Detail>함대 레벨 총합 Lv200. 잠수항모 가능</Detail>
 	</Area>
 	<Area>
 		<Number>32</Number>
@@ -418,7 +418,7 @@
 		<Armo>380</Armo>
 		<Metal>270</Metal>
 		<Bo>-</Bo>
-		<Detail>함대 총합 Lv200 드럼 4개(장착 칸무스 최소3척)</Detail>
+		<Detail>함대 레벨 총합 Lv200 드럼 4개(장착 칸무스 최소3척)</Detail>
 	</Area>
 	<Area>
 		<Number>38</Number>
@@ -430,7 +430,7 @@
 		<Armo>-</Armo>
 		<Metal>200</Metal>
 		<Bo>-</Bo>
-		<Detail>함대 총합 Lv240 드럼 8개(장착 칸무스 최소4척)</Detail>
+		<Detail>함대 레벨 총합 Lv240 드럼 8개(장착 칸무스 최소4척)</Detail>
 	</Area>
 	<Area>
 		<Number>39</Number>
@@ -442,6 +442,6 @@
 		<Armo>-</Armo>
 		<Metal>300</Metal>
 		<Bo>-</Bo>
-		<Detail>함대 총합 Lv180 타이게이1척(잠수모함), 잠수함(잠수항모가능)4척</Detail>
+		<Detail>함대 레벨 총합 Lv180 타이게이1척(잠수모함), 잠수함(잠수항모가능)4척</Detail>
 	</Area>
 </Expeditions>
