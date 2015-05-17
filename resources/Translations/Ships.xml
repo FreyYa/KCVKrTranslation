@@ -1816,4 +1816,8 @@
 		<JP-Name>飛鷹改</JP-Name>
 		<TR-Name>히요改</TR-Name>
 	</Ship>
+	<Ship>
+		<JP-Name>港湾水鬼</JP-Name>
+		<TR-Name>항만수귀</TR-Name>
+	</Ship>
 </Ships>
