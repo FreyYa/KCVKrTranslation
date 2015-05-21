@@ -2,8 +2,8 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>3.8.0.166</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.8.0r166/KanColleViewer-KR.3.8.0.r166.zip</URL>
+ 		<Version>3.8.1.167</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.8.1r167/KanColleViewer-KR.3.8.1.r167.zip</URL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
@@ -37,7 +37,7 @@
 	</Item>
 	<Item>
 		<Name>Expeditions</Name>
-		<Version>1.0.8</Version>
+		<Version>1.0.9</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Expeditions.xml</URL>
 	</Item>
 	<Item>
