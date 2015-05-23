@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.2">
+<RemodelSlots Version="1.0.3">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -122,7 +122,6 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<SlotItemName>38cm連装砲改</SlotItemName>
 		<Position>2</Position>
 		<AllWeekdays>123</AllWeekdays>
-		<Upgrade1>38cm連装砲改</Upgrade1>
 		<StartEquip>1</StartEquip>
 		<MidEquip>2</MidEquip>
 		<ShipName1>Bismarck</ShipName1>
@@ -224,6 +223,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<MidEquip>2</MidEquip>
 		<LastEquip>2</LastEquip>
 		<ShipName1>Bismarck</ShipName1>
+		<Upgrade1>38cm連装砲改</Upgrade1>
 		<WeekDays1>567</WeekDays1>
 		<ToolTip>초기소모: 35.6cm 연장포, 장비변환: 41cm 연장포x2  소모</ToolTip>
 	</RemodelSlot>
