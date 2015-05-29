@@ -10,6 +10,7 @@
 		<Armo>30</Armo>
 		<Metal>-</Metal>
 		<Bo>-</Bo>
+		<Detail>신버전의 안정화작업이 어느정도 이루어지면 구버전의 원정목록은 지원이 종료됩니다.</Detail>
 	</Area>
 	<Area>
 		<Number>2</Number>
