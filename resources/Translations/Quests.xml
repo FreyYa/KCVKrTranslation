@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.33">
+<Quests Version="1.1.34">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -644,19 +644,29 @@
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
 	</Quest>
 	<Quest>
-		<ID>275</ID>
+		<ID>277</ID>
 		<TR-Name>출항! 제 18전대</TR-Name>
 		<TR-Detail>2-3 보스전 S승 달성.편성임무와 동일하게 텐류+타츠다 이외의 함이 추가로 편성되어있어도 무방.기함지정 없음</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>276</ID>
+		<TR-Name>해상진입부대, 출발하라!</TR-Name>
+		<TR-Detail>히에이,키리시마,나가라,아카츠키,이나즈마,이카즈치로 구성된 함대로 5-1보스전 S승 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>275</ID>
+		<TR-Name>제6구축대 대잠초계를 철저히 하는거예요!</TR-Name>
+		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 A승리 이상 달성(B이하 불가,상기 4척만으로 구성)</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>274</ID>
-		<TR-Name>제6구축대 대잠초계인거에요!</TR-Name>
-		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 승리 또는 C패배 달성</TR-Detail>
+		<TR-Name>제6구축대 대잠초계인거예요!</TR-Name>
+		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 승리 또는 C패배 달성(상기 4척만으로 구성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>273</ID>
 		<TR-Name>신 편성 미카와 함대 솔로몬 방면으로!</TR-Name>
-		<TR-Detail>쵸우카이改2를 기함으로 한 미카와 함대( 「후루타카」 「카코」 「아오바」 「키누가사」 「유바리」 「텐류」 중 5척 선택)로 5-1 보스전 S승</TR-Detail>
+		<TR-Detail>쵸카이改2를 기함으로 한 미카와 함대(「후루타카」 「카코」 「아오바」 「키누가사」 「유바리」 「텐류」 중 5척 선택)로 5-1 보스전 S승</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>272</ID>
@@ -884,8 +894,18 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>155</ID>
+		<TR-Name>신편「제6구축대」를 편성하라!</TR-Name>
+		<TR-Detail>「아카츠키改2」를 기함으로 한「히비키」「이나즈마」「이카즈치」4척으로 구성된 제6구축대를 편성하라!</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>154</ID>
+		<TR-Name>해상진입부대를 편성하라!</TR-Name>
+		<TR-Detail>전함「히에이」「키리시마」,경순「나가라」,구축함「아카츠키」「이나즈마」「이카즈치」로 구성된 해상진입부대를 편성하라!</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>153</ID>
-		<TR-Name>제 18전대를 새롭게 편성하라!</TR-Name>
+		<TR-Name>제18전대를 새롭게 편성하라!</TR-Name>
 		<TR-Detail>텐류,타츠다를 포함한 함대를 구성. 다른 함이 있어도 무방. 기함 지정 없음</TR-Detail>
 	</Quest>
 	<Quest>

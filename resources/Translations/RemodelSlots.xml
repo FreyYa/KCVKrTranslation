@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.3">
+<RemodelSlots Version="1.0.4">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -192,9 +192,9 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName2>吹雪改二</ShipName2>
 		<WeekDays2>1567</WeekDays2>
 		<ToolTip>소모장비: 10cm 연장고각포. 마야改2 장비변환: 12.7cm 연장고각포. 장비변환 후 착용가능함이 변경되므로 주의</ToolTip>
+		<Upgrade2>10cm連装高角砲+高射装置</Upgrade2>
 		<ShipName3>摩耶改二</ShipName3>
 		<WeekDays3>1567</WeekDays3>
-		<Upgrade2>10cm連装高角砲+高射装置</Upgrade2>
 		<Upgrade3>12.7cm高角砲+高射装置</Upgrade3>
 	</RemodelSlot>
 	<RemodelSlot>
@@ -219,11 +219,11 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<SlotItemName>38cm連装砲</SlotItemName>
 		<Position>2</Position>
 		<AllWeekdays>567</AllWeekdays>
+		<Upgrade1>38cm連装砲改</Upgrade1>
 		<StartEquip>1</StartEquip>
 		<MidEquip>2</MidEquip>
 		<LastEquip>2</LastEquip>
 		<ShipName1>Bismarck</ShipName1>
-		<Upgrade1>38cm連装砲改</Upgrade1>
 		<WeekDays1>567</WeekDays1>
 		<ToolTip>초기소모: 35.6cm 연장포, 장비변환: 41cm 연장포x2  소모</ToolTip>
 	</RemodelSlot>
@@ -361,5 +361,72 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName1>吹雪改二</ShipName1>
 		<WeekDays1>567</WeekDays1>
 		<ToolTip>소모장비 : 61cm 3연장어뢰, 장비변환 : 61cm 4연장어뢰 x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>381mm/50 三連装砲</SlotItemName>
+		<Position>3</Position>
+		<AllWeekdays>1234567</AllWeekdays>
+		<Upgrade1>381mm/50 三連装砲改</Upgrade1>
+		<StartEquip>1</StartEquip>
+		<MidEquip>2</MidEquip>
+		<LastEquip>2</LastEquip>
+		<ShipName1>Littorio</ShipName1>
+		<WeekDays1>3456</WeekDays1>
+		<ShipName2>Roma</ShipName2>
+		<WeekDays2>127</WeekDays2>
+		<ToolTip>소모장비: 35.6cm연장포, 장비변환: 25mm 연장기관포⇒381mm/50 3연장포改</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>381mm/50 三連装砲改</SlotItemName>
+		<Position>3</Position>
+		<AllWeekdays>1234567</AllWeekdays>
+		<StartEquip>1</StartEquip>
+		<MidEquip>2</MidEquip>
+		<ShipName1>Littorio</ShipName1>
+		<WeekDays1>127</WeekDays1>
+		<ShipName2>Roma</ShipName2>
+		<WeekDays2>3456</WeekDays2>
+		<ToolTip>소모장비: 41cm연장포</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>90mm単装高角砲</SlotItemName>
+		<Position>1</Position>
+		<AllWeekdays>1234567</AllWeekdays>
+		<StartEquip>1</StartEquip>
+		<MidEquip>2</MidEquip>
+		<ShipName1>Littorio</ShipName1>
+		<WeekDays1>2345</WeekDays1>
+		<ShipName2>Roma</ShipName2>
+		<WeekDays2>1567</WeekDays2>
+		<ToolTip>소모장비: 10cm연장고각포</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>15.2cm単装砲</SlotItemName>
+		<Position>1</Position>
+		<AllWeekdays>12347</AllWeekdays>
+		<Upgrade1>15.2cm連装砲</Upgrade1>
+		<StartEquip>0</StartEquip>
+		<MidEquip>1</MidEquip>
+		<LastEquip>2</LastEquip>
+		<ShipName1>阿賀野</ShipName1>
+		<WeekDays1>123</WeekDays1>
+		<ShipName2>金剛</ShipName2>
+		<WeekDays2>127</WeekDays2>
+		<Upgrade2>15.2cm連装砲</Upgrade2>
+		<ShipName3>山城</ShipName3>
+		<WeekDays3>234</WeekDays3>
+		<Upgrade3>15.2cm連装砲</Upgrade3>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>OTO 152mm三連装速射砲</SlotItemName>
+		<Position>2</Position>
+		<AllWeekdays>1234567</AllWeekdays>
+		<StartEquip>0</StartEquip>
+		<MidEquip>1</MidEquip>
+		<ShipName1>Littorio</ShipName1>
+		<WeekDays1>1347</WeekDays1>
+		<ShipName2>Roma</ShipName2>
+		<WeekDays2>1256</WeekDays2>
+		<ToolTip>소모장비: 15.5cm 삼연장포</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>
