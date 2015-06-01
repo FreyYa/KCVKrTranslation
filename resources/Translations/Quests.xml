@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.1">
+<Quests Version="1.2.2">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -211,6 +211,13 @@
 		<TR-Detail>잠수함 2척이 포함된 함대로 2-3보스전 승리</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>B16</ID>
+		<JP-Name>新「三川艦隊」出撃せよ！</JP-Name>
+		<TR-Name>신 미카와 함대 출격</TR-Name>
+		<JP-Detail>完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！</JP-Detail>
+		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대 배치 후 2-3 해역 보스전 승리</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>B15</ID>
 		<JP-Name>「第五航空戦隊」出撃せよ！</JP-Name>
 		<TR-Name>제5항공전대 출격</TR-Name>
@@ -349,13 +356,6 @@
 		<TR-Name>잠수함대 편성</TR-Name>
 		<JP-Detail>伊号潜水艦2隻からなる潜水艦隊を編成せよ！</JP-Detail>
 		<TR-Detail>이168, 이58, 이19, 이8, 이401 중 2척을 함대에 배치</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>A24</ID>
-		<JP-Name>新「三川艦隊」を編成せよ！</JP-Name>
-		<TR-Name>신 미카와 함대 편성</TR-Name>
-		<JP-Detail>「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A23</ID>
@@ -998,8 +998,8 @@
 	</Quest>
 	<Quest>
 		<ID>124</ID>
-		<TR-Name>신 미카와 함대 출격</TR-Name>
-		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대 배치 후 2-3 해역 보스전 승리</TR-Detail>
+		<TR-Name>신 미카와 함대 편성</TR-Name>
+		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>118</ID>
