@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.4">
+<RemodelSlots Version="1.0.5">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -428,5 +428,80 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName2>Roma</ShipName2>
 		<WeekDays2>1256</WeekDays2>
 		<ToolTip>소모장비: 15.5cm 삼연장포</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>15.2cm連装砲</SlotItemName>
+		<Position>1</Position>
+		<AllWeekdays>1267</AllWeekdays>
+		<Upgrade1>15.2cm連装砲改</Upgrade1>
+		<StartEquip>0</StartEquip>
+		<MidEquip>1</MidEquip>
+		<LastEquip>1</LastEquip>
+		<ShipName1>阿賀野</ShipName1>
+		<WeekDays1>67</WeekDays1>
+		<ShipName2>能代</ShipName2>
+		<WeekDays2>1267</WeekDays2>
+		<ToolTip>갱신: 22호 대 해상전탐⇒15.2cm 연장포改</ToolTip>
+		<Upgrade2>15.2cm連装砲改</Upgrade2>
+		<ShipName3>矢矧</ShipName3>
+		<WeekDays3>2</WeekDays3>
+		<Upgrade3>15.2cm連装砲改</Upgrade3>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>15.2cm連装砲改</SlotItemName>
+		<Position>2</Position>
+		<AllWeekdays>1267</AllWeekdays>
+		<StartEquip>1</StartEquip>
+		<MidEquip>1</MidEquip>
+		<ShipName1>矢矧</ShipName1>
+		<WeekDays1>67</WeekDays1>
+		<ShipName2>酒匂</ShipName2>
+		<WeekDays2>127</WeekDays2>
+		<ToolTip>소모: 15.2cm 연장포</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>試製51cm連装砲</SlotItemName>
+		<Position>3</Position>
+		<AllWeekdays>234</AllWeekdays>
+		<StartEquip>2</StartEquip>
+		<MidEquip>3</MidEquip>
+		<ShipName1>大和改</ShipName1>
+		<WeekDays1>23</WeekDays1>
+		<ShipName2>武蔵改</ShipName2>
+		<WeekDays2>24</WeekDays2>
+		<ToolTip>소모: 46cm 삼연장포</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>96式150cm探照灯</SlotItemName>
+		<Position>2</Position>
+		<AllWeekdays>1267</AllWeekdays>
+		<StartEquip>1</StartEquip>
+		<MidEquip>1</MidEquip>
+		<ShipName1>比叡</ShipName1>
+		<WeekDays1>1267</WeekDays1>
+		<ShipName2>霧島</ShipName2>
+		<WeekDays2>6</WeekDays2>
+		<ToolTip>소모(초기부터): 탐조등</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>探照灯</SlotItemName>
+		<Position>2</Position>
+		<AllWeekdays>1267</AllWeekdays>
+		<Upgrade1>96式150cm探照灯</Upgrade1>
+		<StartEquip>0</StartEquip>
+		<MidEquip>1</MidEquip>
+		<LastEquip>1</LastEquip>
+		<ShipName1>暁</ShipName1>
+		<WeekDays1>67</WeekDays1>
+		<ShipName2>神通</ShipName2>
+		<WeekDays2>167</WeekDays2>
+		<ToolTip>갱신: 숙련견시원⇒96식 150cm 탐조등</ToolTip>
+		<Upgrade2>96式150cm探照灯</Upgrade2>
+		<ShipName3>青葉</ShipName3>
+		<WeekDays3>2</WeekDays3>
+		<Upgrade3>96式150cm探照灯</Upgrade3>
+		<ShipName4>綾波</ShipName4>
+		<WeekDays4>2</WeekDays4>
+		<Upgrade4>96式150cm探照灯</Upgrade4>
 	</RemodelSlot>
 </RemodelSlots>
