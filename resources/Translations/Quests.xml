@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.34">
+<Quests Version="1.2.1">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -209,13 +209,6 @@
 		<TR-Name>잠수함대 출격</TR-Name>
 		<JP-Detail>伊号潜水艦2隻からなる潜水艦隊でオリョール海の敵を撃滅せよ！</JP-Detail>
 		<TR-Detail>잠수함 2척이 포함된 함대로 2-3보스전 승리</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>B16</ID>
-		<JP-Name>新「三川艦隊」出撃せよ！</JP-Name>
-		<TR-Name>신 미카와 함대 출격</TR-Name>
-		<JP-Detail>完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！</JP-Detail>
-		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대 배치 후 2-3 해역 보스전 승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B15</ID>
@@ -645,8 +638,8 @@
 	</Quest>
 	<Quest>
 		<ID>277</ID>
-		<TR-Name>출항! 제 18전대</TR-Name>
-		<TR-Detail>2-3 보스전 S승 달성.편성임무와 동일하게 텐류+타츠다 이외의 함이 추가로 편성되어있어도 무방.기함지정 없음</TR-Detail>
+		<TR-Name>제6구축대 대잠초계를 철저히 하는거예요!</TR-Name>
+		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 A승리 이상 달성(B이하 불가,상기 4척만으로 구성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>276</ID>
@@ -655,8 +648,8 @@
 	</Quest>
 	<Quest>
 		<ID>275</ID>
-		<TR-Name>제6구축대 대잠초계를 철저히 하는거예요!</TR-Name>
-		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 A승리 이상 달성(B이하 불가,상기 4척만으로 구성)</TR-Detail>
+		<TR-Name>출항! 제 18전대</TR-Name>
+		<TR-Detail>2-3 보스전 S승 달성.편성임무와 동일하게 텐류+타츠다 이외의 함이 추가로 편성되어있어도 무방.기함지정 없음</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>274</ID>
@@ -1002,6 +995,11 @@
 		<ID>129</ID>
 		<TR-Name>제5함대 편성</TR-Name>
 		<TR-Detail>나치, 아시가라, 타마, 키소를 함대에 배치</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>124</ID>
+		<TR-Name>신 미카와 함대 출격</TR-Name>
+		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대 배치 후 2-3 해역 보스전 승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>118</ID>
