@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.2">
+<Quests Version="1.2.3">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -356,6 +356,13 @@
 		<TR-Name>잠수함대 편성</TR-Name>
 		<JP-Detail>伊号潜水艦2隻からなる潜水艦隊を編成せよ！</JP-Detail>
 		<TR-Detail>이168, 이58, 이19, 이8, 이401 중 2척을 함대에 배치</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>A24</ID>
+		<JP-Name>新「三川艦隊」を編成せよ！</JP-Name>
+		<TR-Name>신 미카와 함대 편성</TR-Name>
+		<JP-Detail>「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！</JP-Detail>
+		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A23</ID>
@@ -995,11 +1002,6 @@
 		<ID>129</ID>
 		<TR-Name>제5함대 편성</TR-Name>
 		<TR-Detail>나치, 아시가라, 타마, 키소를 함대에 배치</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>124</ID>
-		<TR-Name>신 미카와 함대 편성</TR-Name>
-		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>118</ID>
