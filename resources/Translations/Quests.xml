@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.3">
+<Quests Version="1.2.4">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -746,7 +746,7 @@
 	<Quest>
 		<ID>257</ID>
 		<TR-Name>「수뢰전대」남서쪽으로! - 월간임무</TR-Name>
-		<TR-Detail>경순양함을 기함으로 한 수뢰전대(경순양함 최대 3척,그 외 구축함)을 파견, 남서제도해역(1-4)보스전 승리</TR-Detail>
+		<TR-Detail>경순양함을 기함으로 한 수뢰전대(경순양함 최대 3척, 구축함 1척 이상. 이외의 함종 불가)을 파견, 남서제도해역(1-4)보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>256</ID>
