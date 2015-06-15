@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.13">
+<Operations Version="1.0.14">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>해역 1-1</TR-Name>
@@ -699,5 +699,21 @@
   <Sortie>
     <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
     <TR-Name>임무부대 A군 기동부대(제1파)</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>カレー洋リランカ島沖</JP-Name>
+    <TR-Name>카레양 리랑카섬 앞바다</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>東洋艦隊新編水上打撃部隊</JP-Name>
+    <TR-Name>동양함대 신편성수상 타격부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東洋艦隊機動部隊</JP-Name>
+    <TR-Name>深海東洋艦隊機動部隊</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>リランカ島港湾守備隊</JP-Name>
+    <TR-Name>리랑카섬 항만수비대</TR-Name>
   </Sortie>
 </Operations>

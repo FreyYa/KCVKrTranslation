@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.4">
+<Quests Version="1.2.5">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -215,7 +215,7 @@
 		<JP-Name>新「三川艦隊」出撃せよ！</JP-Name>
 		<TR-Name>신 미카와 함대 출격</TR-Name>
 		<JP-Detail>完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！</JP-Detail>
-		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대 배치 후 2-3 해역 보스전 승리</TR-Detail>
+		<TR-Detail>쵸카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대 배치 후 2-3 해역 보스전 승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B15</ID>
@@ -236,7 +236,7 @@
 		<JP-Name>「第四戦隊」出撃せよ！</JP-Name>
 		<TR-Name>제4전대 출격</TR-Name>
 		<JP-Detail>「愛宕」「高雄」「鳥海」「摩耶」を基幹とする第四戦隊で、バシー島沖の敵を撃滅せよ！</JP-Detail>
-		<TR-Detail>아타고, 타카오, 쵸우카이, 마야를 함대 배치 후 2-2 해역 보스전 승리 (남은 2척은 자유배치)</TR-Detail>
+		<TR-Detail>아타고, 타카오, 쵸카이, 마야를 함대 배치 후 2-2 해역 보스전 승리 (남은 2척은 자유배치)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B12</ID>
@@ -250,7 +250,7 @@
 		<JP-Name>「三川艦隊」出撃せよ！</JP-Name>
 		<TR-Name>미카와 함대 출격</TR-Name>
 		<JP-Detail>新編成した「三川艦隊」で出撃せよ！</JP-Detail>
-		<TR-Detail>쵸우카이, 아오바, 카코, 후루타카, 텐류와 고속함 1척으로 함대 편성 후 승패와 관계 없이 전투 1회 수행</TR-Detail>
+		<TR-Detail>쵸카이, 아오바, 카코, 후루타카, 텐류와 고속함 1척으로 함대 편성 후 승패와 관계 없이 전투 1회 수행</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B10</ID>
@@ -362,7 +362,7 @@
 		<JP-Name>新「三川艦隊」を編成せよ！</JP-Name>
 		<TR-Name>신 미카와 함대 편성</TR-Name>
 		<JP-Detail>「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>쵸우카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대에 배치</TR-Detail>
+		<TR-Detail>쵸카이, 아오바, 키누가사, 카코, 후루타카, 텐류를 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A23</ID>
@@ -376,21 +376,21 @@
 		<JP-Name>「西村艦隊」を編成せよ！</JP-Name>
 		<TR-Name>니시무라 함대 편성</TR-Name>
 		<JP-Detail>「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>후소우, 야마시로, 모가미, 시구레를 함대에 배치</TR-Detail>
+		<TR-Detail>후소, 야마시로, 모가미, 시구레를 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A21</ID>
 		<JP-Name>「第四戦隊」を編成せよ！</JP-Name>
 		<TR-Name>제4전대 편성</TR-Name>
 		<JP-Detail>「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！</JP-Detail>
-		<TR-Detail>아타고, 타카오, 쵸우카이, 마야를 함대 배치</TR-Detail>
+		<TR-Detail>아타고, 타카오, 쵸카이, 마야를 함대 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A20</ID>
 		<JP-Name>「三川艦隊」を編成せよ！</JP-Name>
 		<TR-Name>미카와 함대 편성</TR-Name>
 		<JP-Detail>「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>쵸우카이, 아오바, 카코, 후루타카, 텐류와 고속함 1척으로 함대 편성</TR-Detail>
+		<TR-Detail>쵸카이, 아오바, 카코, 후루타카, 텐류와 고속함 1척으로 함대 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A19</ID>
@@ -402,23 +402,23 @@
 	<Quest>
 		<ID>A18</ID>
 		<JP-Name>「伊勢」型戦艦姉妹の全２隻を編成せよ！</JP-Name>
-		<TR-Name>"이세"형 전함 자매 총 2 척을 편성하라!</TR-Name>
+		<TR-Name>「이세」급 전함 자매 총 2 척을 편성하라!</TR-Name>
 		<JP-Detail>伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！</JP-Detail>
 		<TR-Detail>이세, 휴우가를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A17</ID>
 		<JP-Name>「扶桑」型戦艦姉妹の全２隻を編成せよ！</JP-Name>
-		<TR-Name>"후소"형 전함 자매 총 2 척을 편성하라!</TR-Name>
+		<TR-Name>「후소」급 전함 자매 총 2 척을 편성하라!</TR-Name>
 		<JP-Detail>扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！</JP-Detail>
-		<TR-Detail>후소우, 야마시로를 같은 함대에 배치</TR-Detail>
+		<TR-Detail>후소, 야마시로를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A15</ID>
 		<JP-Name>「妙高」型重巡姉妹の全4隻を編成せよ！</JP-Name>
-		<TR-Name>묘우코우형 중순양함 자매 4척 함대 편성</TR-Name>
+		<TR-Name>「묘크」급 중순양함 자매 4척 함대 편성</TR-Name>
 		<JP-Detail>妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！</JP-Detail>
-		<TR-Detail>묘우코우, 나치, 아시가라, 하구로를 같은 함대에 배치</TR-Detail>
+		<TR-Detail>묘코, 나치, 아시가라, 하구로를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A13</ID>
@@ -821,7 +821,7 @@
 	<Quest>
 		<ID>229</ID>
 		<TR-Name>적 동방함대 격멸</TR-Name>
-		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 4-1~4 해역에서 보스전 12회 승리</TR-Detail>
+		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 4-1~4-5 해역에서 보스전 12회 승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>228</ID>

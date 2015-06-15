@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.40">
+<Ships Version="1.0.42">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -303,6 +303,10 @@
 	<Ship>
 		<JP-Name>Roma</JP-Name>
 		<TR-Name>로마</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Roma改</JP-Name>
+		<TR-Name>로마改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>龍驤</JP-Name>
@@ -804,10 +808,10 @@
 		<JP-Name>暁改</JP-Name>
 		<TR-Name>아카츠키改</TR-Name>
 	</Ship>
-  <Ship>
-    <JP-Name>暁改二</JP-Name>
-    <TR-Name>아카츠키改2</TR-Name>
-  </Ship>
+	<Ship>
+		<JP-Name>暁改二</JP-Name>
+		<TR-Name>아카츠키改2</TR-Name>
+	</Ship>
 	<Ship>
 		<JP-Name>曙</JP-Name>
 		<TR-Name>아케보노</TR-Name>
@@ -1409,6 +1413,10 @@
 		<TR-Name>카코改</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>加古改二</JP-Name>
+		<TR-Name>카코改2</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>香取</JP-Name>
 		<TR-Name>카토리</TR-Name>
 	</Ship>
@@ -1717,6 +1725,10 @@
 		<TR-Name>항만서희</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>港湾水鬼</JP-Name>
+		<TR-Name>항만수귀</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>鳳翔</JP-Name>
 		<TR-Name>호쇼</TR-Name>
 	</Ship>
@@ -1819,9 +1831,5 @@
 	<Ship>
 		<JP-Name>飛鷹改</JP-Name>
 		<TR-Name>히요改</TR-Name>
-	</Ship>
-	<Ship>
-		<JP-Name>港湾水鬼</JP-Name>
-		<TR-Name>항만수귀</TR-Name>
 	</Ship>
 </Ships>

@@ -12,22 +12,22 @@
   	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.15</Version>
+		<Version>1.1.16</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
 		<Name>Operations</Name>
-		<Version>1.0.13</Version>
+		<Version>1.0.14</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Operations.xml</URL>
 	</Item>
 	<Item>
 		<Name>Quests</Name>
-		<Version>1.2.4</Version>
+		<Version>1.2.5</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Quests.xml</URL>
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.40</Version>
+		<Version>1.0.42</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
