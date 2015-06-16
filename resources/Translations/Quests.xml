@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.5">
+<Quests Version="1.2.6">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -19,7 +19,7 @@
 		<JP-Name>二人でする初めての任務！</JP-Name>
 		<TR-Name>둘이 같이 하는 첫 임무!</TR-Name>
 		<JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
-		<TR-Detail>강한 유대 관계를 맺은 칸무스를 기함으로 하고 4-3에서 승리!</TR-Detail>
+		<TR-Detail>100Lv이상 칸무스를 1함대 기함으로 하고 4-3 보스전 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>WA02</ID>
