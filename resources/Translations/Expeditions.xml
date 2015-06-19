@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.12">
+<Expeditions Version="1.0.13">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -280,6 +280,7 @@
 		<ArmoLoss>70</ArmoLoss>
 		<Fuel>320</Fuel>
 		<Detail>총합 Lv30 드럼3개(장착칸무스 최소3척)</Detail>
+		<TotalLv>30</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>22</ID>
@@ -293,6 +294,7 @@
 		<FuelLoss>80</FuelLoss>
 		<ArmoLoss>70</ArmoLoss>
 		<Detail>함대 레벨 총합 Lv45</Detail>
+		<TotalLv>45</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>23</ID>
@@ -307,6 +309,7 @@
 		<ArmoLoss>80</ArmoLoss>
 		<Bo>100</Bo>
 		<Detail>함대 레벨 총합 Lv200</Detail>
+		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>24</ID>
@@ -321,6 +324,7 @@
 		<Fuel>500</Fuel>
 		<Bo>150</Bo>
 		<Detail>경순양함 기함고정, 함대 레벨 총합 Lv200</Detail>
+		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>25</ID>
@@ -413,6 +417,7 @@
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>0</ArmoLoss>
 		<Detail>함대 레벨 총합 Lv200. 잠수항모 가능</Detail>
+		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>32</ID>
@@ -490,6 +495,7 @@
 		<ArmoLoss>80</ArmoLoss>
 		<Metal>270</Metal>
 		<Detail>함대 레벨 총합 Lv200 드럼 4개(장착 칸무스 최소3척)</Detail>
+		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>38</ID>
@@ -504,6 +510,7 @@
 		<Metal>200</Metal>
 		<Fuel>420</Fuel>
 		<Detail>함대 레벨 총합 Lv240 드럼 8개(장착 칸무스 최소4척)</Detail>
+		<TotalLv>240</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>39</ID>
@@ -517,6 +524,7 @@
 		<ArmoLoss>90</ArmoLoss>
 		<Metal>300</Metal>
 		<Detail>함대 레벨 총합 Lv180 타이게이1척(잠수모함), 잠수함(잠수항모가능)4척</Detail>
+		<TotalLv>180</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>40</ID>
@@ -532,6 +540,7 @@
 		<Fuel>300</Fuel>
 		<Bo>100</Bo>
 		<Detail>경순양함 기함 고정, 함대 레벨 총합 Lv150</Detail>
+		<TotalLv>150</TotalLv>
 	</Expedition>
 	<Expedition>
 		<ID>125</ID>
