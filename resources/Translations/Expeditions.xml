@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.13">
+<Expeditions Version="1.0.14">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -324,6 +324,7 @@
 		<Fuel>500</Fuel>
 		<Bo>150</Bo>
 		<Detail>경순양함 기함고정, 함대 레벨 총합 Lv200</Detail>
+		<FlagShipType>3</FlagShipType>
 		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
@@ -433,6 +434,7 @@
 		<Metal>50</Metal>
 		<Fuel>50</Fuel>
 		<Bo>50</Bo>
+		<FlagShipType>21</FlagShipType>
 		<Detail>연습순양함 기함고정(Lv5이상)</Detail>
 	</Expedition>
 	<Expedition>
@@ -541,6 +543,7 @@
 		<Bo>100</Bo>
 		<Detail>경순양함 기함 고정, 함대 레벨 총합 Lv150</Detail>
 		<TotalLv>150</TotalLv>
+		<FlagShipType>3</FlagShipType>
 	</Expedition>
 	<Expedition>
 		<ID>125</ID>
