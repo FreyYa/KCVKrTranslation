@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.15">
+<Expeditions Version="1.0.16">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -199,6 +199,7 @@
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
 		<Special1>7;11</Special1>
 		<Special2>16;11</Special2>
+		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>16</ID>
@@ -244,6 +245,7 @@
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
 		<Special1>7;11</Special1>
 		<Special2>16;11</Special2>
+		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>19</ID>
@@ -359,6 +361,7 @@
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
 		<Special1>7;11</Special1>
 		<Special2>16;11</Special2>
+		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>27</ID>
@@ -482,6 +485,7 @@
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
 		<Special1>7;11</Special1>
 		<Special2>16;11</Special2>
+		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>36</ID>
@@ -511,8 +515,8 @@
 		<ArmoLoss>80</ArmoLoss>
 		<Metal>270</Metal>
 		<Detail>함대 레벨 총합 Lv200 드럼 4개(장착 칸무스 최소3척)</Detail>
-		<DrumCount>4;3</DrumCount>
 		<TotalLv>200</TotalLv>
+		<DrumCount>4;3</DrumCount>
 	</Expedition>
 	<Expedition>
 		<ID>38</ID>
@@ -527,8 +531,8 @@
 		<Metal>200</Metal>
 		<Fuel>420</Fuel>
 		<Detail>함대 레벨 총합 Lv240 드럼 8개(장착 칸무스 최소4척)</Detail>
-		<DrumCount>8;4</DrumCount>
 		<TotalLv>240</TotalLv>
+		<DrumCount>8;4</DrumCount>
 	</Expedition>
 	<Expedition>
 		<ID>39</ID>
