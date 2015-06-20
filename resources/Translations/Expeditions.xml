@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.14">
+<Expeditions Version="1.0.15">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -197,6 +197,8 @@
 		<Metal>300</Metal>
 		<Bo>400</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
+		<Special1>7;11</Special1>
+		<Special2>16;11</Special2>
 	</Expedition>
 	<Expedition>
 		<ID>16</ID>
@@ -240,6 +242,8 @@
 		<Metal>300</Metal>
 		<Bo>100</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
+		<Special1>7;11</Special1>
+		<Special2>16;11</Special2>
 	</Expedition>
 	<Expedition>
 		<ID>19</ID>
@@ -281,6 +285,7 @@
 		<Fuel>320</Fuel>
 		<Detail>총합 Lv30 드럼3개(장착칸무스 최소3척)</Detail>
 		<TotalLv>30</TotalLv>
+		<DrumCount>3;3</DrumCount>
 	</Expedition>
 	<Expedition>
 		<ID>22</ID>
@@ -324,8 +329,8 @@
 		<Fuel>500</Fuel>
 		<Bo>150</Bo>
 		<Detail>경순양함 기함고정, 함대 레벨 총합 Lv200</Detail>
-		<FlagShipType>3</FlagShipType>
 		<TotalLv>200</TotalLv>
+		<FlagShipType>3</FlagShipType>
 	</Expedition>
 	<Expedition>
 		<ID>25</ID>
@@ -352,6 +357,8 @@
 		<ArmoLoss>80</ArmoLoss>
 		<Bo>900</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
+		<Special1>7;11</Special1>
+		<Special2>16;11</Special2>
 	</Expedition>
 	<Expedition>
 		<ID>27</ID>
@@ -365,6 +372,7 @@
 		<ArmoLoss>80</ArmoLoss>
 		<Metal>800</Metal>
 		<Detail>잠수항모 가능</Detail>
+		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>28</ID>
@@ -379,6 +387,7 @@
 		<Metal>900</Metal>
 		<Bo>350</Bo>
 		<Detail>잠수항모 가능</Detail>
+		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>29</ID>
@@ -392,6 +401,7 @@
 		<ArmoLoss>40</ArmoLoss>
 		<Bo>100</Bo>
 		<Detail>잠수항모 가능</Detail>
+		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>30</ID>
@@ -405,6 +415,7 @@
 		<ArmoLoss>70</ArmoLoss>
 		<Bo>100</Bo>
 		<Detail>잠수항모 가능</Detail>
+		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>31</ID>
@@ -418,6 +429,7 @@
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>0</ArmoLoss>
 		<Detail>함대 레벨 총합 Lv200. 잠수항모 가능</Detail>
+		<Special1>14;13</Special1>
 		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
@@ -434,8 +446,8 @@
 		<Metal>50</Metal>
 		<Fuel>50</Fuel>
 		<Bo>50</Bo>
-		<FlagShipType>21</FlagShipType>
 		<Detail>연습순양함 기함고정(Lv5이상)</Detail>
+		<FlagShipType>21</FlagShipType>
 	</Expedition>
 	<Expedition>
 		<ID>33</ID>
@@ -468,6 +480,8 @@
 		<Metal>240</Metal>
 		<Bo>280</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
+		<Special1>7;11</Special1>
+		<Special2>16;11</Special2>
 	</Expedition>
 	<Expedition>
 		<ID>36</ID>
@@ -497,6 +511,7 @@
 		<ArmoLoss>80</ArmoLoss>
 		<Metal>270</Metal>
 		<Detail>함대 레벨 총합 Lv200 드럼 4개(장착 칸무스 최소3척)</Detail>
+		<DrumCount>4;3</DrumCount>
 		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
@@ -512,6 +527,7 @@
 		<Metal>200</Metal>
 		<Fuel>420</Fuel>
 		<Detail>함대 레벨 총합 Lv240 드럼 8개(장착 칸무스 최소4척)</Detail>
+		<DrumCount>8;4</DrumCount>
 		<TotalLv>240</TotalLv>
 	</Expedition>
 	<Expedition>
@@ -526,6 +542,7 @@
 		<ArmoLoss>90</ArmoLoss>
 		<Metal>300</Metal>
 		<Detail>함대 레벨 총합 Lv180 타이게이1척(잠수모함), 잠수함(잠수항모가능)4척</Detail>
+		<Special1>14;13</Special1>
 		<TotalLv>180</TotalLv>
 	</Expedition>
 	<Expedition>
