@@ -1,43 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
+대<?xml version="1.0" encoding="utf-8"?>
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>3.4.0.141</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.4.0r140/KanColleViewer-KR.3.4.r141.zip</URL>
+ 		<Version>3.8.2.182</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.8.2r182/KanColleViewer-KR.3.8.2.r182.zip</URL>
+		<NoticeURL>http://kcvkr.tistory.com/92</NoticeURL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
- 		<Version>1.0.8.0</Version>
-  		<URL>https://github.com/FreyYa/KCVAutoUpdater/releases/download/1.0.8.0/AutoUpdater.zip</URL>
+ 		<Version>1.0.9.0</Version>
+  		<URL>https://github.com/FreyYa/KCVAutoUpdater/releases/download/1.0.9.0/AutoUpdater.zip</URL>
   	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.9</Version>
+		<Version>1.1.16</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
 		<Name>Operations</Name>
-		<Version>1.0.9</Version>
+		<Version>1.0.15</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Operations.xml</URL>
 	</Item>
 	<Item>
 		<Name>Quests</Name>
-		<Version>1.1.23</Version>
+		<Version>1.2.6</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Quests.xml</URL>
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.31</Version>
+		<Version>1.0.42</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
 		<Name>ShipTypes</Name>
-		<Version>1.0.4</Version>
+		<Version>1.0.5</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/ShipTypes.xml</URL>
 	</Item>
 	<Item>
 		<Name>Expeditions</Name>
-		<Version>1.0.5</Version>
+		<Version>1.0.16</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Expeditions.xml</URL>
+	</Item>
+	<Item>
+		<Name>RemodelSlots</Name>
+		<Version>1.0.5</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/RemodelSlots.xml</URL>
 	</Item>
 </Versions>
