@@ -2,9 +2,9 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>3.8.2.182</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.8.2r182/KanColleViewer-KR.3.8.2.r182.zip</URL>
-		<NoticeURL>http://kcvkr.tistory.com/92</NoticeURL>
+ 		<Version>3.8.2.183</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.8.2r183/KanColleViewer-KR.3.8.2.r183.zip</URL>
+		<NoticeURL>http://kcvkr.tistory.com/93</NoticeURL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
@@ -43,7 +43,7 @@
 	</Item>
 	<Item>
 		<Name>RemodelSlots</Name>
-		<Version>1.0.5</Version>
+		<Version>1.0.6</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/RemodelSlots.xml</URL>
 	</Item>
 </Versions>

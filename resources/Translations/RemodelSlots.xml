@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.5">
+<RemodelSlots Version="1.0.6">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -503,5 +503,37 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName4>綾波</ShipName4>
 		<WeekDays4>2</WeekDays4>
 		<Upgrade4>96式150cm探照灯</Upgrade4>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>22号対水上電探</SlotItemName>
+		<Position>2</Position>
+		<AllWeekdays>1234567</AllWeekdays>
+		<Upgrade1>22号対水上電探改四</Upgrade1>
+		<StartEquip>1</StartEquip>
+		<MidEquip>2</MidEquip>
+		<LastEquip>3</LastEquip>
+		<ShipName1>日向</ShipName1>
+		<WeekDays1>1267</WeekDays1>
+		<ShipName2>夕雲</ShipName2>
+		<WeekDays2>2367</WeekDays2>
+		<ToolTip>갱신: 22호 대수상 레이더改四</ToolTip>
+		<Upgrade2>22号対水上電探改四</Upgrade2>
+		<ShipName3>島風</ShipName3>
+		<WeekDays3>4567</WeekDays3>
+		<Upgrade3>22号対水上電探改四</Upgrade3>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>22号対水上電探改四</SlotItemName>
+		<Position>1</Position>
+		<AllWeekdays>1234567</AllWeekdays>
+		<StartEquip>1</StartEquip>
+		<MidEquip>1</MidEquip>
+		<ShipName1>妙高改二</ShipName1>
+		<WeekDays1>1567</WeekDays1>
+		<ShipName2>羽黒改二</ShipName2>
+		<WeekDays2>1267</WeekDays2>
+		<ToolTip>소모(초기부터): 22호 대수상전탐. ★6부터 동일장비 소모</ToolTip>
+		<ShipName3>金剛改二</ShipName3>
+		<WeekDays3>3456</WeekDays3>
 	</RemodelSlot>
 </RemodelSlots>
