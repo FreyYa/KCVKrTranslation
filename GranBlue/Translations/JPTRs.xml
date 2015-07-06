@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<JPTRs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<JPTRs Version="1.0.0">
 	<JPTR>
 		<JPstring>獣</JPstring>
 		<TRstring>수</TRstring>
@@ -57,6 +57,7 @@
 		<TRstring>여기사</TRstring>
 	</JPTR>
 	<JPTR>
+		<TRstring>잔크틴젤</TRstring>
 		<JPstring>ザンクティンゼル</JPstring>
 	</JPTR>
 	<JPTR>
@@ -150,5 +151,117 @@
 	<JPTR>
 		<JPstring>スツルム</JPstring>
 		<TRstring>슈투름</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>エルタ</JPstring>
+		<TRstring>엘타</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>セレフィラ</JPstring>
+		<TRstring>세레피라</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>キハール</JPstring>
+		<TRstring>키할</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ミドガルズオルム</JPstring>
+		<TRstring>미드가르드오름</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ゼタ</JPstring>
+		<TRstring>제타</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>アルベスの槍</JPstring>
+		<TRstring>알베스의 창</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>イスタルシア</JPstring>
+		<TRstring>이스타르시아</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>「</JPstring>
+		<TRstring>'</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>」</JPstring>
+		<TRstring>'</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>完全なる空図</JPstring>
+		<TRstring>완전한 공도</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ガキ</JPstring>
+		<TRstring>꼬맹이</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ガスタルガ</JPstring>
+		<TRstring>가스타루가</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ガスタルガ</JPstring>
+		<TRstring>가스타루가</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>真面目そうな騎空士</JPstring>
+		<TRstring>성실해보이는 기공사</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ガスタラ</JPstring>
+		<TRstring>가스타라</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>リヴァイアサン</JPstring>
+		<TRstring>리바이어선</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>イオ</JPstring>
+		<TRstring>이오</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>オイゲン</JPstring>
+		<TRstring>오이겐</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>アタシ</JPstring>
+		<TRstring>私</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>見習い兵</JPstring>
+		<TRstring>견습병사</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>女の子</JPstring>
+		<TRstring>여자아이</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ロゼッタ</JPstring>
+		<TRstring>로제타</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>ヴィーラ</JPstring>
+		<TRstring>뷔라</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>母親</JPstring>
+		<TRstring>모친</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>若者の兵士</JPstring>
+		<TRstring>청년병사</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>初老の兵士</JPstring>
+		<TRstring>늙은병사</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>荒くれ者</JPstring>
+		<TRstring>우락부락한 사람</TRstring>
+	</JPTR>
+	<JPTR>
+		<JPstring>おっと</JPstring>
+		<TRstring>이런!</TRstring>
 	</JPTR>
 </JPTRs>

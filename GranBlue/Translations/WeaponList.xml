@@ -1,0 +1,7559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Weapons Version="1.0.0">
+	<Weapon>
+		<ID>1040000000</ID>
+		<MaxName>吸血剣</MaxName>
+		<Name>ダーインスレイブ</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ヒャズニングルーン</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>445</MinATK>
+		<MaxHP>216</MaxHP>
+		<MaxATK>2580</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040000100</ID>
+		<MaxName>不滅刃</MaxName>
+		<Name>デュランダル</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>イリアスストライク</Secrets>
+		<Skill1>서리의 공인</Skill1>
+		<MinHP>38</MinHP>
+		<MinATK>410</MinATK>
+		<MaxHP>218</MaxHP>
+		<MaxATK>2510</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040000300</ID>
+		<MaxName>龍戮</MaxName>
+		<Name>アスカロン</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>ゲオルギウスブレード</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<Skill2>서리의 공인</Skill2>
+		<MinHP>37</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>217</MaxHP>
+		<MaxATK>2515</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>수속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040000500</ID>
+		<MaxName>始祖聖</MaxName>
+		<Name>カラドボルグ</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>ディヴァイン・パニッシュメント</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<Skill2>지진의 수호</Skill2>
+		<MinHP>37</MinHP>
+		<MinATK>435</MinATK>
+		<MaxHP>224</MaxHP>
+		<MaxATK>2600</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>토속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040000600</ID>
+		<MaxName>災神器</MaxName>
+		<Name>レーヴァテイン</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ヴィゾヴニルフランメ</Secrets>
+		<Skill1>홍련의 수호</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>435</MinATK>
+		<MaxHP>217</MaxHP>
+		<MaxATK>2565</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040001000</ID>
+		<MaxName>澄清宝</MaxName>
+		<Name>オートクレール</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>ロンセスバージェス</Secrets>
+		<Skill1>천광의 수호</Skill1>
+		<Skill2>홍련의 공인</Skill2>
+		<MinHP>38</MinHP>
+		<MinATK>440</MinATK>
+		<MaxHP>226</MaxHP>
+		<MaxATK>2640</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040001300</ID>
+		<MaxName>宝輝剣</MaxName>
+		<Name>ジュワユース</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>ローンスヴァール</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>430</MinATK>
+		<MaxHP>218</MaxHP>
+		<MaxATK>2560</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040001400</ID>
+		<MaxName>大賢聖</MaxName>
+		<Name>宝剣アンダリス</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>剣閃</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>400</MinATK>
+		<MaxHP>210</MaxHP>
+		<MaxATK>2430</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040001600</ID>
+		<MaxName>聖輝流</MaxName>
+		<Name>輝剣クラウ・ソラス</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>ノーブル・エクスキューション</Secrets>
+		<Skill1>서리의 수호</Skill1>
+		<MinHP>39</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>222</MaxHP>
+		<MaxATK>2550</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040001700</ID>
+		<MaxName>水恵剣</MaxName>
+		<Name>マナウィダンブレード</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>フルクトゥアト・マーテル</Secrets>
+		<Skill1>서리의 수호</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>315</MinATK>
+		<MaxHP>175</MaxHP>
+		<MaxATK>2015</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040001800</ID>
+		<MaxName>聖刻</MaxName>
+		<Name>七星剣</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>北斗大極閃</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>420</MinATK>
+		<MaxHP>213</MaxHP>
+		<MaxATK>2500</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040001900</ID>
+		<MaxName>輝勲</MaxName>
+		<Name>フロッティ</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>クリーオウ・ゲッシュ</Secrets>
+		<Skill1>천광의 수호</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>425</MinATK>
+		<MaxHP>220</MaxHP>
+		<MaxATK>2560</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040002000</ID>
+		<Name>エクスカリバー</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>ライオットソード</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>425</MinATK>
+		<MaxHP>220</MaxHP>
+		<MaxATK>2560</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040002100</ID>
+		<MaxName>魚斬</MaxName>
+		<Name>アルバコアブレード</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>トゥンヌスブリッツ</Secrets>
+		<Skill1>나락의 수호</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>345</MinATK>
+		<MaxHP>169</MaxHP>
+		<MaxATK>2045</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040002200</ID>
+		<MaxName>万創剣</MaxName>
+		<Name>世界樹の晶剣・マグナ</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>ネザーマントル</Secrets>
+		<Skill1>창수방진・공인II</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>365</MinATK>
+		<MaxHP>196</MaxHP>
+		<MaxATK>2270</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040002300</ID>
+		<MaxName>青焔</MaxName>
+		<Name>バルムンク</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>クリムゾンカラミティ</Secrets>
+		<Skill1>홍련의 수호</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>335</MinATK>
+		<MaxHP>171</MaxHP>
+		<MaxATK>2035</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040002400</ID>
+		<MaxName>聖刻</MaxName>
+		<Name>七星剣・真</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>北斗大極閃</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>420</MinATK>
+		<MaxHP>216</MaxHP>
+		<MaxATK>2520</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040003100</ID>
+		<MaxName>魂喰</MaxName>
+		<Name>ミストルテイン</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>ブレイザブリク</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<Skill2>홍련의 수호</Skill2>
+		<MinHP>32</MinHP>
+		<MinATK>440</MinATK>
+		<MaxHP>212</MaxHP>
+		<MaxATK>2540</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040003200</ID>
+		<MaxName>禍風剣</MaxName>
+		<Name>風神剣</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>真・烈風</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>330</MinATK>
+		<MaxHP>172</MaxHP>
+		<MaxATK>2030</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040003300</ID>
+		<MaxName>怪緑剣</MaxName>
+		<Name>アンノウンソード</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>未確認生物、荒ぶる。</Secrets>
+		<Skill1>미지의 힘・ATKII</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>174</MaxHP>
+		<MaxATK>2065</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040003400</ID>
+		<MaxName>極愛剣</MaxName>
+		<Name>バレンタインソード</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>デア・パフューム</Secrets>
+		<Skill1>천광의 수호</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>325</MinATK>
+		<MaxHP>173</MaxHP>
+		<MaxATK>2025</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040003500</ID>
+		<MaxName>真救天</MaxName>
+		<Name>スコフニュング</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>マディストリーム</Secrets>
+		<Skill1>불굴의 충의</Skill1>
+		<Skill2>구세의 성검</Skill2>
+		<MinHP>35</MinHP>
+		<MinATK>377</MinATK>
+		<MaxHP>207</MaxHP>
+		<MaxATK>2385</MaxATK>
+		<Skill1Detail>드라이브 버스트의 효과UP</Skill1Detail>
+		<Skill2Detail>자신에 대한 적대심UP</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040003600</ID>
+		<MaxName>狂恋剣</MaxName>
+		<Name>ラスト・シン</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>コンヴィクションネイル</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<Skill2>서리의 공인</Skill2>
+		<MinHP>33</MinHP>
+		<MinATK>445</MinATK>
+		<MaxHP>216</MaxHP>
+		<MaxATK>2580</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>수속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040004300</ID>
+		<MaxName>祖龍剣</MaxName>
+		<Name>バハムートソード・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>콘킬리오・뤼벨</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>205</MaxHP>
+		<MaxATK>2470</MaxATK>
+		<Skill1Detail>휴먼족과 드라프족의 공격력/HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040100300</ID>
+		<MaxName>激情</MaxName>
+		<Name>ベガルタ</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>時雨</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>425</MinATK>
+		<MaxHP>212</MaxHP>
+		<MaxATK>2540</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040100800</ID>
+		<MaxName>桜火</MaxName>
+		<Name>フローレンベルク</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>セレスティアルブレード</Secrets>
+		<Skill1>용약의 마음가짐</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>350</MinATK>
+		<MaxHP>209</MaxHP>
+		<MaxATK>2115</MaxATK>
+		<Skill1Detail>공헌도 상승. 누계공헌도에 보너스가 붙는다</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101000</ID>
+		<MaxName>魔裂</MaxName>
+		<Name>カルンウェナン</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>ヘキセフォールダウン</Secrets>
+		<Skill1>지진의 수호</Skill1>
+		<MinHP>41</MinHP>
+		<MinATK>395</MinATK>
+		<MaxHP>240</MaxHP>
+		<MaxATK>2400</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101100</ID>
+		<MaxName>鳳凰刃</MaxName>
+		<Name>不死鳥の嘴刃</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>真・降焔</Secrets>
+		<Skill1>홍련의 수호</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>320</MinATK>
+		<MaxHP>190</MaxHP>
+		<MaxATK>1930</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101200</ID>
+		<MaxName>密智剣</MaxName>
+		<Name>ネフティスクリス</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>ヘウト・レクイエム</Secrets>
+		<Skill1>광기의 수호</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>315</MinATK>
+		<MaxHP>192</MaxHP>
+		<MaxATK>1930</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101300</ID>
+		<MaxName>輝宝刃</MaxName>
+		<Name>ダイヤモンドエッジ</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>セブンス・ペイン</Secrets>
+		<Skill1>천광의 수호</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>400</MinATK>
+		<MaxHP>245</MaxHP>
+		<MaxATK>2450</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101400</ID>
+		<MaxName>万創刃</MaxName>
+		<Name>世界樹の雫刃・マグナ</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>ネザーマントル</Secrets>
+		<Skill1>창수방진・수호II</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>345</MinATK>
+		<MaxHP>218</MaxHP>
+		<MaxATK>2160</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101500</ID>
+		<MaxName>海叫刃</MaxName>
+		<Name>レヴィアンゲイズ・マグナ</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>水鏡</Secrets>
+		<Skill1>해신방진・공인II</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>219</MaxHP>
+		<MaxATK>2155</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101600</ID>
+		<MaxName>遊獣刃</MaxName>
+		<Name>ヘルウォードダガー</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>ヘルウォード・ダムネーション</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>330</MinATK>
+		<MaxHP>189</MaxHP>
+		<MaxATK>1950</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101700</ID>
+		<MaxName>界統</MaxName>
+		<Name>四天刃</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>四天洛往斬</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>370</MinATK>
+		<MaxHP>227</MaxHP>
+		<MaxATK>2270</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101800</ID>
+		<MaxName>霹靂</MaxName>
+		<Name>雷公刃ユピテル</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>ライトニングバニッシュ</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>41</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>248</MaxHP>
+		<MaxATK>2480</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040101900</ID>
+		<MaxName>奇矯</MaxName>
+		<Name>コムラビ</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>キル</Secrets>
+		<Skill1>나락의 수호</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>430</MinATK>
+		<MaxHP>240</MaxHP>
+		<MaxATK>2460</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040102000</ID>
+		<MaxName>悪戯</MaxName>
+		<Name>トリック・オア・トリート</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>トリック・オア・トリート</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>39</MinHP>
+		<MinATK>420</MinATK>
+		<MaxHP>242</MaxHP>
+		<MaxATK>2450</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040102100</ID>
+		<MaxName>凍露</MaxName>
+		<Name>霧氷剣ぺルソス</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>白宝刃</Secrets>
+		<Skill1>서리의 공인</Skill1>
+		<MinHP>42</MinHP>
+		<MinATK>390</MinATK>
+		<MaxHP>242</MaxHP>
+		<MaxATK>2390</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040102200</ID>
+		<MaxName>界統</MaxName>
+		<Name>四天刃・真</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>四天洛往斬</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>400</MinATK>
+		<MaxHP>240</MaxHP>
+		<MaxATK>2400</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040102900</ID>
+		<MaxName>真兇影</MaxName>
+		<Name>イペタム</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>カウント・ゼロ</Secrets>
+		<Skill1>혼돈에서 나오는 폭식</Skill1>
+		<Skill2>살업의 흉인</Skill2>
+		<MinHP>33</MinHP>
+		<MinATK>389</MinATK>
+		<MaxHP>224</MaxHP>
+		<MaxATK>2301</MaxATK>
+		<Skill1Detail>어빌리티 명중확률UP</Skill1Detail>
+		<Skill2Detail>ディレイ(딜레이)의 데미지UP</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040103000</ID>
+		<Name>ファウスト</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>コズミキコニス</Secrets>
+		<Skill1>삼라만상의 이치</Skill1>
+		<Skill2>금기의 연성</Skill2>
+		<MinHP>38</MinHP>
+		<MinATK>364</MinATK>
+		<MaxHP>229</MaxHP>
+		<MaxATK>2276</MaxATK>
+		<Skill1Detail>士気向上(사기진작)의 효과 상승</Skill1Detail>
+		<Skill2Detail>아군전체의 어빌리티 공헌도UP</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040103700</ID>
+		<MaxName>祖龍刃</MaxName>
+		<Name>バハムートダガー・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>휴먼 아니무스・위스</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>395</MinATK>
+		<MaxHP>229</MaxHP>
+		<MaxATK>2355</MaxATK>
+		<Skill1Detail>휴먼족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040103800</ID>
+		<MaxName>天雲宝</MaxName>
+		<Name>ヘヴンズクラウド</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>ネイチャーワンダース</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<Skill2>천광의 수호</Skill2>
+		<MinHP>39</MinHP>
+		<MinATK>405</MinATK>
+		<MaxHP>239</MaxHP>
+		<MaxATK>2405</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040200200</ID>
+		<MaxName>烈伐</MaxName>
+		<Name>ピラム</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>インパルスドライヴ</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>380</MinATK>
+		<MaxHP>249</MaxHP>
+		<MaxATK>2240</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040200300</ID>
+		<MaxName>絶覇</MaxName>
+		<Name>ブリューナク</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>タスラム</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<Skill2>업화의 수호</Skill2>
+		<MinHP>41</MinHP>
+		<MinATK>395</MinATK>
+		<MaxHP>257</MaxHP>
+		<MaxATK>2315</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 최대 HP상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040200700</ID>
+		<MaxName>仇閃</MaxName>
+		<Name>グラーシーザー</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>モルズスラスト</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<MinHP>39</MinHP>
+		<MinATK>404</MinATK>
+		<MaxHP>255</MaxHP>
+		<MaxATK>2325</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040200800</ID>
+		<MaxName>幻逸</MaxName>
+		<Name>グランテピエ</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>アンドロギュヌス</Secrets>
+		<Skill1>광기의 수호</Skill1>
+		<Skill2>천광의 수호</Skill2>
+		<MinHP>42</MinHP>
+		<MinATK>390</MinATK>
+		<MaxHP>258</MaxHP>
+		<MaxATK>2310</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+		<Skill2Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201300</ID>
+		<MaxName>密智槍</MaxName>
+		<Name>ネフティスフォーク</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>ヘウト・レクイエム</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>207</MaxHP>
+		<MaxATK>1855</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201200</ID>
+		<MaxName>氷冥槍</MaxName>
+		<Name>ウェルギリウス</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>第四円・ジュデッカ</Secrets>
+		<Skill1>서리의 수호</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>205</MaxHP>
+		<MaxATK>1855</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201400</ID>
+		<MaxName>灼業槍</MaxName>
+		<Name>イフリートハルベルト</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>エグゾースト・ノヴァ</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>206</MaxHP>
+		<MaxATK>1860</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201500</ID>
+		<MaxName>吼嵐槍</MaxName>
+		<Name>ティアマトグレイブ・マグナ</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>トルネードディザスター</Secrets>
+		<Skill1>남룡방진・수호II</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>233</MaxHP>
+		<MaxATK>2085</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201600</ID>
+		<MaxName>黎明</MaxName>
+		<Name>一伐槍</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>太一輝極衝</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>42</MinHP>
+		<MinATK>370</MinATK>
+		<MaxHP>251</MaxHP>
+		<MaxATK>2235</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201700</ID>
+		<MaxName>彩命</MaxName>
+		<Name>ガルガンチュア</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>プラトーンスラスト</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<MinHP>44</MinHP>
+		<MinATK>380</MinATK>
+		<MaxHP>260</MaxHP>
+		<MaxATK>2300</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201800</ID>
+		<MaxName>水神戟</MaxName>
+		<Name>トリアイナ</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>雷槍</Secrets>
+		<Skill1>서리의 공인</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>213</MaxHP>
+		<MaxATK>1870</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040201900</ID>
+		<Name>セレストホーン・マグナ</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>黒霧</Secrets>
+		<Skill1>흑무방진・공인II</Skill1>
+		<Skill2>광기의 배수</Skill2>
+		<MinHP>34</MinHP>
+		<MinATK>355</MinATK>
+		<MaxHP>230</MaxHP>
+		<MaxATK>2100</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>풍속성 캐릭터의 HP가 적을수록 공격력이 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040202000</ID>
+		<MaxName>聖守槍</MaxName>
+		<Name>ローゼンメイデン</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>クリムゾン・ネメシス</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>410</MinATK>
+		<MaxHP>260</MaxHP>
+		<MaxATK>2360</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040202100</ID>
+		<MaxName>黎明</MaxName>
+		<Name>一伐槍・真</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>太一輝極衝</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>43</MinHP>
+		<MinATK>385</MinATK>
+		<MaxHP>260</MaxHP>
+		<MaxATK>2300</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040202800</ID>
+		<MaxName>未之刻</MaxName>
+		<Name>天干地支刀・未之飾</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>金牙神然・未之飾</Secrets>
+		<Skill1>나락의 수호</Skill1>
+		<Skill2>광기의 공인</Skill2>
+		<MinHP>41</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>264</MaxHP>
+		<MaxATK>2400</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+		<Skill2Detail>풍속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040202900</ID>
+		<MaxName>禍雷槍</MaxName>
+		<Name>雷神矛</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>真・雷鼓</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>208</MaxHP>
+		<MaxATK>1850</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040203000</ID>
+		<Name>ロムルスの槍</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>セレスティアルスター</Secrets>
+		<Skill1>심연을 비추는 광명</Skill1>
+		<Skill2>군신의 성창</Skill2>
+		<MinHP>40</MinHP>
+		<MinATK>354</MinATK>
+		<MaxHP>246</MaxHP>
+		<MaxATK>2189</MaxATK>
+		<Skill1Detail>リードドライブ(리드 드라이브)사용시에 자신의 HP회복</Skill1Detail>
+		<Skill2Detail>レゾナンスサージ(레조넌스 서지)사용시에 적의 최대 차지 턴이 증가</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040203700</ID>
+		<MaxName>祖龍槍</MaxName>
+		<Name>バハムートスピア・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>엘룬 아니무스・위스</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>380</MinATK>
+		<MaxHP>248</MaxHP>
+		<MaxATK>2260</MaxATK>
+		<Skill1Detail>엘룬족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040203800</ID>
+		<Name>アワリティアスピア</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>響輪</Secrets>
+		<Skill1>지진의 수호</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>209</MaxHP>
+		<MaxATK>1845</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300000</ID>
+		<MaxName>万雷斧</MaxName>
+		<Name>ウコンバサラ</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ミーティアライト</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>425</MinATK>
+		<MaxHP>186</MaxHP>
+		<MaxATK>2550</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300200</ID>
+		<MaxName>狂奔</MaxName>
+		<Name>スラーンド</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>コラプティックホーン</Secrets>
+		<Skill1>서리의 공인</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>430</MinATK>
+		<MaxHP>194</MaxHP>
+		<MaxATK>2630</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300400</ID>
+		<MaxName>断魔</MaxName>
+		<Name>パラシュ</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>大切断</Secrets>
+		<Skill1>지진의 수호</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>440</MinATK>
+		<MaxHP>196</MaxHP>
+		<MaxATK>2680</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300500</ID>
+		<MaxName>鳳凰斧</MaxName>
+		<Name>不死鳥の翼斧</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>真・降焔</Secrets>
+		<Skill1>홍련의 수호</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>350</MinATK>
+		<MaxHP>152</MaxHP>
+		<MaxATK>2120</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300600</ID>
+		<MaxName>矜持の証</MaxName>
+		<Name>閃刃の剣斧</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>閃刃乱舞</Secrets>
+		<Skill1>광기의 수호</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>440</MinATK>
+		<MaxHP>190</MaxHP>
+		<MaxATK>2640</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300700</ID>
+		<MaxName>緋絢</MaxName>
+		<Name>緋紋の絢斧</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>融月緋刃</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>450</MinATK>
+		<MaxHP>190</MaxHP>
+		<MaxATK>2650</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300800</ID>
+		<MaxName>蛇神斧</MaxName>
+		<Name>ミドガルドの裂斧</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>グラットンファング</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>335</MinATK>
+		<MaxHP>155</MaxHP>
+		<MaxATK>2115</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040300900</ID>
+		<MaxName>吼嵐斧</MaxName>
+		<Name>ティアマトアムード・マグナ</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>トルネードディザスター</Secrets>
+		<Skill1>남룡방진・수호II</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>390</MinATK>
+		<MaxHP>172</MaxHP>
+		<MaxATK>2390</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040301000</ID>
+		<MaxName>百煌斧</MaxName>
+		<Name>ヘカトンケイレス</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>無常の雷火</Secrets>
+		<Skill1>천광의 수호</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>154</MaxHP>
+		<MaxATK>2120</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040301100</ID>
+		<Name>シュヴァリエブージ・マグナ</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>光の刃</Secrets>
+		<Skill1>기해방진・수호II</Skill1>
+		<Skill2>서리의 공인</Skill2>
+		<MinHP>28</MinHP>
+		<MinATK>385</MinATK>
+		<MaxHP>173</MaxHP>
+		<MaxATK>2385</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+		<Skill2Detail>수속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040301200</ID>
+		<MaxName>邪眼</MaxName>
+		<Name>ヴァサーゴ</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>デアデビル・キャモン</Secrets>
+		<Skill1>나락의 수호</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>460</MinATK>
+		<MaxHP>188</MaxHP>
+		<MaxATK>2660</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040301300</ID>
+		<MaxName>歴礎</MaxName>
+		<Name>三寅斧</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>絶冴羅爪三鉾環</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>405</MinATK>
+		<MaxHP>181</MaxHP>
+		<MaxATK>2495</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040301400</ID>
+		<MaxName>幽絶斧</MaxName>
+		<Name>セレストザグナル・マグナ</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>黒霧</Secrets>
+		<Skill1>흑무방진・공인II</Skill1>
+		<Skill2>서리의 끝</Skill2>
+		<MinHP>24</MinHP>
+		<MinATK>405</MinATK>
+		<MaxHP>169</MaxHP>
+		<MaxATK>2405</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>수속성 캐릭터가 드물게 카운터를 발동. 스킬레벨 상승으로 카운터 데미지 업(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040301500</ID>
+		<MaxName>暴狼斧</MaxName>
+		<Name>グレイプニル</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ヴァナルガンド・クライ</Secrets>
+		<Skill1>서리의 양손</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>330</MinATK>
+		<MaxHP>156</MaxHP>
+		<MaxATK>2110</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 더블어택 확률상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040301600</ID>
+		<MaxName>歴礎</MaxName>
+		<Name>三寅斧・真</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>絶冴羅爪三鉾環</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>440</MinATK>
+		<MaxHP>192</MaxHP>
+		<MaxATK>2640</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040302300</ID>
+		<MaxName>真覇王</MaxName>
+		<Name>アヴェンジャー</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>エクスハティオ</Secrets>
+		<Skill1>검성의 영혼</Skill1>
+		<Skill2>패왕의 황송</Skill2>
+		<MinHP>28</MinHP>
+		<MinATK>416</MinATK>
+		<MaxHP>180</MaxHP>
+		<MaxATK>2519</MaxATK>
+		<Skill1Detail>レイジ(레이지)의 효과시간연장(발동유저 한정)</Skill1Detail>
+		<Skill2Detail>レイジ(레이지)의 사용간격단축</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040303000</ID>
+		<MaxName>祖龍斧</MaxName>
+		<Name>バハムートアクス・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>드라프 아니무스・위스</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>435</MinATK>
+		<MaxHP>183</MaxHP>
+		<MaxATK>2585</MaxATK>
+		<Skill1Detail>드라프족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040303100</ID>
+		<MaxName>怪桃斧</MaxName>
+		<Name>アンノウンスタンプ</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>モーメントパス</Secrets>
+		<Skill1>미지의 힘・ATK</Skill1>
+		<Skill2>미지의 힘・VIT</Skill2>
+		<MinHP>26</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>157</MaxHP>
+		<MaxATK>2141</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+		<Skill2Detail>무기속성 캐릭터의 최대 HP상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040400200</ID>
+		<MaxName>遊翼</MaxName>
+		<Name>ケーリュケイオン</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>トリスメギストス</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<MinHP>46</MinHP>
+		<MinATK>350</MinATK>
+		<MaxHP>277</MaxHP>
+		<MaxATK>2095</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040400300</ID>
+		<MaxName>極癒</MaxName>
+		<Name>アスクレピオスの杖</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ホーリーノヴァ</Secrets>
+		<Skill1>치유의 힘</Skill1>
+		<MinHP>47</MinHP>
+		<MinATK>365</MinATK>
+		<MaxHP>288</MaxHP>
+		<MaxATK>2160</MaxATK>
+		<Skill1Detail>회복 타입의 회복효과상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040400800</ID>
+		<MaxName>輝杖</MaxName>
+		<Name>稜鏡の鎚杖</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>シタ</Secrets>
+		<Skill1>천광의 수호</Skill1>
+		<MinHP>50</MinHP>
+		<MinATK>370</MinATK>
+		<MaxHP>298</MaxHP>
+		<MaxATK>2230</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040400900</ID>
+		<MaxName>春呼杖</MaxName>
+		<Name>氷晶杖</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>フローズンヴィジョン</Secrets>
+		<Skill1>서리의 수호</Skill1>
+		<Skill2>신조 토벌계획III</Skill2>
+		<MinHP>48</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>280</MaxHP>
+		<MaxATK>2080</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+		<Skill2Detail>신조족에 대한 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401000</ID>
+		<MaxName>禁呪</MaxName>
+		<Name>封鍵クラウストルム</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>クローストゥユー</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>49</MinHP>
+		<MinATK>365</MinATK>
+		<MaxHP>293</MaxHP>
+		<MaxATK>2195</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401100</ID>
+		<MaxName>蛇創杖</MaxName>
+		<Name>ウロボロス</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>アルス・マグナ</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<MinHP>49</MinHP>
+		<MinATK>355</MinATK>
+		<MaxHP>289</MaxHP>
+		<MaxATK>2155</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401200</ID>
+		<MaxName>万魔杖</MaxName>
+		<Name>イリュージョンセプター</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>メテオスウォーム</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>46</MinHP>
+		<MinATK>370</MinATK>
+		<MaxHP>286</MaxHP>
+		<MaxATK>2170</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401300</ID>
+		<MaxName>陽花</MaxName>
+		<Name>サンフラワーワンド</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>エレメンタルカスケード</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>44</MinHP>
+		<MinATK>360</MinATK>
+		<MaxHP>276</MaxHP>
+		<MaxATK>2100</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401400</ID>
+		<MaxName>海叫杖</MaxName>
+		<Name>レヴィアンセプター・マグナ</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>水鏡</Secrets>
+		<Skill1>해신방진・치유II</Skill1>
+		<MinHP>44</MinHP>
+		<MinATK>305</MinATK>
+		<MaxHP>262</MaxHP>
+		<MaxATK>1940</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 회복상한상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401500</ID>
+		<MaxName>烈殻杖</MaxName>
+		<Name>コロッサスケーン・マグナ</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>次元断</Secrets>
+		<Skill1>기염방진・공인II</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>325</MinATK>
+		<MaxHP>258</MaxHP>
+		<MaxATK>1960</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401600</ID>
+		<MaxName>怪緑杖</MaxName>
+		<Name>アンノウンワンド</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>未確認生物、荒ぶる。</Secrets>
+		<Skill1>미지의 힘・VITII</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>240</MaxHP>
+		<MaxATK>1685</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401700</ID>
+		<MaxName>守約</MaxName>
+		<Name>プロミス</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>アンフォーギヴィング</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>325</MinATK>
+		<MaxHP>198</MaxHP>
+		<MaxATK>1990</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401800</ID>
+		<MaxName>極叡</MaxName>
+		<Name>五神杖</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>聖柱五星封陣</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>44</MinHP>
+		<MinATK>330</MinATK>
+		<MaxHP>272</MaxHP>
+		<MaxATK>2040</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040401900</ID>
+		<MaxName>古尊杖</MaxName>
+		<Name>バビロンの導杖</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ネビル・アーヌ</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<MinHP>38</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>232</MaxHP>
+		<MaxATK>1730</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040402000</ID>
+		<MaxName>極叡</MaxName>
+		<Name>五神杖・真</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>聖柱五星封陣</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>48</MinHP>
+		<MinATK>360</MinATK>
+		<MaxHP>288</MaxHP>
+		<MaxATK>2160</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040402700</ID>
+		<MaxName>極愛杖</MaxName>
+		<Name>バレンタインワンド</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>デア・パフューム</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>227</MaxHP>
+		<MaxATK>1755</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040402800</ID>
+		<MaxName>真聖紋</MaxName>
+		<Name>ニルヴァーナ</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>アカシックレコード</Secrets>
+		<Skill1>득도의 경지</Skill1>
+		<Skill2>윤회전생</Skill2>
+		<MinHP>44</MinHP>
+		<MinATK>332</MinATK>
+		<MaxHP>274</MaxHP>
+		<MaxATK>2053</MaxATK>
+		<Skill1Detail>ヒールオール(힐 올)의 효과UP</Skill1Detail>
+		<Skill2Detail>ヒールオール(힐 올)사용시 자신에게 자동회복효과</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040402900</ID>
+		<MaxName>真頴悟</MaxName>
+		<Name>ケラウノス</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>グランメティオール</Secrets>
+		<Skill1>천둥의 울림</Skill1>
+		<Skill2>천변지이</Skill2>
+		<MinHP>66</MinHP>
+		<MinATK>336</MinATK>
+		<MaxHP>231</MaxHP>
+		<MaxATK>2105</MaxATK>
+		<Skill1Detail>エーテルブラスト의 효과UP</Skill1Detail>
+		<Skill2Detail>フォーカス(포커스)의 효과UP</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040403000</ID>
+		<MaxName>狂輝杖</MaxName>
+		<Name>マギ・リアリジスセプター</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>リビジョン・アゴー</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>231</MaxHP>
+		<MaxATK>1735</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040403700</ID>
+		<MaxName>祖龍杖</MaxName>
+		<Name>バハムートスタッフ・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>콘킬리오・카이룰레우스</Skill1>
+		<MinHP>41</MinHP>
+		<MinATK>360</MinATK>
+		<MaxHP>276</MaxHP>
+		<MaxATK>2120</MaxATK>
+		<Skill1Detail>엘룬족과 하빈족의 공격력/HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040403800</ID>
+		<Name>カーラウロプス</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ユーゴーアウェイ</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<Skill2>지진의 공인</Skill2>
+		<MinHP>44</MinHP>
+		<MinATK>380</MinATK>
+		<MaxHP>284</MaxHP>
+		<MaxATK>2180</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>토속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500000</ID>
+		<MaxName>鋼吼</MaxName>
+		<Name>ガストラフェテス</Name>
+		<Element>토</Element>
+		<Kind>총</Kind>
+		<Secrets>バレットビート</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>460</MinATK>
+		<MaxHP>187</MaxHP>
+		<MaxATK>2785</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500200</ID>
+		<MaxName>狂麗砲</MaxName>
+		<Name>グラッドアイ</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>オルタ</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<Skill2>업화의 양손</Skill2>
+		<MinHP>28</MinHP>
+		<MinATK>460</MinATK>
+		<MaxHP>180</MaxHP>
+		<MaxATK>2700</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 더블어택 확률상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500300</ID>
+		<MaxName>裁考筒</MaxName>
+		<Name>裁きの鳴雷</Name>
+		<Element>토</Element>
+		<Kind>총</Kind>
+		<Secrets>ヴェンディダード・レビ</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>345</MinATK>
+		<MaxHP>145</MaxHP>
+		<MaxATK>2165</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500400</ID>
+		<MaxName>絢爛</MaxName>
+		<Name>ジュエルリゾートモデル</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>跳弾</Secrets>
+		<Skill1>광기의 기교</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>370</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>2265</MaxATK>
+		<Skill1Detail>풍속성 공격으로 약점을 때렸을때  확률로 데미지 업(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500500</ID>
+		<MaxName>烈殻銃</MaxName>
+		<Name>コロッサスカービン・マグナ</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>次元断</Secrets>
+		<Skill1>기염방진・수호II</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>405</MinATK>
+		<MaxHP>160</MaxHP>
+		<MaxATK>2450</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500600</ID>
+		<MaxName>崇騎銃</MaxName>
+		<Name>シュヴァリエボルト・マグナ</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>光の刃</Secrets>
+		<Skill1>기해방진・공인II</Skill1>
+		<Skill2>지진의 수호</Skill2>
+		<MinHP>26</MinHP>
+		<MinATK>395</MinATK>
+		<MaxHP>162</MaxHP>
+		<MaxATK>2440</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>토속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500700</ID>
+		<MaxName>碧落</MaxName>
+		<Name>ファラウェイ</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>ウィンドミル・スキャヴェン</Secrets>
+		<Skill1>광기의 수호</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>455</MinATK>
+		<MaxHP>179</MaxHP>
+		<MaxATK>2705</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500800</ID>
+		<MaxName>黄昏</MaxName>
+		<Name>十狼雷</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>十絶星駆</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>170</MaxHP>
+		<MaxATK>2550</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040500900</ID>
+		<MaxName>黄昏</MaxName>
+		<Name>十狼雷・真</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>十絶星駆</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>450</MinATK>
+		<MaxHP>180</MaxHP>
+		<MaxATK>2700</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040501600</ID>
+		<MaxName>真奪撃</MaxName>
+		<Name>オリバー</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>エテルネル・ルトゥール</Secrets>
+		<Skill1>모략과 책략의 꾀</Skill1>
+		<Skill2>일확천금</Skill2>
+		<MinHP>27</MinHP>
+		<MinATK>420</MinATK>
+		<MaxHP>170</MaxHP>
+		<MaxATK>2571</MaxATK>
+		<Skill1Detail>トレジャーハント(트레저 헌트)의 효과UP</Skill1Detail>
+		<Skill2Detail>아이템 드롭확률UP</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040502300</ID>
+		<MaxName>祖龍銃</MaxName>
+		<Name>バハムートマズル・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>하빈 아니무스・위스</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>445</MinATK>
+		<MaxHP>171</MaxHP>
+		<MaxATK>2645</MaxATK>
+		<Skill1Detail>하빈족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040502400</ID>
+		<Name>ヴリスラグナ</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>デッドエンド</Secrets>
+		<Skill1>서리의 공인</Skill1>
+		<Skill2>천광의 공인</Skill2>
+		<MinHP>32</MinHP>
+		<MinATK>440</MinATK>
+		<MaxHP>182</MaxHP>
+		<MaxATK>2690</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>빛속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600000</ID>
+		<MaxName>闘頂</MaxName>
+		<Name>獅子王戦拳</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>金剛崩牙</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>47</MinHP>
+		<MinATK>390</MinATK>
+		<MaxHP>250</MaxHP>
+		<MaxATK>2350</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600200</ID>
+		<MaxName>溶魔爪</MaxName>
+		<Name>クリムゾンフィンガー</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>メルトブレイン</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>400</MinATK>
+		<MaxHP>248</MaxHP>
+		<MaxATK>2360</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600400</ID>
+		<MaxName>水恵拳</MaxName>
+		<Name>マナウィダンガントレ</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>フルクトゥアト・マーテル</Secrets>
+		<Skill1>서리의 수호</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>202</MaxHP>
+		<MaxATK>1880</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600500</ID>
+		<MaxName>吼嵐拳</MaxName>
+		<Name>ティアマトガントレ・マグナ</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>トルネードディザスター</Secrets>
+		<Skill1>남룡방진・공인II</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>350</MinATK>
+		<MaxHP>224</MaxHP>
+		<MaxATK>2130</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600600</ID>
+		<MaxName>獣魂</MaxName>
+		<Name>ココ＆ミミ</Name>
+		<Element>암</Element>
+		<Kind>권갑</Kind>
+		<Secrets>トライアド・ダムネーション</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<MinHP>38</MinHP>
+		<MinATK>410</MinATK>
+		<MaxHP>245</MaxHP>
+		<MaxATK>2380</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600700</ID>
+		<MaxName>烈殻拳</MaxName>
+		<Name>コロッサスフィスト・マグナ</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>次元断</Secrets>
+		<Skill1>기염방진・見切II</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>355</MinATK>
+		<MaxHP>223</MaxHP>
+		<MaxATK>2135</MaxATK>
+		<Skill1Detail>화속성 캐릭터가 카운터를 할수있게 된다. 스킬레벨상승으로 카운터 데미지 업</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600800</ID>
+		<MaxName>砕世</MaxName>
+		<Name>六崩拳</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>六界紅掌</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>38</MinHP>
+		<MinATK>360</MinATK>
+		<MaxHP>236</MaxHP>
+		<MaxATK>2220</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040600900</ID>
+		<MaxName>天煽</MaxName>
+		<Name>紅陽扇</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>ソル・ブラスト</Secrets>
+		<Skill1>천광의 수호</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>305</MinATK>
+		<MaxHP>200</MaxHP>
+		<MaxATK>1890</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040601000</ID>
+		<MaxName>砕世</MaxName>
+		<Name>六崩拳・真</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>六界紅掌</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>400</MinATK>
+		<MaxHP>240</MaxHP>
+		<MaxATK>2340</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040601700</ID>
+		<MaxName>真闘神</MaxName>
+		<Name>鬼神の籠手</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>一矢報いる烈火の揮い</Secrets>
+		<Skill1>파괴를 불러오는 강한 마음</Skill1>
+		<Skill2>강자의 여유</Skill2>
+		<MinHP>36</MinHP>
+		<MinATK>372</MinATK>
+		<MaxHP>235</MaxHP>
+		<MaxATK>2245</MaxATK>
+		<Skill1Detail>드물게 모든 공격을 회피. 회피시 오의 게이지 UP</Skill1Detail>
+		<Skill2Detail>카운터 사용시에 감싸기효과</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040602400</ID>
+		<MaxName>祖龍拳</MaxName>
+		<Name>バハムートナックル・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>권갑</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>휴먼 아니무스・멘스</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>390</MinATK>
+		<MaxHP>239</MaxHP>
+		<MaxATK>2305</MaxATK>
+		<Skill1Detail>휴먼족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040602500</ID>
+		<MaxName>雅氷嵐</MaxName>
+		<Name>緋舞扇</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>紅水仙</Secrets>
+		<Skill1>서리의 공인</Skill1>
+		<Skill2>홍련의 수호</Skill2>
+		<MinHP>44</MinHP>
+		<MinATK>380</MinATK>
+		<MaxHP>252</MaxHP>
+		<MaxATK>2340</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040602600</ID>
+		<MaxName>渇欲拳</MaxName>
+		<Name>マモーナスグローブ</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>グリーディスティル</Secrets>
+		<Skill1>광기의 수호</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>199</MaxHP>
+		<MaxATK>1890</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700000</ID>
+		<MaxName>黄金宝弓</MaxName>
+		<Name>エウリュトスボウ</Name>
+		<Element>화</Element>
+		<Kind>활</Kind>
+		<Secrets>ギガントマキアー</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<Skill2>업화의 양손</Skill2>
+		<MinHP>36</MinHP>
+		<MinATK>430</MinATK>
+		<MaxHP>227</MaxHP>
+		<MaxATK>2520</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 더블어택 확률상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700100</ID>
+		<MaxName>智天閃</MaxName>
+		<Name>シェキナーの弓</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>ケルビムアロー</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>425</MinATK>
+		<MaxHP>228</MaxHP>
+		<MaxATK>2515</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700200</ID>
+		<MaxName>恵空</MaxName>
+		<Name>虹の弓</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>虹の矢</Secrets>
+		<Skill1>서리의 수호</Skill1>
+		<MinHP>40</MinHP>
+		<MinATK>410</MinATK>
+		<MaxHP>231</MaxHP>
+		<MaxATK>2500</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700300</ID>
+		<MaxName>必閃</MaxName>
+		<Name>アッキヌフォート</Name>
+		<Element>토</Element>
+		<Kind>활</Kind>
+		<Secrets>フェイルノート</Secrets>
+		<Skill1>지진의 공인</Skill1>
+		<Skill2>대지의 기교</Skill2>
+		<MinHP>39</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>230</MaxHP>
+		<MaxATK>2505</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>토속성 공격으로 약점을 때렸을때  확률로 데미지 업(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700400</ID>
+		<MaxName>輝風</MaxName>
+		<Name>エーテリアルボウ</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>ドッツスラスター</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<MinHP>38</MinHP>
+		<MinATK>430</MinATK>
+		<MaxHP>232</MaxHP>
+		<MaxATK>2555</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700500</ID>
+		<MaxName>天眸</MaxName>
+		<Name>二王弓</Name>
+		<Element>광</Element>
+		<Kind>활</Kind>
+		<Secrets>二王双極雷洪</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>385</MinATK>
+		<MaxHP>217</MaxHP>
+		<MaxATK>2370</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700600</ID>
+		<MaxName>万創弓</MaxName>
+		<Name>世界樹の蔦弓・マグナ</Name>
+		<Element>토</Element>
+		<Kind>활</Kind>
+		<Secrets>ネザーマントル</Secrets>
+		<Skill1>창수방진・배수II</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>360</MinATK>
+		<MaxHP>208</MaxHP>
+		<MaxATK>2260</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력이 HP가 적을수록 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700700</ID>
+		<MaxName>海叫弓</MaxName>
+		<Name>レヴィアンボウ・マグナ</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>水鏡</Secrets>
+		<Skill1>해신방진・수호II</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>355</MinATK>
+		<MaxHP>209</MaxHP>
+		<MaxATK>2255</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700800</ID>
+		<MaxName>邪絶弓</MaxName>
+		<Name>ディアボロスボウ</Name>
+		<Element>암</Element>
+		<Kind>활</Kind>
+		<Secrets>深淵の淀み</Secrets>
+		<Skill1>나락의 수호</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>355</MinATK>
+		<MaxHP>186</MaxHP>
+		<MaxATK>2100</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040700900</ID>
+		<MaxName>星鎧弓</MaxName>
+		<Name>サジタリウスボウ</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>アストロホライズン</Secrets>
+		<Skill1>광기의 수호</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>330</MinATK>
+		<MaxHP>183</MaxHP>
+		<MaxATK>2020</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040701700</ID>
+		<MaxName>真獄殲</MaxName>
+		<Name>ローゼンボーゲン</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>ロッサ・エスペヒスモ</Secrets>
+		<Skill1>춤은 폭풍의 바늘산처럼</Skill1>
+		<Skill2>전장의 재해</Skill2>
+		<MinHP>34</MinHP>
+		<MinATK>391</MinATK>
+		<MaxHP>217</MaxHP>
+		<MaxATK>2388</MaxATK>
+		<Skill1Detail>ライトウェイト(라이트 웨이트)의 효과UP</Skill1Detail>
+		<Skill2Detail>약체효과성공률UP</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040702400</ID>
+		<Name>バハムートボウ・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>활</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>엘룬 아니무스・멘스</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>415</MinATK>
+		<MaxHP>219</MaxHP>
+		<MaxATK>2460</MaxATK>
+		<Skill1Detail>엘룬족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040800000</ID>
+		<MaxName>崇騎琴</MaxName>
+		<Name>シュヴァリエハープ・マグナ</Name>
+		<Element>광</Element>
+		<Kind>악기</Kind>
+		<Secrets>光の刃</Secrets>
+		<Skill1>기해방진・공인II</Skill1>
+		<Skill2>홍련의 수호</Skill2>
+		<MinHP>61</MinHP>
+		<MinATK>325</MinATK>
+		<MaxHP>218</MaxHP>
+		<MaxATK>2005</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040800100</ID>
+		<MaxName>幽絶琴</MaxName>
+		<Name>セレストハープ・マグナ</Name>
+		<Element>암</Element>
+		<Kind>악기</Kind>
+		<Secrets>黒霧</Secrets>
+		<Skill1>흑무방진・수호II</Skill1>
+		<Skill2>홍련의 기교</Skill2>
+		<MinHP>57</MinHP>
+		<MinATK>345</MinATK>
+		<MaxHP>214</MaxHP>
+		<MaxATK>2025</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 HP상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 공격으로 약점을 때렸을때  확률로 데미지 업(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040800200</ID>
+		<MaxName>水響</MaxName>
+		<Name>オーシャンハープ</Name>
+		<Element>수</Element>
+		<Kind>악기</Kind>
+		<Secrets>スウェルバラード</Secrets>
+		<Skill1>서리의 수호</Skill1>
+		<MinHP>73</MinHP>
+		<MinATK>360</MinATK>
+		<MaxHP>245</MaxHP>
+		<MaxATK>2210</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040800300</ID>
+		<MaxName>艶奏</MaxName>
+		<Name>九界琴</Name>
+		<Element>광</Element>
+		<Kind>악기</Kind>
+		<Secrets>第九天落唱</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>65</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>228</MaxHP>
+		<MaxATK>2100</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040800400</ID>
+		<MaxName>艶奏楽</MaxName>
+		<Name>九界琴・真</Name>
+		<Element>광</Element>
+		<Kind>악기</Kind>
+		<Secrets>第九天落唱＋</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>71</MinHP>
+		<MinATK>370</MinATK>
+		<MaxHP>243</MaxHP>
+		<MaxATK>2220</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040801100</ID>
+		<MaxName>夢幻音</MaxName>
+		<Name>砂城の宮樂弦</Name>
+		<Element>토</Element>
+		<Kind>악기</Kind>
+		<Secrets>悲哀のファンタジア</Secrets>
+		<Skill1>지진의 수호</Skill1>
+		<Skill2>천광의 수호</Skill2>
+		<MinHP>72</MinHP>
+		<MinATK>365</MinATK>
+		<MaxHP>244</MaxHP>
+		<MaxATK>2215</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+		<Skill2Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040801200</ID>
+		<MaxName>愁歎奏</MaxName>
+		<Name>ブランウェンハープ</Name>
+		<Element>수</Element>
+		<Kind>악기</Kind>
+		<Secrets>悲閃</Secrets>
+		<Skill1>서리의 공인</Skill1>
+		<MinHP>57</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>196</MaxHP>
+		<MaxATK>1770</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040801300</ID>
+		<MaxName>真奏宴</MaxName>
+		<Name>ランゲレイク</Name>
+		<Element>수</Element>
+		<Kind>악기</Kind>
+		<Secrets>エンピレオ</Secrets>
+		<Skill1>잃어버린 성현의 악보</Skill1>
+		<Skill2>향락의 잔치</Skill2>
+		<MinHP>67</MinHP>
+		<MinATK>331</MinATK>
+		<MaxHP>232</MaxHP>
+		<MaxATK>2100</MaxATK>
+		<Skill1Detail>ミンストレルソング(민스트렐 송)의 효과UP</Skill1Detail>
+		<Skill2Detail>オーヴァチュア(오버추어)사용시 아군전체의 HP를 서서히 회복</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040802000</ID>
+		<MaxName>祖龍琴</MaxName>
+		<Name>バハムートハープ・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>악기</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>하빈 아니무스・멘스</Skill1>
+		<MinHP>63</MinHP>
+		<MinATK>370</MinATK>
+		<MaxHP>231</MaxHP>
+		<MaxATK>2180</MaxATK>
+		<Skill1Detail>하빈족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040802100</ID>
+		<MaxName>真理焔</MaxName>
+		<Name>メビウス</Name>
+		<Element>화</Element>
+		<Kind>악기</Kind>
+		<Secrets>フェルディナン・ブレイズ</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<Skill2>지진의 공인</Skill2>
+		<MinHP>69</MinHP>
+		<MinATK>380</MinATK>
+		<MaxHP>241</MaxHP>
+		<MaxATK>2230</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>토속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040802200</ID>
+		<MaxName>伝継琴</MaxName>
+		<Name>エスカラスハープ</Name>
+		<Element>화</Element>
+		<Kind>악기</Kind>
+		<Secrets>デマゴーグ</Secrets>
+		<Skill1>홍련의 수호</Skill1>
+		<MinHP>53</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>192</MaxHP>
+		<MaxATK>1790</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040900300</ID>
+		<MaxName>真鍛心</MaxName>
+		<Name>天叢雲剣</Name>
+		<Element>광</Element>
+		<Kind>도</Kind>
+		<Secrets>草薙</Secrets>
+		<Skill1>하늘 샛별의 영혼</Skill1>
+		<Skill2>큰뱀의 신도</Skill2>
+		<MinHP>30</MinHP>
+		<MinATK>411</MinATK>
+		<MaxHP>179</MaxHP>
+		<MaxATK>2543</MaxATK>
+		<Skill1Detail>오의 게이지 상승률UP</Skill1Detail>
+		<Skill2Detail>瞑想(명상)사용시에 오의 게이지 소비량 감소</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040900400</ID>
+		<MaxName>真悪呪</MaxName>
+		<Name>千子村正</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>臨兵闘者皆陣列在前</Secrets>
+		<Skill1>구자호신법</Skill1>
+		<Skill2>명암의 요검</Skill2>
+		<MinHP>26</MinHP>
+		<MinATK>431</MinATK>
+		<MaxHP>175</MaxHP>
+		<MaxATK>2563</MaxATK>
+		<Skill1Detail>일정확률로 적 전체에게 통상공격</Skill1Detail>
+		<Skill2Detail>회피시 모든 어빌리티 사용 턴 1턴 단축</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040901300</ID>
+		<Name>バハムートブレイド・ノヴム</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>드라프 아니무스・멘스</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>440</MinATK>
+		<MaxHP>179</MaxHP>
+		<MaxATK>2620</MaxATK>
+		<Skill1Detail>드라프족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040900000</ID>
+		<Name>阿修羅</Name>
+		<Element>화</Element>
+		<Kind>도</Kind>
+		<Secrets>六道之太刀・修羅</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<Skill2>서리의 공인</Skill2>
+		<MinHP>30</MinHP>
+		<MinATK>455</MinATK>
+		<MaxHP>186</MaxHP>
+		<MaxATK>2675</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>수속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040900200</ID>
+		<Name>鬼丸国綱</Name>
+		<Element>수</Element>
+		<Kind>도</Kind>
+		<Secrets>月下鳳桜</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<Skill2>조수의 수호</Skill2>
+		<MinHP>34</MinHP>
+		<MinATK>435</MinATK>
+		<MaxHP>190</MaxHP>
+		<MaxATK>2655</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+		<Skill2Detail>수속성 캐릭터의 최대 HP상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040900500</ID>
+		<MaxName>巡転</MaxName>
+		<Name>八命切</Name>
+		<Element>광</Element>
+		<Kind>도</Kind>
+		<Secrets>八命の太刀・永了真成</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>410</MinATK>
+		<MaxHP>178</MaxHP>
+		<MaxATK>2530</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040902000</ID>
+		<Name>薄緑</Name>
+		<Element>풍</Element>
+		<Kind>도</Kind>
+		<Secrets>春之劒</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<Skill2>바람의 수호</Skill2>
+		<MinHP>31</MinHP>
+		<MinATK>450</MinATK>
+		<MaxHP>187</MaxHP>
+		<MaxATK>2680</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+		<Skill2Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030000000</ID>
+		<MaxName>閑麗</MaxName>
+		<Name>アロンダイト</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>1750</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030000100</ID>
+		<MaxName>帯薙</MaxName>
+		<Name>イルウーン</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>地烈斬</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>1740</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030000200</ID>
+		<MaxName>讐心</MaxName>
+		<Name>フラガラッハ</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>地烈斬</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>147</MaxHP>
+		<MaxATK>1755</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030000300</ID>
+		<MaxName>破幸</MaxName>
+		<Name>ティルヴァング</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>140</MaxHP>
+		<MaxATK>1700</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030000400</ID>
+		<MaxName>嵐竜剣</MaxName>
+		<Name>ティアマトブレード</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>エリアルクラスター</Secrets>
+		<Skill1>남룡방진・공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>117</MaxHP>
+		<MaxATK>1375</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030000500</ID>
+		<MaxName>羅象剣</MaxName>
+		<Name>世界樹の晶剣</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>アクシス・ムンディ</Secrets>
+		<Skill1>창수방진・수호</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>122</MaxHP>
+		<MaxATK>1410</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030000700</ID>
+		<MaxName>灼業剣</MaxName>
+		<Name>イフリートブレード</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>エグゾースト</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>116</MaxHP>
+		<MaxATK>1380</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001000</ID>
+		<Name>ティソーナ</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>地烈斬</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>151</MaxHP>
+		<MaxATK>1735</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001100</ID>
+		<MaxName>宿輪環</MaxName>
+		<Name>カダラ</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>テンペストブレード</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>112</MaxHP>
+		<MaxATK>1340</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001200</ID>
+		<MaxName>澄刃</MaxName>
+		<Name>アルマス</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>テンペストブレード</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>157</MaxHP>
+		<MaxATK>1795</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001300</ID>
+		<MaxName>瑠璃剣</MaxName>
+		<Name>タンザナイトソード</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<Skill2>신조 토벌계획II</Skill2>
+		<MinHP>26</MinHP>
+		<MinATK>270</MinATK>
+		<MaxHP>146</MaxHP>
+		<MaxATK>1670</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+		<Skill2Detail>신조족에 대한 공격력 상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001400</ID>
+		<MaxName>百首鬼</MaxName>
+		<Name>ラム・ダオ</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>142</MaxHP>
+		<MaxATK>1690</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001500</ID>
+		<MaxName>呪剣</MaxName>
+		<Name>マボムバーム</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>156</MaxHP>
+		<MaxATK>1800</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001800</ID>
+		<MaxName>王華</MaxName>
+		<Name>ロイヤルレイピア</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>テンペストブレード</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>165</MaxHP>
+		<MaxATK>1700</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030001900</ID>
+		<MaxName>執愛</MaxName>
+		<Name>ラスト</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>テンペストブレード</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>145</MaxHP>
+		<MaxATK>1765</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030002100</ID>
+		<MaxName>氷冥剣</MaxName>
+		<Name>マケブランケ</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>ジュデッカ</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>120</MaxHP>
+		<MaxATK>1360</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030002200</ID>
+		<MaxName>密智剣</MaxName>
+		<Name>ネフティスレイピア</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>ソウルレクイエム</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>118</MaxHP>
+		<MaxATK>1400</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030002300</ID>
+		<MaxName>輝騎剣</MaxName>
+		<Name>シュヴァリエソード</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>シュヴァリエ・オース</Secrets>
+		<MinHP>19</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>121</MaxHP>
+		<MaxATK>1415</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030002400</ID>
+		<MaxName>波閃</MaxName>
+		<Name>リプルレイピア</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>159</MaxHP>
+		<MaxATK>1830</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030002600</ID>
+		<MaxName>旋風剣</MaxName>
+		<Name>スカートチェイサー</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>143</MaxHP>
+		<MaxATK>1685</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030002700</ID>
+		<MaxName>悪閃</MaxName>
+		<Name>無垢白刃</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>地烈斬</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>315</MinATK>
+		<MaxHP>147</MaxHP>
+		<MaxATK>1800</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030002800</ID>
+		<MaxName>星鎧剣</MaxName>
+		<Name>サジタリウスブレード</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>ソニックホライズン</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>120</MaxHP>
+		<MaxATK>1420</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030003100</ID>
+		<MaxName>灯輝</MaxName>
+		<Name>ランタンブレード</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>ランタンスラッシュ</Secrets>
+		<Skill1>펌프킨 트릭</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>245</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>1540</MaxATK>
+		<Skill1Detail>빛속성 공격으로 약점을 때렸을때  확률로 데미지 업(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030003200</ID>
+		<MaxName>古尊剣</MaxName>
+		<Name>バビロンの刀剣</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>ネビル</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>119</MaxHP>
+		<MaxATK>1365</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030003400</ID>
+		<MaxName>火符</MaxName>
+		<Name>護焔の剣</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>306</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>1785</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030003500</ID>
+		<MaxName>蒼空</MaxName>
+		<Name>旅立ちの剣</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>テンペストブレード</Secrets>
+		<Skill1>단련의 공인</Skill1>
+		<Skill2>단련의 수호</Skill2>
+		<MinHP>20</MinHP>
+		<MinATK>250</MinATK>
+		<MaxHP>120</MaxHP>
+		<MaxATK>1500</MaxATK>
+		<Skill1Detail>공격력을 1000상승</Skill1Detail>
+		<Skill2Detail>200 HP상승</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030004200</ID>
+		<MaxName>愁歎剣</MaxName>
+		<Name>ブランウェンレイピア</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>悲叫</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>123</MaxHP>
+		<MaxATK>1405</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030004300</ID>
+		<MaxName>狂輝剣</MaxName>
+		<Name>マギ・パニッシュメントソード</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>リビジョン</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>118</MaxHP>
+		<MaxATK>1370</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030004400</ID>
+		<MaxName>祖龍剣</MaxName>
+		<Name>バハムートソード</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>콘킬리오・뤼벨</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>139</MaxHP>
+		<MaxATK>1685</MaxATK>
+		<Skill1Detail>휴먼족과 드라프족의 공격력/HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030004500</ID>
+		<Name>タンザナイトソード・ミコー</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>152</MaxHP>
+		<MaxATK>1810</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030004600</ID>
+		<MaxName>不融剣</MaxName>
+		<Name>コントラリーソード</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>デマゴーグ</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>117</MaxHP>
+		<MaxATK>1400</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030099000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルソード</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>ライジングソード</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030100000</ID>
+		<MaxName>夜天降</MaxName>
+		<Name>チンクエディア</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>クロッシングカット</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>235</MinATK>
+		<MaxHP>147</MaxHP>
+		<MaxATK>1465</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030100100</ID>
+		<MaxName>瞬蜃</MaxName>
+		<Name>ミラージュナイフ</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>265</MinATK>
+		<MaxHP>168</MaxHP>
+		<MaxATK>1650</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030100200</ID>
+		<MaxName>穿遍</MaxName>
+		<Name>スティレット</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>デッドウェッジ</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>270</MinATK>
+		<MaxHP>167</MaxHP>
+		<MaxATK>1655</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030100400</ID>
+		<Name>パナバス</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>クロッシングカット</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>162</MaxHP>
+		<MaxATK>1680</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030100500</ID>
+		<MaxName>鎮嵐</MaxName>
+		<Name>ストームクリス</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<Skill1>바람의 기교</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>134</MaxHP>
+		<MaxATK>1350</MaxATK>
+		<Skill1Detail>풍속성 공격으로 약점을 때렸을때  확률로 데미지 업(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030100600</ID>
+		<MaxName>機殻刃</MaxName>
+		<Name>コロッサスブレイカー</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>絶閃</Secrets>
+		<Skill1>기염방진・공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1340</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030100800</ID>
+		<MaxName>海嘯刃</MaxName>
+		<Name>レヴィアンゲイズ</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>グランドフォール</Secrets>
+		<Skill1>해신방진・공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>137</MaxHP>
+		<MaxATK>1340</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030101000</ID>
+		<MaxName>矜持賭</MaxName>
+		<Name>ファコン</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>133</MaxHP>
+		<MaxATK>1295</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030101100</ID>
+		<MaxName>刻命</MaxName>
+		<Name>フセット</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>クロッシングカット</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>165</MaxHP>
+		<MaxATK>1665</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030101300</ID>
+		<MaxName>騎千</MaxName>
+		<Name>アキナケス</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>167</MaxHP>
+		<MaxATK>1645</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030101400</ID>
+		<MaxName>破刃</MaxName>
+		<Name>ソードブレイカー</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>デッドウェッジ</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>315</MinATK>
+		<MaxHP>174</MaxHP>
+		<MaxATK>1800</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030101800</ID>
+		<MaxName>憑操刃</MaxName>
+		<Name>傀儡の包丁</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>148</MaxHP>
+		<MaxATK>1750</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030101900</ID>
+		<MaxName>裁考刃</MaxName>
+		<Name>裁きの霊剣</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>ヴェンディダード</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>1300</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102000</ID>
+		<MaxName>水恵刃</MaxName>
+		<Name>マナウィダンダガー</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>フルクトゥアト・ソロル</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>133</MaxHP>
+		<MaxATK>1300</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102100</ID>
+		<MaxName>灼業刃</MaxName>
+		<Name>イフリートダガー</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>エグゾースト</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>129</MaxHP>
+		<MaxATK>1315</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102200</ID>
+		<MaxName>蛇神刃</MaxName>
+		<Name>ミドガルドの断刃</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>グラットンバイト</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>134</MaxHP>
+		<MaxATK>1320</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102300</ID>
+		<MaxName>霧幻</MaxName>
+		<Name>ソウルエッジ</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>デッドウェッジ</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>166</MaxHP>
+		<MaxATK>1660</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102400</ID>
+		<MaxName>想縁</MaxName>
+		<Name>絆の短剣</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>158</MaxHP>
+		<MaxATK>1610</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102600</ID>
+		<MaxName>純誓</MaxName>
+		<Name>ソード・オブ・リスブラン</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>デッドウェッジ</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>171</MaxHP>
+		<MaxATK>1725</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102700</ID>
+		<MaxName>紅焔</MaxName>
+		<Name>紅陽刃</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>ライトブラスト</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1305</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102900</ID>
+		<MaxName>暴狼刃</MaxName>
+		<Name>レージング</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>ヴァナルガンド</Secrets>
+		<Skill1>조수의 양손</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>135</MaxHP>
+		<MaxATK>1315</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 더블어택 확률상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030103700</ID>
+		<Name>ディアボロスダガー</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>闇の淀み</Secrets>
+		<Skill1>증오의 수호</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>235</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1365</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030103800</ID>
+		<MaxName>祖龍刃</MaxName>
+		<Name>バハムートダガー</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>휴먼 아니무스・위스</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>155</MaxHP>
+		<MaxATK>1605</MaxATK>
+		<Skill1Detail>휴먼족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030199000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルナイフ</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030200000</ID>
+		<MaxName>雷光牙</MaxName>
+		<Name>ヴァジュランダ</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>ソウルデモリッシュ</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>265</MinATK>
+		<MaxHP>179</MaxHP>
+		<MaxATK>1640</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030200100</ID>
+		<MaxName>凪命</MaxName>
+		<Name>蜻蛉切</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>迅牙貴槍</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>270</MinATK>
+		<MaxHP>178</MaxHP>
+		<MaxATK>1600</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030200200</ID>
+		<MaxName>革抗</MaxName>
+		<Name>パルチザン</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>ソウルデモリッシュ</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>260</MinATK>
+		<MaxHP>184</MaxHP>
+		<MaxATK>1620</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030200300</ID>
+		<MaxName>飛閃</MaxName>
+		<Name>シューラヴァラ</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>トリプルスラスト</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>186</MaxHP>
+		<MaxATK>1650</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030200400</ID>
+		<Name>ロンギヌス</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>ソウルデモリッシュ</Secrets>
+		<Skill1>어둠의 수호</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>137</MaxHP>
+		<MaxATK>1220</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030200500</ID>
+		<MaxName>海嘯槍</MaxName>
+		<Name>レヴィアスパイン</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>グランドフォール</Secrets>
+		<Skill1>해신방진・공인</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>147</MaxHP>
+		<MaxATK>1285</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030200700</ID>
+		<MaxName>海叉</MaxName>
+		<Name>トライデント</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>トリプルスラスト</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>255</MinATK>
+		<MaxHP>185</MaxHP>
+		<MaxATK>1610</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030201600</ID>
+		<MaxName>鳳凰槍</MaxName>
+		<Name>不死鳥の爪槍</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>降焔</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>138</MaxHP>
+		<MaxATK>1260</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030201700</ID>
+		<MaxName>極芸</MaxName>
+		<Name>ナーヴァル</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>迅牙貴槍</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>175</MaxHP>
+		<MaxATK>1615</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030201800</ID>
+		<MaxName>砂槍</MaxName>
+		<Name>砂城の尖塔</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>トリプルスラスト</Secrets>
+		<Skill1>대지의 수호</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>152</MaxHP>
+		<MaxATK>1340</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030201900</ID>
+		<MaxName>戦国</MaxName>
+		<Name>摩阿姫薙刀</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>迅牙貴槍</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>1350</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030202000</ID>
+		<MaxName>輝騎槍</MaxName>
+		<Name>シュヴァリエスピア</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>シュヴァリエ・オース</Secrets>
+		<MinHP>23</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>145</MaxHP>
+		<MaxATK>1295</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030202100</ID>
+		<MaxName>蛇神槍</MaxName>
+		<Name>ミドガルドの大槍</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>グラットンバイト</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>144</MaxHP>
+		<MaxATK>1270</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030202200</ID>
+		<MaxName>魚突</MaxName>
+		<Name>アルバコアノーズ</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥンヌスアタック</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>137</MaxHP>
+		<MaxATK>1275</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030202300</ID>
+		<MaxName>漁魂</MaxName>
+		<Name>ハープーン</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>ソウルデモリッシュ</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>153</MaxHP>
+		<MaxATK>1335</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030202500</ID>
+		<MaxName>怪緑針</MaxName>
+		<Name>アンノウンニードル</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>未確認生物、落下。</Secrets>
+		<Skill1>미지의 힘・ATK</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>155</MaxHP>
+		<MaxATK>1225</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030202600</ID>
+		<Name>フレアグレイブ</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>トリプルスラスト</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>177</MaxHP>
+		<MaxATK>1605</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030202700</ID>
+		<MaxName>竜尖</MaxName>
+		<Name>竜鱗の槍</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>カラミティ</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>141</MaxHP>
+		<MaxATK>1285</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030203500</ID>
+		<Name>スウィーピングモップ</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>迅牙貴槍</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>270</MinATK>
+		<MaxHP>187</MaxHP>
+		<MaxATK>1645</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030203600</ID>
+		<MaxName>狂輝槍</MaxName>
+		<Name>マギ・ディケイデッドスピア</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>リビジョン</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>141</MaxHP>
+		<MaxATK>1255</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030203700</ID>
+		<Name>バハムートスピア</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>엘룬 아니무스・위스</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>265</MinATK>
+		<MaxHP>167</MaxHP>
+		<MaxATK>1545</MaxATK>
+		<Skill1Detail>엘룬족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030203800</ID>
+		<MaxName>蒼龍</MaxName>
+		<Name>ドラグーンランス</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>ソウルデモリッシュ</Secrets>
+		<Skill1>용기병의 공인</Skill1>
+		<Skill2>용기사의 양손</Skill2>
+		<MinHP>25</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>1350</MaxATK>
+		<Skill1Detail>공격력을 1000상승</Skill1Detail>
+		<Skill2Detail>더블어택 확률을 3%상승</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030299000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルスピア</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>ソウルデモリッシュ</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030300000</ID>
+		<Name>アクゥ</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ヘヴィスマッシュ</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>102</MaxHP>
+		<MaxATK>1390</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300100</ID>
+		<MaxName>朱戦斧</MaxName>
+		<Name>ショカ</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>メレーブロウ</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>134</MaxHP>
+		<MaxATK>1820</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300200</ID>
+		<MaxName>千齧</MaxName>
+		<Name>ブローバ</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>メレーブロウ</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>135</MaxHP>
+		<MaxATK>1815</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300300</ID>
+		<MaxName>万馬斧</MaxName>
+		<Name>ホースマンズハンマー</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>オーラアクス</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>305</MinATK>
+		<MaxHP>133</MaxHP>
+		<MaxATK>1825</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300400</ID>
+		<Name>ブージ</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>オーラアクス</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>315</MinATK>
+		<MaxHP>138</MaxHP>
+		<MaxATK>1890</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300500</ID>
+		<Name>ジャッドバラアクス</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>メレーブロウ</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>305</MinATK>
+		<MaxHP>140</MaxHP>
+		<MaxATK>1880</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300600</ID>
+		<MaxName>嵐竜斧</MaxName>
+		<Name>ティアマトアムード</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>エリアルクラスター</Secrets>
+		<Skill1>남룡방진・공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>104</MaxHP>
+		<MaxATK>1440</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300700</ID>
+		<MaxName>機殻斧</MaxName>
+		<Name>コロッサスハーケン</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>絶閃</Secrets>
+		<Skill1>기염방진・공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>240</MinATK>
+		<MaxHP>104</MaxHP>
+		<MaxATK>1470</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300800</ID>
+		<MaxName>悉断</MaxName>
+		<Name>フットマンズアックス</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>メレーブロウ</Secrets>
+		<Skill1>업화의 양손</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>252</MinATK>
+		<MaxHP>120</MaxHP>
+		<MaxATK>1500</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 더블어택 확률상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030300900</ID>
+		<MaxName>陽槌</MaxName>
+		<Name>サンハンマー</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>メレーブロウ</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>320</MinATK>
+		<MaxHP>140</MaxHP>
+		<MaxATK>1925</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030301000</ID>
+		<MaxName>水恵斧</MaxName>
+		<Name>マナウィダンハーケン</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>フルクトゥアト・ソロル</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>107</MaxHP>
+		<MaxATK>1425</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030301100</ID>
+		<MaxName>輝騎斧</MaxName>
+		<Name>シュヴァリエブージ</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>シュヴァリエ・オース</Secrets>
+		<MinHP>17</MinHP>
+		<MinATK>235</MinATK>
+		<MaxHP>108</MaxHP>
+		<MaxATK>1480</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030301200</ID>
+		<MaxName>灼業斧</MaxName>
+		<Name>イフリートアクス</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>エグゾースト</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>235</MinATK>
+		<MaxHP>103</MaxHP>
+		<MaxATK>1450</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030301300</ID>
+		<MaxName>幽霧斧</MaxName>
+		<Name>セレストザグナル</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ヴォイド</Secrets>
+		<Skill1>흑무방진・수호</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>255</MinATK>
+		<MaxHP>104</MaxHP>
+		<MaxATK>1500</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030301500</ID>
+		<MaxName>星鎧斧</MaxName>
+		<Name>サジタリウスアックス</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ソニックホライズン</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>240</MinATK>
+		<MaxHP>107</MaxHP>
+		<MaxATK>1490</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030301700</ID>
+		<MaxName>水神斧</MaxName>
+		<Name>ポセイドンハーケン</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ミローススラスト</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>107</MaxHP>
+		<MaxATK>1425</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030301800</ID>
+		<MaxName>怪緑斧</MaxName>
+		<Name>アンノウンハンマー</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>未確認生物、落下。</Secrets>
+		<Skill1>미지의 힘・VIT</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>116</MaxHP>
+		<MaxATK>1410</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030302700</ID>
+		<MaxName>禍風斧</MaxName>
+		<Name>風司の鉞</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>烈風</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>104</MaxHP>
+		<MaxATK>1440</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030302800</ID>
+		<Name>ヴォウジェ</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ヘヴィスマッシュ</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>325</MinATK>
+		<MaxHP>129</MaxHP>
+		<MaxATK>1845</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030302900</ID>
+		<Name>バハムートアクス</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>드라프 아니무스・위스</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>123</MaxHP>
+		<MaxATK>1765</MaxATK>
+		<Skill1Detail>드라프족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030399000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルアクス</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>オーラアクス</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030400000</ID>
+		<MaxName>鍛極</MaxName>
+		<Name>金剛杖</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>レイ</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>176</MaxHP>
+		<MaxATK>1320</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400100</ID>
+		<MaxName>双蛇癒</MaxName>
+		<Name>ジェズル</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>サークル</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>159</MaxHP>
+		<MaxATK>1165</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400200</ID>
+		<MaxName>導命</MaxName>
+		<Name>パストラルスタッフ</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ピアシングライト</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>34</MinHP>
+		<MinATK>245</MinATK>
+		<MaxHP>200</MaxHP>
+		<MaxATK>1490</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400300</ID>
+		<MaxName>麗美華</MaxName>
+		<Name>ジャカランダ</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>サークル</Secrets>
+		<Skill1>대지의 기교</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>169</MaxHP>
+		<MaxATK>1255</MaxATK>
+		<Skill1Detail>토속성 공격으로 약점을 때렸을때  확률로 데미지 업(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400400</ID>
+		<MaxName>羅象杖</MaxName>
+		<Name>世界樹の雫枝</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>アクシス・ムンディ</Secrets>
+		<Skill1>창수방진・수호</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>163</MaxHP>
+		<MaxATK>1205</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400600</ID>
+		<MaxName>鳳凰杖</MaxName>
+		<Name>不死鳥の尾飾</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>降焔</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>160</MaxHP>
+		<MaxATK>1220</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400700</ID>
+		<MaxName>魔樹理</MaxName>
+		<Name>森精の杖</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>レイ</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<Skill2>신조 토벌계획II</Skill2>
+		<MinHP>31</MinHP>
+		<MinATK>250</MinATK>
+		<MaxHP>194</MaxHP>
+		<MaxATK>1470</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+		<Skill2Detail>신조족에 대한 공격력 상승(中)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400800</ID>
+		<MaxName>酒精杖</MaxName>
+		<Name>ツォンペリ</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>レイ</Secrets>
+		<Skill1>대지의 수호</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>250</MinATK>
+		<MaxHP>195</MaxHP>
+		<MaxATK>1500</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030400900</ID>
+		<MaxName>焔祷</MaxName>
+		<Name>転生の祈杖</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>サークル</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>154</MaxHP>
+		<MaxATK>1180</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401000</ID>
+		<MaxName>密智杖</MaxName>
+		<Name>ネフティスポール</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ソウルレクイエム</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>158</MaxHP>
+		<MaxATK>1200</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401100</ID>
+		<MaxName>裁考杖</MaxName>
+		<Name>裁きの天秤</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ヴェンディダード</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>158</MaxHP>
+		<MaxATK>1170</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401200</ID>
+		<MaxName>逐雷棍</MaxName>
+		<Name>ヤグルシ</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ピアシングライト</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>250</MinATK>
+		<MaxHP>208</MaxHP>
+		<MaxATK>1540</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401300</ID>
+		<MaxName>炎従</MaxName>
+		<Name>アーソン</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ピアシングライト</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>260</MinATK>
+		<MaxHP>197</MaxHP>
+		<MaxATK>1505</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401400</ID>
+		<MaxName>光宿</MaxName>
+		<Name>ホーリーケーン</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ピアシングライト</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>250</MinATK>
+		<MaxHP>199</MaxHP>
+		<MaxATK>1495</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401500</ID>
+		<MaxName>幽霧杖</MaxName>
+		<Name>セレストケーン</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ヴォイド</Secrets>
+		<Skill1>흑무방진・수호</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>158</MaxHP>
+		<MaxATK>1230</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401600</ID>
+		<MaxName>遊獣杖</MaxName>
+		<Name>ヘルウォードセプター</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>アビス・ダムネーション</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>153</MaxHP>
+		<MaxATK>1195</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401700</ID>
+		<Name>エアリアルケーン</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>サークル</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>255</MinATK>
+		<MaxHP>198</MaxHP>
+		<MaxATK>1500</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401800</ID>
+		<MaxName>嘆骸</MaxName>
+		<Name>スカルワンド</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>キャスパーショック</Secrets>
+		<Skill1>스컬 퍼레이드</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>172</MaxHP>
+		<MaxATK>1340</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 더블어택 확률상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030402100</ID>
+		<Name>風詠みの杖</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ピアシングライト</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>265</MinATK>
+		<MaxHP>205</MaxHP>
+		<MaxATK>1555</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030402900</ID>
+		<MaxName>勝炎</MaxName>
+		<Name>サルヴトーチ</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>サークル</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>32</MinHP>
+		<MinATK>265</MinATK>
+		<MaxHP>201</MaxHP>
+		<MaxATK>1530</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030403000</ID>
+		<MaxName>禍雷杖</MaxName>
+		<Name>雷司の杖</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>雷鼓</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>157</MaxHP>
+		<MaxATK>1175</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030403100</ID>
+		<MaxName>邪絶杖</MaxName>
+		<Name>ディアボロスセプター</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>闇の淀み</Secrets>
+		<Skill1>증오의 수호</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>158</MaxHP>
+		<MaxATK>1230</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030403200</ID>
+		<MaxName>祖龍杖</MaxName>
+		<Name>バハムートスタッフ</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>콘킬리오・카이룰레우스</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>172</MaxHP>
+		<MaxATK>1340</MaxATK>
+		<Skill1Detail>엘룬족과 하빈족의 공격력/HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030403300</ID>
+		<Name>リトルウィッチセプター</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>エレメンタルガスト</Secrets>
+		<Skill1>이오와의 연</Skill1>
+		<Skill2>마력의 수련</Skill2>
+		<MinHP>25</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>1200</MaxATK>
+		<Skill1Detail>이오가 파티에 있을때 공격력/방어력 UP</Skill1Detail>
+		<Skill2Detail>어빌리티 공격력UP</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030499000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルワンド</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>レイ</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030500000</ID>
+		<MaxName>疾迅</MaxName>
+		<Name>ウィンドクロス</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>ドゥービーショット</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>2010</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500100</ID>
+		<MaxName>竜棘</MaxName>
+		<Name>ドラゴンテイル</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>ランナウェイ</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>335</MinATK>
+		<MaxHP>127</MaxHP>
+		<MaxATK>1945</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500200</ID>
+		<MaxName>燕光</MaxName>
+		<Name>スワロウテイル</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>ドゥービーショット</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>124</MaxHP>
+		<MaxATK>1870</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500300</ID>
+		<MaxName>至匠</MaxName>
+		<Name>スナップハンス</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>ランナウェイ</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>315</MinATK>
+		<MaxHP>123</MaxHP>
+		<MaxATK>1875</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500400</ID>
+		<MaxName>紫速</MaxName>
+		<Name>トラドール</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>ランナウェイ</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>255</MinATK>
+		<MaxHP>112</MaxHP>
+		<MaxATK>1640</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500500</ID>
+		<MaxName>嵐竜銃</MaxName>
+		<Name>ティアマトボルト</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>エリアルクラスター</Secrets>
+		<Skill1>남룡방진・공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>240</MinATK>
+		<MaxHP>97</MaxHP>
+		<MaxATK>1475</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500600</ID>
+		<MaxName>海嘯銃</MaxName>
+		<Name>レヴィアンマズル</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>グランドフォール</Secrets>
+		<Skill1>해신방진・공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>103</MaxHP>
+		<MaxATK>1505</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500700</ID>
+		<Name>レグロン</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>デルタショット</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>330</MinATK>
+		<MaxHP>128</MaxHP>
+		<MaxATK>1940</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030500800</ID>
+		<MaxName>斧銃</MaxName>
+		<Name>ホイルロックアックス</Name>
+		<Element>토</Element>
+		<Kind>총</Kind>
+		<Secrets>デルタショット</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>305</MinATK>
+		<MaxHP>125</MaxHP>
+		<MaxATK>1865</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501000</ID>
+		<Name>シモニア</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>ジュデッカ</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>1460</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501100</ID>
+		<MaxName>蒼碧砲</MaxName>
+		<Name>アークゥイバス</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>ドゥービーショット</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>260</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>1600</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501200</ID>
+		<MaxName>蛇神銃</MaxName>
+		<Name>ミドガルドの破弾</Name>
+		<Element>토</Element>
+		<Kind>총</Kind>
+		<Secrets>グラットンバイト</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>1490</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501300</ID>
+		<MaxName>蒼碧銃</MaxName>
+		<Name>アークゥイバス・カスタム</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>ドゥービーショット</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>340</MinATK>
+		<MaxHP>129</MaxHP>
+		<MaxATK>1980</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501400</ID>
+		<MaxName>魚撃</MaxName>
+		<Name>アルバコアライフル</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>トゥンヌスアタック</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>11</MinHP>
+		<MinATK>255</MinATK>
+		<MaxHP>92</MaxHP>
+		<MaxATK>1500</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501500</ID>
+		<MaxName>幽霧銃</MaxName>
+		<Name>セレストライフル</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>ヴォイド</Secrets>
+		<Skill1>흑무방진・수호</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>260</MinATK>
+		<MaxHP>97</MaxHP>
+		<MaxATK>1535</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501600</ID>
+		<MaxName>百煌銃</MaxName>
+		<Name>ヘカトンケイルマズル</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>無常の雷迅</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>235</MinATK>
+		<MaxHP>98</MaxHP>
+		<MaxATK>1470</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501800</ID>
+		<MaxName>暴狼銃</MaxName>
+		<Name>スキールニル</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>ヴァナルガンド</Secrets>
+		<Skill1>조수의 양손</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>101</MaxHP>
+		<MaxATK>1480</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 더블어택 확률상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030502600</ID>
+		<MaxName>祖龍銃</MaxName>
+		<Name>バハムートマズル</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>하빈 아니무스・위스</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>305</MinATK>
+		<MaxHP>115</MaxHP>
+		<MaxATK>1850</MaxATK>
+		<Skill1Detail>하빈족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030502700</ID>
+		<MaxName>蒐索銃</MaxName>
+		<Name>アワリティアガン</Name>
+		<Element>토</Element>
+		<Kind>총</Kind>
+		<Secrets>響音</Secrets>
+		<Skill1>대지의 수호</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>99</MaxHP>
+		<MaxATK>1465</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030502800</ID>
+		<MaxName>怪桃銃</MaxName>
+		<Name>アンノウンショット</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>モーメントパス</Secrets>
+		<Skill1>미지의 힘・ATK</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>245</MinATK>
+		<MaxHP>95</MaxHP>
+		<MaxATK>1480</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030502900</ID>
+		<Name>クォレル</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>ドゥービーショット</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>126</MaxHP>
+		<MaxATK>1860</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030599000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルガン</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>デルタショット</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030600000</ID>
+		<MaxName>猫爪</MaxName>
+		<Name>ネコパンチ</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>無双旋風脚</Secrets>
+		<Skill1>대지의 수호</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>265</MinATK>
+		<MaxHP>174</MaxHP>
+		<MaxATK>1620</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600100</ID>
+		<MaxName>拳刃</MaxName>
+		<Name>ジャマダハル</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>餓狼伐虎四方拳</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>172</MaxHP>
+		<MaxATK>1630</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600200</ID>
+		<MaxName>帝撃</MaxName>
+		<Name>カイザーナックル</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>壊龍伏衝撃</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>250</MinATK>
+		<MaxHP>166</MaxHP>
+		<MaxATK>1570</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600300</ID>
+		<Name>乾坤圏</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>餓狼伐虎四方拳</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>185</MaxHP>
+		<MaxATK>1745</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600400</ID>
+		<MaxName>八角鬼</MaxName>
+		<Name>ジュル</Name>
+		<Element>암</Element>
+		<Kind>권갑</Kind>
+		<Secrets>無双旋風脚</Secrets>
+		<Skill1>증오의 끝</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>146</MaxHP>
+		<MaxATK>1370</MaxATK>
+		<Skill1Detail>암속성 캐릭터가 드물게 카운터를 발동. 스킬레벨 상승으로 카운터 데미지 업(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600500</ID>
+		<MaxName>機殻拳</MaxName>
+		<Name>コロッサスフィスト</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>絶閃</Secrets>
+		<Skill1>기염방진・공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>136</MaxHP>
+		<MaxATK>1310</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600700</ID>
+		<MaxName>羅象拳</MaxName>
+		<Name>世界樹の幹甲</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>アクシス・ムンディ</Secrets>
+		<Skill1>창수방진・공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>141</MaxHP>
+		<MaxATK>1315</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600800</ID>
+		<MaxName>土竜爪</MaxName>
+		<Name>モールハンド</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>無双旋風脚</Secrets>
+		<Skill1>대지의 수호</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>179</MaxHP>
+		<MaxATK>1675</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030600900</ID>
+		<MaxName>氷冥爪</MaxName>
+		<Name>リンボ</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>ジュデッカ</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>137</MaxHP>
+		<MaxATK>1270</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030601000</ID>
+		<MaxName>厳砕甲</MaxName>
+		<Name>インパクトナックル</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>餓狼伐虎四方拳</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>270</MinATK>
+		<MaxHP>176</MaxHP>
+		<MaxATK>1650</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030601100</ID>
+		<MaxName>紫晶拳</MaxName>
+		<Name>チェインナックル</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>壊龍伏衝撃</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>174</MaxHP>
+		<MaxATK>1665</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030601200</ID>
+		<MaxName>魚打</MaxName>
+		<Name>アルバコアヘッド</Name>
+		<Element>암</Element>
+		<Kind>권갑</Kind>
+		<Secrets>トゥンヌスアタック</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>1300</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030601300</ID>
+		<MaxName>墨撃</MaxName>
+		<Name>スキッドハンド</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>烏賊墨爆裂掌</Secrets>
+		<Skill1>오징어의 마음</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>124</MaxHP>
+		<MaxATK>1145</MaxATK>
+		<Skill1Detail>트리플 어택 발생 확률상승(특대)(메인 장비시 플레이어 한정)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030601500</ID>
+		<MaxName>猛虎</MaxName>
+		<Name>タイガーファング</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>壊龍伏衝撃</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>270</MinATK>
+		<MaxHP>173</MaxHP>
+		<MaxATK>1625</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030602000</ID>
+		<MaxName>炎撃甲</MaxName>
+		<Name>バルカンガントレット</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>餓狼伐虎四方拳</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1450</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603200</ID>
+		<MaxName>禍雷爪</MaxName>
+		<Name>雷司の爪</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>雷鼓</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>136</MaxHP>
+		<MaxATK>1280</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603300</ID>
+		<MaxName>怪緑拳</MaxName>
+		<Name>アンノウングラブ</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>未確認生物、落下。</Secrets>
+		<Skill1>미지의 힘・ATK</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>135</MaxHP>
+		<MaxATK>1285</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603400</ID>
+		<MaxName>壊撃</MaxName>
+		<Name>メタルグローブ</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>壊龍伏衝撃</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>31</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>183</MaxHP>
+		<MaxATK>1710</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603500</ID>
+		<Name>カップ＆ソーサー</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>無双旋風脚</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>290</MinATK>
+		<MaxHP>177</MaxHP>
+		<MaxATK>1695</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603600</ID>
+		<MaxName>極愛拳</MaxName>
+		<Name>バレンタイングラブ</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>デア・ミコー</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>139</MaxHP>
+		<MaxATK>1325</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603700</ID>
+		<Name>バハムートナックル</Name>
+		<Element>암</Element>
+		<Kind>권갑</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>휴먼 아니무스・멘스</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>270</MinATK>
+		<MaxHP>161</MaxHP>
+		<MaxATK>1575</MaxATK>
+		<Skill1Detail>휴먼족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603800</ID>
+		<MaxName>咎砕</MaxName>
+		<Name>無慈悲な制裁</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>壊龍伏衝撃</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>178</MaxHP>
+		<MaxATK>1690</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030603900</ID>
+		<Name>ミサンガ</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>無双旋風脚</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>176</MaxHP>
+		<MaxATK>1655</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030699000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルナックル</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>壊龍伏衝撃</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030700000</ID>
+		<MaxName>仕掛弓</MaxName>
+		<Name>サルンガ</Name>
+		<Element>화</Element>
+		<Kind>활</Kind>
+		<Secrets>ラピッドストリーム</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>157</MaxHP>
+		<MaxATK>1745</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700100</ID>
+		<MaxName>落涙</MaxName>
+		<Name>烏号</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>影縫い</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>161</MaxHP>
+		<MaxATK>1725</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700200</ID>
+		<MaxName>神吹</MaxName>
+		<Name>エルフィンボウ</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>ブラストアロー</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>158</MaxHP>
+		<MaxATK>1740</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700300</ID>
+		<MaxName>密智弓</MaxName>
+		<Name>ネフティスボウ</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>ソウルレクイエム</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>126</MaxHP>
+		<MaxATK>1390</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700500</ID>
+		<MaxName>昏征弓</MaxName>
+		<Name>シャドウボウ</Name>
+		<Element>암</Element>
+		<Kind>활</Kind>
+		<Secrets>影縫い</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>155</MaxHP>
+		<MaxATK>1755</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700600</ID>
+		<MaxName>帝月</MaxName>
+		<Name>インペリアルボウ</Name>
+		<Element>화</Element>
+		<Kind>활</Kind>
+		<Secrets>ブラストアロー</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>162</MaxHP>
+		<MaxATK>1810</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700700</ID>
+		<MaxName>杜守</MaxName>
+		<Name>翠枝の弓</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>影縫い</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>26</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>160</MaxHP>
+		<MaxATK>1770</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700800</ID>
+		<MaxName>裁考弓</MaxName>
+		<Name>裁きの弓箭</Name>
+		<Element>토</Element>
+		<Kind>활</Kind>
+		<Secrets>ヴェンディダード</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>126</MaxHP>
+		<MaxATK>1360</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030700900</ID>
+		<MaxName>水恵弓</MaxName>
+		<Name>マナウィダンボウ</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>フルクトゥアト・ソロル</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>127</MaxHP>
+		<MaxATK>1355</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030701000</ID>
+		<MaxName>黒麗</MaxName>
+		<Name>漆弓</Name>
+		<Element>토</Element>
+		<Kind>활</Kind>
+		<Secrets>影縫い</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>135</MaxHP>
+		<MaxATK>1460</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030701200</ID>
+		<MaxName>遊獣弓</MaxName>
+		<Name>ヘルウォードボウ</Name>
+		<Element>암</Element>
+		<Kind>활</Kind>
+		<Secrets>アビス・ダムネーション</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>235</MinATK>
+		<MaxHP>121</MaxHP>
+		<MaxATK>1385</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030701300</ID>
+		<MaxName>水神弓</MaxName>
+		<Name>ポセイドンボウ</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>ミローススラスト</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>129</MaxHP>
+		<MaxATK>1375</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030701400</ID>
+		<MaxName>落暉</MaxName>
+		<Name>紅陽弓</Name>
+		<Element>광</Element>
+		<Kind>활</Kind>
+		<Secrets>ライトブラスト</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>125</MaxHP>
+		<MaxATK>1365</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030702200</ID>
+		<MaxName>愁歎弓</MaxName>
+		<Name>ブランウェンボウ</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>悲叫</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1400</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030702400</ID>
+		<Name>バハムートボウ</Name>
+		<Element>암</Element>
+		<Kind>활</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>엘룬 아니무스・멘스</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>148</MaxHP>
+		<MaxATK>1680</MaxATK>
+		<Skill1Detail>엘룬족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030702500</ID>
+		<MaxName>渇欲弓</MaxName>
+		<Name>マモーナスボウ</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>グリーディロブ</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>127</MaxHP>
+		<MaxATK>1410</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030702600</ID>
+		<MaxName>氷至</MaxName>
+		<Name>アイスボウ</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>ブラストアロー</Secrets>
+		<Skill1>조수의 공인</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>163</MaxHP>
+		<MaxATK>1755</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030702800</ID>
+		<MaxName>不融弓</MaxName>
+		<Name>コントラリーボウ</Name>
+		<Element>화</Element>
+		<Kind>활</Kind>
+		<Secrets>デマゴーグ</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>230</MinATK>
+		<MaxHP>125</MaxHP>
+		<MaxATK>1395</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030799000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルボウ</Name>
+		<Element>광</Element>
+		<Kind>활</Kind>
+		<Secrets>ラピッドストリーム</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030800000</ID>
+		<MaxName>想奏</MaxName>
+		<Name>吟遊詩人の竪琴</Name>
+		<Element>풍</Element>
+		<Kind>악기</Kind>
+		<Secrets>ソウルボイス</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>46</MinHP>
+		<MinATK>252</MinATK>
+		<MaxHP>161</MaxHP>
+		<MaxATK>1485</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800100</ID>
+		<MaxName>祓音</MaxName>
+		<Name>白金の竪琴</Name>
+		<Element>풍</Element>
+		<Kind>악기</Kind>
+		<Secrets>レクイエム</Secrets>
+		<Skill1>바람의 수호</Skill1>
+		<MinHP>38</MinHP>
+		<MinATK>212</MinATK>
+		<MaxHP>140</MaxHP>
+		<MaxATK>1300</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800200</ID>
+		<MaxName>麗琴</MaxName>
+		<Name>アタナシウス</Name>
+		<Element>토</Element>
+		<Kind>악기</Kind>
+		<Secrets>ソウルボイス</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>50</MinHP>
+		<MinATK>250</MinATK>
+		<MaxHP>169</MaxHP>
+		<MaxATK>1530</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800300</ID>
+		<MaxName>幽月</MaxName>
+		<Name>ストラヴァリア</Name>
+		<Element>풍</Element>
+		<Kind>악기</Kind>
+		<Secrets>レクイエム</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>48</MinHP>
+		<MinATK>260</MinATK>
+		<MaxHP>167</MaxHP>
+		<MaxATK>1540</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800400</ID>
+		<MaxName>百煌琴</MaxName>
+		<Name>ヘカトンケイルハープ</Name>
+		<Element>광</Element>
+		<Kind>악기</Kind>
+		<Secrets>無常の雷迅</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>37</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>1210</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800500</ID>
+		<MaxName>妖奏</MaxName>
+		<Name>ドラキュラハープ</Name>
+		<Element>암</Element>
+		<Kind>악기</Kind>
+		<Secrets>永眠のララバイ</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>45</MinHP>
+		<MinATK>275</MinATK>
+		<MaxHP>164</MaxHP>
+		<MaxATK>1555</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800600</ID>
+		<MaxName>古尊琴</MaxName>
+		<Name>バビロンの竪琴</Name>
+		<Element>토</Element>
+		<Kind>악기</Kind>
+		<Secrets>ネビル</Secrets>
+		<Skill1>대지의 공인</Skill1>
+		<MinHP>38</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>133</MaxHP>
+		<MaxATK>1205</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800800</ID>
+		<MaxName>聖奏</MaxName>
+		<Name>ホーリーチャンター</Name>
+		<Element>광</Element>
+		<Kind>악기</Kind>
+		<Secrets>ソウルボイス</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>49</MinHP>
+		<MinATK>255</MinATK>
+		<MaxHP>168</MaxHP>
+		<MaxATK>1535</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800900</ID>
+		<MaxName>竜奏</MaxName>
+		<Name>竜髭の弦</Name>
+		<Element>화</Element>
+		<Kind>악기</Kind>
+		<Secrets>カラミティ</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1235</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030801000</ID>
+		<MaxName>禍風琴</MaxName>
+		<Name>風司の琴</Name>
+		<Element>풍</Element>
+		<Kind>악기</Kind>
+		<Secrets>烈風</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1215</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030801100</ID>
+		<MaxName>怪緑琴</MaxName>
+		<Name>アンノウンハープ</Name>
+		<Element>암</Element>
+		<Kind>악기</Kind>
+		<Secrets>未確認生物、落下。</Secrets>
+		<Skill1>미지의 힘・VIT</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>1215</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030801900</ID>
+		<MaxName>極愛琴</MaxName>
+		<Name>バレンタインハープ</Name>
+		<Element>화</Element>
+		<Kind>악기</Kind>
+		<Secrets>デア・ミコー</Secrets>
+		<Skill1>업화의 수호</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>133</MaxHP>
+		<MaxATK>1255</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030802000</ID>
+		<Name>バハムートハープ</Name>
+		<Element>암</Element>
+		<Kind>악기</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>하빈 아니무스・멘스</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>285</MinATK>
+		<MaxHP>161</MaxHP>
+		<MaxATK>1575</MaxATK>
+		<Skill1Detail>하빈족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030802100</ID>
+		<Name>アクアリウムハープ</Name>
+		<Element>수</Element>
+		<Kind>악기</Kind>
+		<Secrets>永眠のララバイ</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>51</MinHP>
+		<MinATK>245</MinATK>
+		<MaxHP>170</MaxHP>
+		<MaxATK>1525</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030802200</ID>
+		<MaxName>渇欲琴</MaxName>
+		<Name>マモーナスハープ</Name>
+		<Element>풍</Element>
+		<Kind>악기</Kind>
+		<Secrets>グリーディロブ</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>36</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>1230</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030899000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>アークエンジェルハープ</Name>
+		<Element>광</Element>
+		<Kind>악기</Kind>
+		<Secrets>レクイエム</Secrets>
+		<MinHP>40</MinHP>
+		<MinATK>100</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>400</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030900000</ID>
+		<Name>虎鉄</Name>
+		<Element>화</Element>
+		<Kind>도</Kind>
+		<Secrets>虎牙急刃</Secrets>
+		<Skill1>업화의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>320</MinATK>
+		<MaxHP>128</MaxHP>
+		<MaxATK>1855</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030900100</ID>
+		<Name>蛍丸</Name>
+		<Element>수</Element>
+		<Kind>도</Kind>
+		<Secrets>残月</Secrets>
+		<Skill1>조수의 수호</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>295</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>1835</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030900200</ID>
+		<MaxName>瞑塗</MaxName>
+		<Name>蜥蜴丸</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>亜空一閃</Secrets>
+		<Skill1>증오의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>325</MinATK>
+		<MaxHP>126</MaxHP>
+		<MaxATK>1865</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030900500</ID>
+		<Name>バハムートブレイド</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>レギンレイヴ</Secrets>
+		<Skill1>드라프 아니무스・멘스</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>121</MaxHP>
+		<MaxATK>1790</MaxATK>
+		<Skill1Detail>드라프족의 최대 HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030901300</ID>
+		<MaxName>蒐索刀</MaxName>
+		<Name>アワリティアブレード</Name>
+		<Element>토</Element>
+		<Kind>도</Kind>
+		<Secrets>響音</Secrets>
+		<Skill1>대지의 수호</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>104</MaxHP>
+		<MaxATK>1450</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030901400</ID>
+		<MaxName>怪桃刀</MaxName>
+		<Name>アンノウンリッパー</Name>
+		<Element>풍</Element>
+		<Kind>도</Kind>
+		<Secrets>モーメントパス</Secrets>
+		<Skill1>미지의 힘・ATK</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>235</MinATK>
+		<MaxHP>102</MaxHP>
+		<MaxATK>1460</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030999000</ID>
+		<MaxName>大天使</MaxName>
+		<Name>大天使刀</Name>
+		<Element>광</Element>
+		<Kind>도</Kind>
+		<Secrets>残月</Secrets>
+		<MinHP>40</MinHP>
+		<MinATK>100</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>400</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1039900000</ID>
+		<MaxName>悪魔</MaxName>
+		<Name>デビルエレメント</Name>
+		<Element>암</Element>
+		<Kind>소재</Kind>
+		<Secrets>なし</Secrets>
+		<Skill1>금단의 열매</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>100</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>300</MaxATK>
+		<Skill1Detail>강화에 사용하면 무기 스킬레벨이 올라가기 쉽다(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030003300</ID>
+		<MaxName>偽救</MaxName>
+		<Name>スコフニュング・レプリカ</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>マディストリーム</Secrets>
+		<Skill1>불굴의 충의</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>234</MinATK>
+		<MaxHP>134</MaxHP>
+		<MaxATK>1526</MaxATK>
+		<Skill1Detail>드라이브 버스트의 효과UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030102800</ID>
+		<MaxName>偽凶</MaxName>
+		<Name>イペタム・レプリカ</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>カウント・ゼロ</Secrets>
+		<Skill1>혼돈에서 나오는 폭식</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>253</MinATK>
+		<MaxHP>142</MaxHP>
+		<MaxATK>1483</MaxATK>
+		<Skill1Detail>어빌리티 명중확률UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030103000</ID>
+		<Name>ファウスト・レプリカ</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>コズミキコニス</Secrets>
+		<Skill1>삼라만상의 이치</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>228</MinATK>
+		<MaxHP>147</MaxHP>
+		<MaxATK>1458</MaxATK>
+		<Skill1Detail>士気向上(사기진작)의 효과 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030202800(1)</ID>
+		<Name>ロムルス・レプリカ</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>セレスティアルスター</Secrets>
+		<Skill1>심연을 비추는 광명</Skill1>
+		<MinHP>25</MinHP>
+		<MinATK>158</MinATK>
+		<MaxHP>223</MaxHP>
+		<MaxATK>1404</MaxATK>
+		<Skill1Detail>リードドライブ(리드 드라이브)사용시에 자신의 HP회복</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030301900</ID>
+		<Name>アヴェンジャー・レプリカ</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>エクスハティオ</Secrets>
+		<Skill1>검성의 영혼</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>266</MinATK>
+		<MaxHP>115</MaxHP>
+		<MaxATK>1619</MaxATK>
+		<Skill1Detail>レイジ(레이지)의 효과시간연장(발동유저 한정)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030401900</ID>
+		<MaxName>偽聖</MaxName>
+		<Name>ニルヴァーナ・レプリカ</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>アカシックレコード</Secrets>
+		<Skill1>득도의 경지</Skill1>
+		<MinHP>28</MinHP>
+		<MinATK>209</MinATK>
+		<MaxHP>176</MaxHP>
+		<MaxATK>1316</MaxATK>
+		<Skill1Detail>ヒールオール(힐 올)의 효과UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030402000</ID>
+		<Name>ケラウノス・レプリカ</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>グランメティオール</Secrets>
+		<Skill1>천둥의 울림</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>204</MinATK>
+		<MaxHP>177</MaxHP>
+		<MaxATK>1311</MaxATK>
+		<Skill1Detail>エーテルブラスト의 효과UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030501700</ID>
+		<MaxName>偽撃</MaxName>
+		<Name>オリバー・レプリカ</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>エテルネル・ルトゥール</Secrets>
+		<Skill1>모략과 책략의 꾀</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>267</MinATK>
+		<MaxHP>109</MaxHP>
+		<MaxATK>1651</MaxATK>
+		<Skill1Detail>トレジャーハント(트레저 헌트)의 효과UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030602500</ID>
+		<Name>鬼神の籠手・レプリカ</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>一矢報いる烈火の揮い</Secrets>
+		<Skill1>파괴를 불러오는 강한 마음</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>238</MinATK>
+		<MaxHP>150</MaxHP>
+		<MaxATK>1443</MaxATK>
+		<Skill1Detail>드물게 모든 공격을 회피. 회피시 오의 게이지 UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030701500</ID>
+		<MaxName>偽殲</MaxName>
+		<Name>ローゼンボーゲン・レプリカ</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>ロッサ・エスペヒスモ</Secrets>
+		<Skill1>춤은 폭풍의 바늘산처럼</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>248</MinATK>
+		<MaxHP>139</MaxHP>
+		<MaxATK>1533</MaxATK>
+		<Skill1Detail>ライトウェイト(라이트 웨이트)의 효과UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030800700</ID>
+		<Name>ランゲレイク・レプリカ</Name>
+		<Element>수</Element>
+		<Kind>악기</Kind>
+		<Secrets>エンピレオ</Secrets>
+		<Skill1>잃어버린 성현의 악보</Skill1>
+		<MinHP>43</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>149</MaxHP>
+		<MaxATK>1343</MaxATK>
+		<Skill1Detail>ミンストレルソング(민스트렐 송)의 효과UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030900300</ID>
+		<Name>模造刀</Name>
+		<Element>광</Element>
+		<Kind>도</Kind>
+		<Secrets>草薙</Secrets>
+		<Skill1>하늘 샛별의 영혼</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>259</MinATK>
+		<MaxHP>115</MaxHP>
+		<MaxATK>1631</MaxATK>
+		<Skill1Detail>오의 게이지 상승률UP</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030900400</ID>
+		<Name>贋作刀</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>臨兵闘者皆陣列在前</Secrets>
+		<Skill1>구자호신법</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>279</MinATK>
+		<MaxHP>111</MaxHP>
+		<MaxATK>1651</MaxATK>
+		<Skill1Detail>일정확률로 적 전체에게 통상공격</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030002900</ID>
+		<MaxName>失聖</MaxName>
+		<Name>朽ち果てた剣</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>地烈斬</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030102500</ID>
+		<MaxName>塵界</MaxName>
+		<Name>朽ち果てた刃</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>鎌鼬</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030202400</ID>
+		<MaxName>偽明</MaxName>
+		<Name>朽ち果てた槍</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>迅牙貴槍</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030302000</ID>
+		<MaxName>崩礎</MaxName>
+		<Name>朽ち果てた斧</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>オーラアクス</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030402200</ID>
+		<MaxName>虚叡</MaxName>
+		<Name>朽ち果てた杖</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>レイ</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030502500</ID>
+		<MaxName>棄昏</MaxName>
+		<Name>朽ち果てた銃</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>ランナウェイ</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030601400</ID>
+		<MaxName>不砕</MaxName>
+		<Name>朽ち果てた手甲</Name>
+		<Element>암</Element>
+		<Kind>권갑</Kind>
+		<Secrets>壊龍伏衝撃</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030702300</ID>
+		<MaxName>狂審</MaxName>
+		<Name>朽ち果てた弓</Name>
+		<Element>암</Element>
+		<Kind>활</Kind>
+		<Secrets>影縫い</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030801200</ID>
+		<MaxName>堕楽</MaxName>
+		<Name>朽ち果てた竪琴</Name>
+		<Element>암</Element>
+		<Kind>악기</Kind>
+		<Secrets>レクイエム</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>26</MaxHP>
+		<MaxATK>84</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1030900600</ID>
+		<MaxName>壊転</MaxName>
+		<Name>朽ち果てた太刀</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>亜空一閃</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020000000</ID>
+		<MaxName>剛剣</MaxName>
+		<Name>クレイモア</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>90</MaxHP>
+		<MaxATK>1085</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020000100</ID>
+		<MaxName>蒼銀剣</MaxName>
+		<Name>ミスリルレイピア</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<MinHP>10</MinHP>
+		<MinATK>125</MinATK>
+		<MaxHP>68</MaxHP>
+		<MaxATK>760</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020000200</ID>
+		<MaxName>断魔</MaxName>
+		<Name>アネラス</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>92</MaxHP>
+		<MaxATK>1115</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020000300</ID>
+		<MaxName>潰打</MaxName>
+		<Name>ファルシオン</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>95</MaxHP>
+		<MaxATK>1140</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020000400</ID>
+		<MaxName>雷光</MaxName>
+		<Name>サンダーレイピア</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>99</MaxHP>
+		<MaxATK>1155</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020000500</ID>
+		<MaxName>蒼銀剣</MaxName>
+		<Name>ミスリルソード</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<MinHP>10</MinHP>
+		<MinATK>125</MinATK>
+		<MaxHP>64</MaxHP>
+		<MaxATK>780</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020000600</ID>
+		<MaxName>蒼銀剣</MaxName>
+		<Name>ミスリルスパタ</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<MinHP>10</MinHP>
+		<MinATK>125</MinATK>
+		<MaxHP>65</MaxHP>
+		<MaxATK>775</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020000700</ID>
+		<MaxName>蒼銀剣</MaxName>
+		<Name>ミスリルサーベル</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<MinHP>10</MinHP>
+		<MinATK>125</MinATK>
+		<MaxHP>67</MaxHP>
+		<MaxATK>765</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020000800</ID>
+		<MaxName>緋焔</MaxName>
+		<Name>ファイアソード</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>97</MaxHP>
+		<MaxATK>1165</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001100</ID>
+		<MaxName>帝斬</MaxName>
+		<Name>インペリアルショテル</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>11</MinHP>
+		<MinATK>125</MinATK>
+		<MaxHP>69</MaxHP>
+		<MaxATK>780</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001200</ID>
+		<MaxName>琥曲</MaxName>
+		<Name>アースカトラス</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>1145</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001400</ID>
+		<MaxName>凍刃</MaxName>
+		<Name>氷釘</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>물의 수인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>97</MaxHP>
+		<MaxATK>1160</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001500</ID>
+		<MaxName>光風</MaxName>
+		<Name>ライトブリンガー</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>90</MaxHP>
+		<MaxATK>1200</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001600</ID>
+		<MaxName>陽幻</MaxName>
+		<Name>フレイムレイピア</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>99</MaxHP>
+		<MaxATK>1190</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001700</ID>
+		<MaxName>氷刃</MaxName>
+		<Name>アイスソード</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>103</MaxHP>
+		<MaxATK>1170</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001800</ID>
+		<MaxName>誓剣</MaxName>
+		<Name>サイフォス</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>102</MaxHP>
+		<MaxATK>1180</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020001900</ID>
+		<MaxName>純剣</MaxName>
+		<Name>トゥハンドソード</Name>
+		<Element>토</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>98</MaxHP>
+		<MaxATK>1125</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020002000</ID>
+		<MaxName>祭剣</MaxName>
+		<Name>ダークソード</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>95</MaxHP>
+		<MaxATK>1175</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020002100</ID>
+		<MaxName>海老竿</MaxName>
+		<Name>シュリンプルアー</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>105</MaxHP>
+		<MaxATK>1200</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020002200</ID>
+		<Name>オールドソード</Name>
+		<Element>풍</Element>
+		<Kind>검</Kind>
+		<Secrets>ワイドブレード</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>1190</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020099000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルソード※1</Name>
+		<Element>광</Element>
+		<Kind>검</Kind>
+		<Secrets>クロススラッシュ</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020100000</ID>
+		<MaxName>蒼銀刃</MaxName>
+		<Name>ミスリルナイフ</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<MinHP>12</MinHP>
+		<MinATK>115</MinATK>
+		<MaxHP>75</MaxHP>
+		<MaxATK>725</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020100100</ID>
+		<Name>ククリ</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>102</MaxHP>
+		<MaxATK>1030</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020100200</ID>
+		<MaxName>波眩</MaxName>
+		<Name>クリス</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>165</MinATK>
+		<MaxHP>104</MaxHP>
+		<MaxATK>1020</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020100300</ID>
+		<MaxName>蒼銀刃</MaxName>
+		<Name>ミスリルククリ</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<MinHP>12</MinHP>
+		<MinATK>115</MinATK>
+		<MaxHP>72</MaxHP>
+		<MaxATK>740</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020100400</ID>
+		<MaxName>惡貫</MaxName>
+		<Name>キーラ</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>105</MaxHP>
+		<MaxATK>1015</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020100500</ID>
+		<MaxName>密殺</MaxName>
+		<Name>アサシンダガー</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>9</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>84</MaxHP>
+		<MaxATK>1295</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020100600</ID>
+		<MaxName>鎮魔</MaxName>
+		<Name>マンダウ</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>100</MaxHP>
+		<MaxATK>1200</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020100700</ID>
+		<MaxName>繰幻</MaxName>
+		<Name>マインゴーシュ</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>11</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>70</MaxHP>
+		<MaxATK>700</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020100800</ID>
+		<MaxName>蒼銀刃</MaxName>
+		<Name>ミスリルダガー</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<MinHP>12</MinHP>
+		<MinATK>115</MinATK>
+		<MaxHP>71</MaxHP>
+		<MaxATK>745</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020100900</ID>
+		<MaxName>蒼銀刃</MaxName>
+		<Name>ミスリルクリス</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<MinHP>12</MinHP>
+		<MinATK>115</MinATK>
+		<MaxHP>74</MaxHP>
+		<MaxATK>730</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020101000</ID>
+		<MaxName>錐刃</MaxName>
+		<Name>メイルブレイカー</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>115</MaxHP>
+		<MaxATK>1115</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020101100</ID>
+		<MaxName>水波眩</MaxName>
+		<Name>ウォーターククリ</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>170</MinATK>
+		<MaxHP>112</MaxHP>
+		<MaxATK>1090</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020101200</ID>
+		<Name>ミセリコルデ</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>165</MinATK>
+		<MaxHP>107</MaxHP>
+		<MaxATK>1040</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020101300</ID>
+		<MaxName>緑穣</MaxName>
+		<Name>リーフダガー</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>107</MaxHP>
+		<MaxATK>1080</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020101500</ID>
+		<MaxName>波岩</MaxName>
+		<Name>土精の蛇行剣</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>125</MinATK>
+		<MaxHP>78</MaxHP>
+		<MaxATK>760</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020101700</ID>
+		<MaxName>征魔</MaxName>
+		<Name>ホーリークリス</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>110</MaxHP>
+		<MaxATK>1100</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020101800</ID>
+		<MaxName>緑鉱刃</MaxName>
+		<Name>エメラルドダガー</Name>
+		<Element>풍</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>114</MaxHP>
+		<MaxATK>1155</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020101900</ID>
+		<MaxName>黒耀</MaxName>
+		<Name>ダークナイフ</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<Skill1>어둠의 수호</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>106</MaxHP>
+		<MaxATK>1120</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020102000</ID>
+		<MaxName>灼熱</MaxName>
+		<Name>ファイアバゼラード</Name>
+		<Element>화</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>108</MaxHP>
+		<MaxATK>1110</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020102100</ID>
+		<Name>木彫りの短剣</Name>
+		<Element>토</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>170</MinATK>
+		<MaxHP>106</MaxHP>
+		<MaxATK>1045</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020102200</ID>
+		<MaxName>影刃</MaxName>
+		<Name>ブラッディピアース</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>ファストスライサー</Secrets>
+		<Skill1>어둠의 수호</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>109</MaxHP>
+		<MaxATK>1145</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020102300</ID>
+		<MaxName>折刃</MaxName>
+		<Name>ギミックダガー</Name>
+		<Element>암</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>111</MaxHP>
+		<MaxATK>1170</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020199000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルナイフ※1</Name>
+		<Element>광</Element>
+		<Kind>단검</Kind>
+		<Secrets>芽摘</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020200100</ID>
+		<MaxName>蒼銀槍</MaxName>
+		<Name>ミスリルハルベルト</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<MinHP>13</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>78</MaxHP>
+		<MaxATK>710</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020200200</ID>
+		<MaxName>戦歴</MaxName>
+		<Name>ハルベルト</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>115</MaxHP>
+		<MaxATK>1040</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020200300</ID>
+		<MaxName>一黙</MaxName>
+		<Name>メザラク</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<MinHP>13</MinHP>
+		<MinATK>115</MinATK>
+		<MaxHP>82</MaxHP>
+		<MaxATK>715</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020200400</ID>
+		<MaxName>業焔</MaxName>
+		<Name>ファイアグレイブ</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>117</MaxHP>
+		<MaxATK>1065</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020200500</ID>
+		<MaxName>巨威</MaxName>
+		<Name>クーゼ</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>111</MaxHP>
+		<MaxATK>1020</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020200600</ID>
+		<MaxName>蒼銀槍</MaxName>
+		<Name>ミスリルグレイブ</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<MinHP>13</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>77</MaxHP>
+		<MaxATK>715</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020200700</ID>
+		<MaxName>蒼銀槍</MaxName>
+		<Name>ミスリルスピア</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<MinHP>13</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>81</MaxHP>
+		<MaxATK>695</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020200800</ID>
+		<MaxName>蒼銀槍</MaxName>
+		<Name>ミスリルパルチザン</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<MinHP>13</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>80</MaxHP>
+		<MaxATK>700</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020200900</ID>
+		<MaxName>弧空</MaxName>
+		<Name>ランデベヴェ</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>115</MaxHP>
+		<MaxATK>1040</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020201000</ID>
+		<MaxName>疾旋</MaxName>
+		<Name>風精の鉤爪槍</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>76</MaxHP>
+		<MaxATK>695</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020201100</ID>
+		<MaxName>闇望</MaxName>
+		<Name>シャドウスピア</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>120</MinATK>
+		<MaxHP>79</MaxHP>
+		<MaxATK>755</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020201200</ID>
+		<MaxName>焔突</MaxName>
+		<Name>フレイムハルベルト</Name>
+		<Element>화</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>122</MaxHP>
+		<MaxATK>1110</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020201400</ID>
+		<MaxName>地護</MaxName>
+		<Name>アースハルベルト</Name>
+		<Element>토</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>168</MinATK>
+		<MaxHP>120</MaxHP>
+		<MaxATK>1050</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020201500</ID>
+		<MaxName>双貫</MaxName>
+		<Name>アクアンキラー</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>118</MaxHP>
+		<MaxATK>1025</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020201600</ID>
+		<MaxName>黒槍</MaxName>
+		<Name>ナイトホーン</Name>
+		<Element>암</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<Skill1>어둠의 수호</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>109</MaxHP>
+		<MaxATK>1030</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020201700</ID>
+		<Name>ギリーフォーク</Name>
+		<Element>풍</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>118</MaxHP>
+		<MaxATK>1060</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020299000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルスピア※1</Name>
+		<Element>광</Element>
+		<Kind>창</Kind>
+		<Secrets>スウィング</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020300000</ID>
+		<MaxName>曲月</MaxName>
+		<Name>タバール</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>86</MaxHP>
+		<MaxATK>1185</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020300100</ID>
+		<MaxName>戦闘斧</MaxName>
+		<Name>バトルアックス</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>80</MaxHP>
+		<MaxATK>1140</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020300200</ID>
+		<MaxName>雷斤</MaxName>
+		<Name>サンダーカリンガ</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>88</MaxHP>
+		<MaxATK>1210</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020300300</ID>
+		<MaxName>地砕</MaxName>
+		<Name>アースザグナル</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>89</MaxHP>
+		<MaxATK>1205</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020300400</ID>
+		<MaxName>蒼銀斧</MaxName>
+		<Name>ミスリルアックス</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<MinHP>9</MinHP>
+		<MinATK>130</MinATK>
+		<MaxHP>57</MaxHP>
+		<MaxATK>815</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020300500</ID>
+		<MaxName>蒼銀斧</MaxName>
+		<Name>ミスリルザグナル</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<MinHP>9</MinHP>
+		<MinATK>130</MinATK>
+		<MaxHP>61</MaxHP>
+		<MaxATK>795</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020300600</ID>
+		<MaxName>蒼銀斧</MaxName>
+		<Name>ミスリルハンマー</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<MinHP>9</MinHP>
+		<MinATK>130</MinATK>
+		<MaxHP>60</MaxHP>
+		<MaxATK>800</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020300700</ID>
+		<MaxName>蒼銀斧</MaxName>
+		<Name>ミスリルカリンガ</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<MinHP>9</MinHP>
+		<MinATK>130</MinATK>
+		<MaxHP>58</MaxHP>
+		<MaxATK>810</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020300800</ID>
+		<MaxName>断振</MaxName>
+		<Name>バルディッシュ</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>86</MaxHP>
+		<MaxATK>1145</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301000</ID>
+		<MaxName>豪猛</MaxName>
+		<Name>クリムゾンアックス</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>10</MinHP>
+		<MinATK>130</MinATK>
+		<MaxHP>60</MaxHP>
+		<MaxATK>825</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301100</ID>
+		<MaxName>巌斧</MaxName>
+		<Name>ロックハンマー</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>93</MaxHP>
+		<MaxATK>1255</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301200</ID>
+		<Name>スカイトマホーク</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>83</MaxHP>
+		<MaxATK>1155</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301300</ID>
+		<MaxName>収穫器</MaxName>
+		<Name>ハーベスター</Name>
+		<Element>수</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>물의 수인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>88</MaxHP>
+		<MaxATK>1170</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301400</ID>
+		<MaxName>圧撃</MaxName>
+		<Name>ドラブンハンマー</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>98</MaxHP>
+		<MaxATK>1125</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301500</ID>
+		<MaxName>戦臨</MaxName>
+		<Name>傭兵の斧</Name>
+		<Element>화</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>114</MaxHP>
+		<MaxATK>1040</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301600</ID>
+		<MaxName>刑具</MaxName>
+		<Name>ネックチョッパー</Name>
+		<Element>암</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>10</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>84</MaxHP>
+		<MaxATK>1230</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301700</ID>
+		<MaxName>嵐旋</MaxName>
+		<Name>ウィンドアックス</Name>
+		<Element>풍</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>87</MaxHP>
+		<MaxATK>1215</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020301800</ID>
+		<MaxName>鋼棘</MaxName>
+		<Name>モーニングスター</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>パワースウィング</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>205</MinATK>
+		<MaxHP>92</MaxHP>
+		<MaxATK>1265</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020399000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルアックス※1</Name>
+		<Element>광</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ブレインシェイク</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020400000</ID>
+		<MaxName>淨響</MaxName>
+		<Name>タイアハ</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>155</MinATK>
+		<MaxHP>130</MaxHP>
+		<MaxATK>965</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020400100</ID>
+		<MaxName>魔香</MaxName>
+		<Name>シャレラバディ</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>165</MinATK>
+		<MaxHP>135</MaxHP>
+		<MaxATK>1015</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020400200</ID>
+		<MaxName>蒼玉</MaxName>
+		<Name>ケーン</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>145</MinATK>
+		<MaxHP>128</MaxHP>
+		<MaxATK>935</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020400300</ID>
+		<MaxName>蒼銀杖</MaxName>
+		<Name>ミスリルロッド</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<MinHP>14</MinHP>
+		<MinATK>105</MinATK>
+		<MaxHP>86</MaxHP>
+		<MaxATK>670</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020400400</ID>
+		<MaxName>翼空</MaxName>
+		<Name>フェザースタッフ</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>150</MinATK>
+		<MaxHP>127</MaxHP>
+		<MaxATK>940</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020400500</ID>
+		<MaxName>蒼銀杖</MaxName>
+		<Name>ミスリルメイス</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<MinHP>14</MinHP>
+		<MinATK>105</MinATK>
+		<MaxHP>90</MaxHP>
+		<MaxATK>650</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020400600</ID>
+		<Name>フェザーワンド</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>128</MaxHP>
+		<MaxATK>975</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020400700</ID>
+		<MaxName>震棍</MaxName>
+		<Name>アースメイス</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>133</MaxHP>
+		<MaxATK>985</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020400800</ID>
+		<MaxName>秘水</MaxName>
+		<Name>ウォーターロッド</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>150</MinATK>
+		<MaxHP>134</MaxHP>
+		<MaxATK>980</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020400900</ID>
+		<MaxName>針鋲</MaxName>
+		<Name>スパイククラブ</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<MinHP>14</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>91</MaxHP>
+		<MaxATK>670</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020401000</ID>
+		<MaxName>打棍</MaxName>
+		<Name>メイス</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<MinHP>14</MinHP>
+		<MinATK>100</MinATK>
+		<MaxHP>87</MaxHP>
+		<MaxATK>640</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020401100</ID>
+		<MaxName>清流</MaxName>
+		<Name>水精の牧杖</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>물의 수인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>94</MaxHP>
+		<MaxATK>680</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020401200</ID>
+		<MaxName>紅蓮</MaxName>
+		<Name>火精の権杖</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>90</MaxHP>
+		<MaxATK>700</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020401300</ID>
+		<MaxName>凶装</MaxName>
+		<Name>シャドウワンド</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>어둠의 수호</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>110</MinATK>
+		<MaxHP>88</MaxHP>
+		<MaxATK>710</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020401500</ID>
+		<Name>ザ・クロス</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>124</MaxHP>
+		<MaxATK>980</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020401600</ID>
+		<MaxName>風祷</MaxName>
+		<Name>緑淡樹の杖</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>125</MaxHP>
+		<MaxATK>950</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020401700</ID>
+		<Name>ウィンドロッド</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>165</MinATK>
+		<MaxHP>131</MaxHP>
+		<MaxATK>995</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020401800</ID>
+		<MaxName>奸邪</MaxName>
+		<Name>イヴィルワンド</Name>
+		<Element>암</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>130</MaxHP>
+		<MaxATK>1030</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020401900</ID>
+		<MaxName>緑鉱杖</MaxName>
+		<Name>エメラルドケーン</Name>
+		<Element>풍</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>137</MaxHP>
+		<MaxATK>1040</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020402000</ID>
+		<MaxName>蒼洋</MaxName>
+		<Name>オーシャンロッド</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>물의 수인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>155</MinATK>
+		<MaxHP>137</MaxHP>
+		<MaxATK>1005</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020402100</ID>
+		<MaxName>魂火</MaxName>
+		<Name>呪炎の燭台</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>170</MinATK>
+		<MaxHP>130</MaxHP>
+		<MaxATK>1000</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020402200</ID>
+		<MaxName>聖木</MaxName>
+		<Name>ツリーワンド</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>135</MaxHP>
+		<MaxATK>1005</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020402300</ID>
+		<MaxName>淡雪</MaxName>
+		<Name>スノウマンロッド</Name>
+		<Element>수</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>140</MaxHP>
+		<MaxATK>1025</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020402400</ID>
+		<MaxName>燭台</MaxName>
+		<Name>松明</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>132</MaxHP>
+		<MaxATK>1020</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020402500</ID>
+		<Name>ストーンポール</Name>
+		<Element>토</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>165</MinATK>
+		<MaxHP>139</MaxHP>
+		<MaxATK>1030</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020499000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルワンド※1</Name>
+		<Element>광</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020500100</ID>
+		<MaxName>倒魔</MaxName>
+		<Name>ペトロネル</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>83</MaxHP>
+		<MaxATK>1270</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020500200</ID>
+		<MaxName>爆撃</MaxName>
+		<Name>グレネード</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>11</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>80</MaxHP>
+		<MaxATK>1250</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020500300</ID>
+		<MaxName>歴焔</MaxName>
+		<Name>マッチロック</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>ファイアグライド</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>77</MaxHP>
+		<MaxATK>1190</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020500400</ID>
+		<Name>サーペンタイン</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>어둠의 수호</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>73</MaxHP>
+		<MaxATK>1175</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020500500</ID>
+		<MaxName>煉弾</MaxName>
+		<Name>ジェザイル</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>ファイアグライド</Secrets>
+		<Skill1>어둠의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>265</MinATK>
+		<MaxHP>78</MaxHP>
+		<MaxATK>1260</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020500600</ID>
+		<MaxName>虹弾</MaxName>
+		<Name>虹魚鱗飾</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<MinHP>9</MinHP>
+		<MinATK>135</MinATK>
+		<MaxHP>58</MaxHP>
+		<MaxATK>835</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020500700</ID>
+		<MaxName>光炎</MaxName>
+		<Name>シャインバレル</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>9</MinHP>
+		<MinATK>140</MinATK>
+		<MaxHP>57</MaxHP>
+		<MaxATK>865</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020500800</ID>
+		<MaxName>護命</MaxName>
+		<Name>セルフディフェンサー</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>물의 수인</Skill1>
+		<Skill2>신조 토벌 계획</Skill2>
+		<MinHP>12</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>76</MaxHP>
+		<MaxATK>1180</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill2Detail>신조족에 대한 공격력 상승(小)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020500900</ID>
+		<MaxName>素銃</MaxName>
+		<Name>ハンドピストル</Name>
+		<Element>풍</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>83</MaxHP>
+		<MaxATK>1270</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020501000</ID>
+		<MaxName>飛水</MaxName>
+		<Name>ストレートアンカー</Name>
+		<Element>수</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>84</MaxHP>
+		<MaxATK>1230</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020501100</ID>
+		<MaxName>礎銃</MaxName>
+		<Name>レンジャーピストル</Name>
+		<Element>토</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>81</MaxHP>
+		<MaxATK>1200</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020501200</ID>
+		<Name>クラッカー</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>ファイアグライド</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>11</MinHP>
+		<MinATK>210</MinATK>
+		<MaxHP>78</MaxHP>
+		<MaxATK>1215</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020501300</ID>
+		<MaxName>荒銃</MaxName>
+		<Name>ソードオフ</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>ファイアグライド</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>215</MinATK>
+		<MaxHP>82</MaxHP>
+		<MaxATK>1275</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020501400</ID>
+		<MaxName>小型銃</MaxName>
+		<Name>デリンジャー</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>ファイアグライド</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>84</MaxHP>
+		<MaxATK>1300</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020501500</ID>
+		<Name>フレイムボルト</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>225</MinATK>
+		<MaxHP>86</MaxHP>
+		<MaxATK>1330</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020599000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルガン※1</Name>
+		<Element>광</Element>
+		<Kind>총</Kind>
+		<Secrets>スリーバースト</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>4</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020600000</ID>
+		<MaxName>拳闘</MaxName>
+		<Name>手甲</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>正拳突き</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>160</MinATK>
+		<MaxHP>111</MaxHP>
+		<MaxATK>1020</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600100</ID>
+		<MaxName>刺殴</MaxName>
+		<Name>パタ</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>105</MaxHP>
+		<MaxATK>1015</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600200</ID>
+		<MaxName>蒼銀拳</MaxName>
+		<Name>ミスリルバグナウ</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>正拳突き</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>111</MaxHP>
+		<MaxATK>1060</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600300</ID>
+		<Name>ミスリルナックル</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>118</MaxHP>
+		<MaxATK>1100</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600400</ID>
+		<MaxName>岩砕</MaxName>
+		<Name>クラッシュハンド</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>正拳突き</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>120</MinATK>
+		<MaxHP>78</MaxHP>
+		<MaxATK>735</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600500</ID>
+		<MaxName>光拳</MaxName>
+		<Name>シャインナックル</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>13</MinHP>
+		<MinATK>120</MinATK>
+		<MaxHP>80</MaxHP>
+		<MaxATK>750</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600600</ID>
+		<MaxName>疾拳</MaxName>
+		<Name>疾風のバンテージ</Name>
+		<Element>풍</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>118</MaxHP>
+		<MaxATK>1130</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600700</ID>
+		<MaxName>牙拳</MaxName>
+		<Name>フィッシュトゥース</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>165</MinATK>
+		<MaxHP>116</MaxHP>
+		<MaxATK>1070</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600800</ID>
+		<MaxName>焦刃</MaxName>
+		<Name>ヒートパタ</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>正拳突き</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>107</MaxHP>
+		<MaxATK>1030</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020600900</ID>
+		<MaxName>瀑拳</MaxName>
+		<Name>清流のバンテージ</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>122</MaxHP>
+		<MaxATK>1120</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020601000</ID>
+		<MaxName>焦殴</MaxName>
+		<Name>ファイアボール</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>17</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>112</MaxHP>
+		<MaxATK>1090</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020601100</ID>
+		<MaxName>魂拳</MaxName>
+		<Name>ブラストナックル</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>正拳突き</Secrets>
+		<Skill1>빛의 공인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>175</MinATK>
+		<MaxHP>114</MaxHP>
+		<MaxATK>1080</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020601200</ID>
+		<MaxName>岩裂</MaxName>
+		<Name>ロックカット</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>正拳突き</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>20</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>121</MaxHP>
+		<MaxATK>1120</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020601300</ID>
+		<Name>トンファー</Name>
+		<Element>토</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>123</MaxHP>
+		<MaxATK>1140</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020601400</ID>
+		<Name>チョップスティックス</Name>
+		<Element>화</Element>
+		<Kind>권갑</Kind>
+		<Secrets>正拳突き</Secrets>
+		<MinHP>17</MinHP>
+		<MinATK>195</MinATK>
+		<MaxHP>118</MaxHP>
+		<MaxATK>1135</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020699000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルナックル※1</Name>
+		<Element>광</Element>
+		<Kind>권갑</Kind>
+		<Secrets>パルバライザー</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020700000</ID>
+		<MaxName>蒼銀弓</MaxName>
+		<Name>ミスリルボウ</Name>
+		<Element>화</Element>
+		<Kind>활</Kind>
+		<Secrets>ストレートショット</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>14</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>95</MaxHP>
+		<MaxATK>1075</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020700100</ID>
+		<MaxName>戦弓</MaxName>
+		<Name>ウォーボウ</Name>
+		<Element>토</Element>
+		<Kind>활</Kind>
+		<Secrets>ヘヴィショット</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>180</MinATK>
+		<MaxHP>103</MaxHP>
+		<MaxATK>1120</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020700200</ID>
+		<MaxName>補強弓</MaxName>
+		<Name>ラップドボウ</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>ストレートショット</Secrets>
+		<Skill1>바람의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>101</MaxHP>
+		<MaxATK>1130</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020700300</ID>
+		<MaxName>複合弓</MaxName>
+		<Name>コンポジットボウ</Name>
+		<Element>화</Element>
+		<Kind>활</Kind>
+		<Secrets>ヘヴィショット</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>15</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>103</MaxHP>
+		<MaxATK>1160</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020700400</ID>
+		<MaxName>長弓</MaxName>
+		<Name>ロングボウ</Name>
+		<Element>수</Element>
+		<Kind>활</Kind>
+		<Secrets>ストレートショット</Secrets>
+		<Skill1>물의 수인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>170</MinATK>
+		<MaxHP>102</MaxHP>
+		<MaxATK>1085</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020700500</ID>
+		<MaxName>剛弦</MaxName>
+		<Name>パワーボウ</Name>
+		<Element>토</Element>
+		<Kind>활</Kind>
+		<Secrets>ストレートショット</Secrets>
+		<Skill1>흙의 공인</Skill1>
+		<MinHP>18</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>108</MaxHP>
+		<MaxATK>1170</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020700600</ID>
+		<MaxName>地穿</MaxName>
+		<Name>アースボウ</Name>
+		<Element>토</Element>
+		<Kind>활</Kind>
+		<Secrets>ヘヴィショット</Secrets>
+		<Skill1>흙의 수인</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>190</MinATK>
+		<MaxHP>111</MaxHP>
+		<MaxATK>1200</MaxATK>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020799000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルボウ※1</Name>
+		<Element>광</Element>
+		<Kind>활</Kind>
+		<Secrets>ストレートショット</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020800000</ID>
+		<MaxName>誘音</MaxName>
+		<Name>ラミアの竪琴</Name>
+		<Element>화</Element>
+		<Kind>악기</Kind>
+		<Secrets>ペインメロディ</Secrets>
+		<Skill1>불의 수호</Skill1>
+		<MinHP>29</MinHP>
+		<MinATK>170</MinATK>
+		<MaxHP>105</MaxHP>
+		<MaxATK>980</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020899000</ID>
+		<MaxName>天使</MaxName>
+		<Name>エンジェルハープ※1</Name>
+		<Element>광</Element>
+		<Kind>악기</Kind>
+		<Secrets>ペインメロディ</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020900000</ID>
+		<Name>野太刀</Name>
+		<Element>화</Element>
+		<Kind>도</Kind>
+		<Secrets>一文字斬り</Secrets>
+		<Skill1>불의 공인</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>78</MaxHP>
+		<MaxATK>1145</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020900100</ID>
+		<Name>霊銀刀</Name>
+		<Element>수</Element>
+		<Kind>도</Kind>
+		<Secrets>峰打</Secrets>
+		<Skill1>물의 공인</Skill1>
+		<MinHP>16</MinHP>
+		<MinATK>185</MinATK>
+		<MaxHP>86</MaxHP>
+		<MaxATK>1185</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020900200</ID>
+		<MaxName>蒼銀針</MaxName>
+		<Name>霊銀針</Name>
+		<Element>토</Element>
+		<Kind>도</Kind>
+		<Secrets>峰打</Secrets>
+		<MinHP>10</MinHP>
+		<MinATK>125</MinATK>
+		<MaxHP>58</MaxHP>
+		<MaxATK>810</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1020999000</ID>
+		<MaxName>天使</MaxName>
+		<Name>天使刀</Name>
+		<Element>광</Element>
+		<Kind>도</Kind>
+		<Secrets>一文字斬り</Secrets>
+		<MinHP>4</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>40</MaxHP>
+		<MaxATK>100</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1029900000</ID>
+		<MaxName>小悪魔</MaxName>
+		<Name>プチデビルエレメント</Name>
+		<Element>암</Element>
+		<Kind>소재</Kind>
+		<Secrets>なし</Secrets>
+		<Skill1>힘의 대가</Skill1>
+		<MinHP>3</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>100</MaxATK>
+		<Skill1Detail>강화에 사용하면 무기 스킬레벨이 올라가기 쉽다(小)</Skill1Detail>
+	</Weapon>
+</Weapons>
