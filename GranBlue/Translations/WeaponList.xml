@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.0">
+<Weapons Version="1.0.1">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -48,7 +48,7 @@
 		<ID>1040000500</ID>
 		<MaxName>始祖聖</MaxName>
 		<Name>カラドボルグ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>ディヴァイン・パニッシュメント</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -78,7 +78,7 @@
 		<ID>1040001000</ID>
 		<MaxName>澄清宝</MaxName>
 		<Name>オートクレール</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>ロンセスバージェス</Secrets>
 		<Skill1>천광의 수호</Skill1>
@@ -150,7 +150,7 @@
 		<ID>1040001800</ID>
 		<MaxName>聖刻</MaxName>
 		<Name>七星剣</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>北斗大極閃</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -164,7 +164,7 @@
 		<ID>1040001900</ID>
 		<MaxName>輝勲</MaxName>
 		<Name>フロッティ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>クリーオウ・ゲッシュ</Secrets>
 		<Skill1>천광의 수호</Skill1>
@@ -177,7 +177,7 @@
 	<Weapon>
 		<ID>1040002000</ID>
 		<Name>エクスカリバー</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>ライオットソード</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -233,7 +233,7 @@
 		<ID>1040002400</ID>
 		<MaxName>聖刻</MaxName>
 		<Name>七星剣・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>北斗大極閃</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -291,7 +291,7 @@
 		<ID>1040003400</ID>
 		<MaxName>極愛剣</MaxName>
 		<Name>バレンタインソード</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>デア・パフューム</Secrets>
 		<Skill1>천광의 수호</Skill1>
@@ -346,6 +346,19 @@
 		<MaxHP>205</MaxHP>
 		<MaxATK>2470</MaxATK>
 		<Skill1Detail>휴먼족과 드라프족의 공격력/HP상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040004400</ID>
+		<Name>ローエングリン</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>リゴメール</Secrets>
+		<Skill1>홍련의 공인</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>444</MinATK>
+		<MaxHP>221</MaxHP>
+		<MaxATK>2615</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1040100300</ID>
@@ -421,7 +434,7 @@
 		<ID>1040101300</ID>
 		<MaxName>輝宝刃</MaxName>
 		<Name>ダイヤモンドエッジ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>セブンス・ペイン</Secrets>
 		<Skill1>천광의 수호</Skill1>
@@ -477,7 +490,7 @@
 		<ID>1040101700</ID>
 		<MaxName>界統</MaxName>
 		<Name>四天刃</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>四天洛往斬</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -491,7 +504,7 @@
 		<ID>1040101800</ID>
 		<MaxName>霹靂</MaxName>
 		<Name>雷公刃ユピテル</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>ライトニングバニッシュ</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -547,7 +560,7 @@
 		<ID>1040102200</ID>
 		<MaxName>界統</MaxName>
 		<Name>四天刃・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>四天洛往斬</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -738,7 +751,7 @@
 		<ID>1040201600</ID>
 		<MaxName>黎明</MaxName>
 		<Name>一伐槍</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>太一輝極衝</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -809,7 +822,7 @@
 		<ID>1040202100</ID>
 		<MaxName>黎明</MaxName>
 		<Name>一伐槍・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>太一輝極衝</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -839,7 +852,7 @@
 		<ID>1040202900</ID>
 		<MaxName>禍雷槍</MaxName>
 		<Name>雷神矛</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>真・雷鼓</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -852,7 +865,7 @@
 	<Weapon>
 		<ID>1040203000</ID>
 		<Name>ロムルスの槍</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>セレスティアルスター</Secrets>
 		<Skill1>심연을 비추는 광명</Skill1>
@@ -895,7 +908,7 @@
 		<ID>1040300000</ID>
 		<MaxName>万雷斧</MaxName>
 		<Name>ウコンバサラ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>ミーティアライト</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1007,7 +1020,7 @@
 		<ID>1040301000</ID>
 		<MaxName>百煌斧</MaxName>
 		<Name>ヘカトンケイレス</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>無常の雷火</Secrets>
 		<Skill1>천광의 수호</Skill1>
@@ -1020,7 +1033,7 @@
 	<Weapon>
 		<ID>1040301100</ID>
 		<Name>シュヴァリエブージ・マグナ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>光の刃</Secrets>
 		<Skill1>기해방진・수호II</Skill1>
@@ -1050,7 +1063,7 @@
 		<ID>1040301300</ID>
 		<MaxName>歴礎</MaxName>
 		<Name>三寅斧</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>絶冴羅爪三鉾環</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1094,7 +1107,7 @@
 		<ID>1040301600</ID>
 		<MaxName>歴礎</MaxName>
 		<Name>三寅斧・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>絶冴羅爪三鉾環</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1168,7 +1181,7 @@
 		<ID>1040400300</ID>
 		<MaxName>極癒</MaxName>
 		<Name>アスクレピオスの杖</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>ホーリーノヴァ</Secrets>
 		<Skill1>치유의 힘</Skill1>
@@ -1182,7 +1195,7 @@
 		<ID>1040400800</ID>
 		<MaxName>輝杖</MaxName>
 		<Name>稜鏡の鎚杖</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>シタ</Secrets>
 		<Skill1>천광의 수호</Skill1>
@@ -1212,7 +1225,7 @@
 		<ID>1040401000</ID>
 		<MaxName>禁呪</MaxName>
 		<Name>封鍵クラウストルム</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>クローストゥユー</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1324,7 +1337,7 @@
 		<ID>1040401800</ID>
 		<MaxName>極叡</MaxName>
 		<Name>五神杖</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>聖柱五星封陣</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1352,7 +1365,7 @@
 		<ID>1040402000</ID>
 		<MaxName>極叡</MaxName>
 		<Name>五神杖・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>聖柱五星封陣</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1380,7 +1393,7 @@
 		<ID>1040402800</ID>
 		<MaxName>真聖紋</MaxName>
 		<Name>ニルヴァーナ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>アカシックレコード</Secrets>
 		<Skill1>득도의 경지</Skill1>
@@ -1412,7 +1425,7 @@
 		<ID>1040403000</ID>
 		<MaxName>狂輝杖</MaxName>
 		<Name>マギ・リアリジスセプター</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>リビジョン・アゴー</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1473,13 +1486,11 @@
 		<Kind>총</Kind>
 		<Secrets>オルタ</Secrets>
 		<Skill1>홍련의 공인</Skill1>
-		<Skill2>업화의 양손</Skill2>
 		<MinHP>28</MinHP>
 		<MinATK>460</MinATK>
 		<MaxHP>180</MaxHP>
 		<MaxATK>2700</MaxATK>
 		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
-		<Skill2Detail>화속성 캐릭터의 더블어택 확률상승(中)</Skill2Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1040500300</ID>
@@ -1527,7 +1538,7 @@
 		<ID>1040500600</ID>
 		<MaxName>崇騎銃</MaxName>
 		<Name>シュヴァリエボルト・マグナ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>光の刃</Secrets>
 		<Skill1>기해방진・공인II</Skill1>
@@ -1557,7 +1568,7 @@
 		<ID>1040500800</ID>
 		<MaxName>黄昏</MaxName>
 		<Name>十狼雷</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>十絶星駆</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1571,7 +1582,7 @@
 		<ID>1040500900</ID>
 		<MaxName>黄昏</MaxName>
 		<Name>十狼雷・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>十絶星駆</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1613,6 +1624,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1040502400</ID>
+		<MaxName>撒旋流</MaxName>
 		<Name>ヴリスラグナ</Name>
 		<Element>수</Element>
 		<Kind>총</Kind>
@@ -1630,7 +1642,7 @@
 		<ID>1040600000</ID>
 		<MaxName>闘頂</MaxName>
 		<Name>獅子王戦拳</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>金剛崩牙</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1714,7 +1726,7 @@
 		<ID>1040600800</ID>
 		<MaxName>砕世</MaxName>
 		<Name>六崩拳</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>六界紅掌</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1728,7 +1740,7 @@
 		<ID>1040600900</ID>
 		<MaxName>天煽</MaxName>
 		<Name>紅陽扇</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>ソル・ブラスト</Secrets>
 		<Skill1>천광의 수호</Skill1>
@@ -1742,7 +1754,7 @@
 		<ID>1040601000</ID>
 		<MaxName>砕世</MaxName>
 		<Name>六崩拳・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>六界紅掌</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1813,6 +1825,20 @@
 		<Skill1Detail>풍속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1040602700</ID>
+		<MaxName>鋼電拳</MaxName>
+		<Name>ギガントナックル</Name>
+		<Element>빛</Element>
+		<Kind>권갑</Kind>
+		<Secrets>ギガントスマッシャー</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>310</MinATK>
+		<MaxHP>203</MaxHP>
+		<MaxATK>1910</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1040700000</ID>
 		<MaxName>黄金宝弓</MaxName>
 		<Name>エウリュトスボウ</Name>
@@ -1820,13 +1846,11 @@
 		<Kind>활</Kind>
 		<Secrets>ギガントマキアー</Secrets>
 		<Skill1>홍련의 공인</Skill1>
-		<Skill2>업화의 양손</Skill2>
 		<MinHP>36</MinHP>
 		<MinATK>430</MinATK>
 		<MaxHP>227</MaxHP>
 		<MaxATK>2520</MaxATK>
 		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
-		<Skill2Detail>화속성 캐릭터의 더블어택 확률상승(中)</Skill2Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1040700100</ID>
@@ -1864,13 +1888,11 @@
 		<Kind>활</Kind>
 		<Secrets>フェイルノート</Secrets>
 		<Skill1>지진의 공인</Skill1>
-		<Skill2>대지의 기교</Skill2>
 		<MinHP>39</MinHP>
 		<MinATK>415</MinATK>
 		<MaxHP>230</MaxHP>
 		<MaxATK>2505</MaxATK>
 		<Skill1Detail>토속성 캐릭터의 공격력 상승(大)</Skill1Detail>
-		<Skill2Detail>토속성 공격으로 약점을 때렸을때  확률로 데미지 업(中)</Skill2Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1040700400</ID>
@@ -1890,7 +1912,7 @@
 		<ID>1040700500</ID>
 		<MaxName>天眸</MaxName>
 		<Name>二王弓</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>활</Kind>
 		<Secrets>二王双極雷洪</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -1989,7 +2011,7 @@
 		<ID>1040800000</ID>
 		<MaxName>崇騎琴</MaxName>
 		<Name>シュヴァリエハープ・マグナ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>악기</Kind>
 		<Secrets>光の刃</Secrets>
 		<Skill1>기해방진・공인II</Skill1>
@@ -2035,7 +2057,7 @@
 		<ID>1040800300</ID>
 		<MaxName>艶奏</MaxName>
 		<Name>九界琴</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>악기</Kind>
 		<Secrets>第九天落唱</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -2049,9 +2071,9 @@
 		<ID>1040800400</ID>
 		<MaxName>艶奏楽</MaxName>
 		<Name>九界琴・真</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>악기</Kind>
-		<Secrets>第九天落唱＋</Secrets>
+		<Secrets>第九天落唱</Secrets>
 		<Skill1>천광의 공인</Skill1>
 		<MinHP>71</MinHP>
 		<MinATK>370</MinATK>
@@ -2150,10 +2172,24 @@
 		<Skill1Detail>화속성 캐릭터의 최대 HP상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1040802300</ID>
+		<MaxName>風妖唄</MaxName>
+		<Name>アネモイの銀琴</Name>
+		<Element>풍</Element>
+		<Kind>악기</Kind>
+		<Secrets>一陣の風</Secrets>
+		<Skill1>수련의 마음가짐</Skill1>
+		<MinHP>59</MinHP>
+		<MinATK>320</MinATK>
+		<MaxHP>211</MaxHP>
+		<MaxATK>1950</MaxATK>
+		<Skill1Detail>획득 경험치 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1040900300</ID>
 		<MaxName>真鍛心</MaxName>
 		<Name>天叢雲剣</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도</Kind>
 		<Secrets>草薙</Secrets>
 		<Skill1>하늘 샛별의 영혼</Skill1>
@@ -2228,7 +2264,7 @@
 		<ID>1040900500</ID>
 		<MaxName>巡転</MaxName>
 		<Name>八命切</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도</Kind>
 		<Secrets>八命の太刀・永了真成</Secrets>
 		<Skill1>천광의 공인</Skill1>
@@ -2254,10 +2290,40 @@
 		<Skill2Detail>풍속성 캐릭터의 최대 HP상승(中)</Skill2Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1040902100</ID>
+		<MaxName>屠竜</MaxName>
+		<Name>ドラゴンスレイヤー</Name>
+		<Element>풍</Element>
+		<Kind>도</Kind>
+		<Secrets>ドラゴンベイン</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<Skill2>천광의 공인</Skill2>
+		<MinHP>32</MinHP>
+		<MinATK>460</MinATK>
+		<MaxHP>191</MaxHP>
+		<MaxATK>2725</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>빛속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040900600</ID>
+		<MaxName>巡転</MaxName>
+		<Name>八命切・真</Name>
+		<Element>빛</Element>
+		<Kind>도</Kind>
+		<Secrets>八命の太刀・永了真成</Secrets>
+		<Skill1>천광의 공인</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>413</MinATK>
+		<MaxHP>188</MaxHP>
+		<MaxATK>2675</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1030000000</ID>
 		<MaxName>閑麗</MaxName>
 		<Name>アロンダイト</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>ライジングソード</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -2496,7 +2562,7 @@
 		<ID>1030002300</ID>
 		<MaxName>輝騎剣</MaxName>
 		<Name>シュヴァリエソード</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>シュヴァリエ・オース</Secrets>
 		<MinHP>19</MinHP>
@@ -2564,7 +2630,7 @@
 		<ID>1030003100</ID>
 		<MaxName>灯輝</MaxName>
 		<Name>ランタンブレード</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>ランタンスラッシュ</Secrets>
 		<Skill1>펌프킨 트릭</Skill1>
@@ -2636,7 +2702,7 @@
 		<ID>1030004300</ID>
 		<MaxName>狂輝剣</MaxName>
 		<Name>マギ・パニッシュメントソード</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>リビジョン</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -2674,6 +2740,20 @@
 		<Skill1Detail>화속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1030004700</ID>
+		<MaxName>鋼電剣</MaxName>
+		<Name>エレクトロソード</Name>
+		<Element>빛</Element>
+		<Kind>검</Kind>
+		<Secrets>スラッシュブレイク</Secrets>
+		<Skill1>뇌전의 수호</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>119</MaxHP>
+		<MaxATK>1390</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1030004600</ID>
 		<MaxName>不融剣</MaxName>
 		<Name>コントラリーソード</Name>
@@ -2691,7 +2771,7 @@
 		<ID>1030099000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルソード</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>ライジングソード</Secrets>
 		<MinHP>4</MinHP>
@@ -2703,7 +2783,7 @@
 		<ID>1030100000</ID>
 		<MaxName>夜天降</MaxName>
 		<Name>チンクエディア</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>クロッシングカット</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -2926,7 +3006,7 @@
 		<ID>1030102300</ID>
 		<MaxName>霧幻</MaxName>
 		<Name>ソウルエッジ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>デッドウェッジ</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -2968,7 +3048,7 @@
 		<ID>1030102700</ID>
 		<MaxName>紅焔</MaxName>
 		<Name>紅陽刃</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>ライトブラスト</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -3023,7 +3103,7 @@
 		<ID>1030199000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルナイフ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>鎌鼬</Secrets>
 		<MinHP>4</MinHP>
@@ -3035,7 +3115,7 @@
 		<ID>1030200000</ID>
 		<MaxName>雷光牙</MaxName>
 		<Name>ヴァジュランダ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>ソウルデモリッシュ</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -3077,7 +3157,7 @@
 		<ID>1030200300</ID>
 		<MaxName>飛閃</MaxName>
 		<Name>シューラヴァラ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>トリプルスラスト</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -3188,7 +3268,7 @@
 		<ID>1030202000</ID>
 		<MaxName>輝騎槍</MaxName>
 		<Name>シュヴァリエスピア</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>シュヴァリエ・オース</Secrets>
 		<MinHP>23</MinHP>
@@ -3296,7 +3376,7 @@
 		<ID>1030203600</ID>
 		<MaxName>狂輝槍</MaxName>
 		<Name>マギ・ディケイデッドスピア</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>リビジョン</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -3336,10 +3416,24 @@
 		<Skill2Detail>더블어택 확률을 3%상승</Skill2Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1030203900</ID>
+		<MaxName>鋼電槍</MaxName>
+		<Name>エレクトロフォーク</Name>
+		<Element>빛</Element>
+		<Kind>창</Kind>
+		<Secrets>スラストブレイク</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>23</MinHP>
+		<MinATK>200</MinATK>
+		<MaxHP>143</MaxHP>
+		<MaxATK>1270</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1030299000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルスピア</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>ソウルデモリッシュ</Secrets>
 		<MinHP>4</MinHP>
@@ -3392,7 +3486,7 @@
 		<ID>1030300300</ID>
 		<MaxName>万馬斧</MaxName>
 		<Name>ホースマンズハンマー</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>オーラアクス</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -3405,7 +3499,7 @@
 	<Weapon>
 		<ID>1030300400</ID>
 		<Name>ブージ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>オーラアクス</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -3474,7 +3568,7 @@
 		<ID>1030300900</ID>
 		<MaxName>陽槌</MaxName>
 		<Name>サンハンマー</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>メレーブロウ</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -3502,7 +3596,7 @@
 		<ID>1030301100</ID>
 		<MaxName>輝騎斧</MaxName>
 		<Name>シュヴァリエブージ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>シュヴァリエ・オース</Secrets>
 		<MinHP>17</MinHP>
@@ -3596,6 +3690,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1030302800</ID>
+		<MaxName>凶戮</MaxName>
 		<Name>ヴォウジェ</Name>
 		<Element>암</Element>
 		<Kind>도끼</Kind>
@@ -3624,7 +3719,7 @@
 		<ID>1030399000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルアクス</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>オーラアクス</Secrets>
 		<MinHP>4</MinHP>
@@ -3636,7 +3731,7 @@
 		<ID>1030400000</ID>
 		<MaxName>鍛極</MaxName>
 		<Name>金剛杖</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>レイ</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -3820,7 +3915,7 @@
 		<ID>1030401400</ID>
 		<MaxName>光宿</MaxName>
 		<Name>ホーリーケーン</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>ピアシングライト</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -3887,6 +3982,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1030402100</ID>
+		<MaxName>征風</MaxName>
 		<Name>風詠みの杖</Name>
 		<Element>풍</Element>
 		<Kind>지팡이</Kind>
@@ -3916,7 +4012,7 @@
 		<ID>1030403000</ID>
 		<MaxName>禍雷杖</MaxName>
 		<Name>雷司の杖</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>雷鼓</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -3956,6 +4052,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1030403300</ID>
+		<MaxName>蒼心</MaxName>
 		<Name>リトルウィッチセプター</Name>
 		<Element>수</Element>
 		<Kind>지팡이</Kind>
@@ -3973,7 +4070,7 @@
 		<ID>1030499000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルワンド</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>レイ</Secrets>
 		<MinHP>4</MinHP>
@@ -4013,7 +4110,7 @@
 		<ID>1030500200</ID>
 		<MaxName>燕光</MaxName>
 		<Name>スワロウテイル</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>ドゥービーショット</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -4193,7 +4290,7 @@
 		<ID>1030501600</ID>
 		<MaxName>百煌銃</MaxName>
 		<Name>ヘカトンケイルマズル</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>無常の雷迅</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -4273,10 +4370,21 @@
 		<Skill1Detail>수속성 캐릭터의 공격력 상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1030503000</ID>
+		<Name>ピーシーズ</Name>
+		<Element>화</Element>
+		<Kind>총</Kind>
+		<Secrets>デルタショット</Secrets>
+		<MinHP>22</MinHP>
+		<MinATK>335</MinATK>
+		<MaxHP>133</MaxHP>
+		<MaxATK>2000</MaxATK>
+	</Weapon>
+	<Weapon>
 		<ID>1030599000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルガン</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>デルタショット</Secrets>
 		<MinHP>4</MinHP>
@@ -4329,7 +4437,7 @@
 	<Weapon>
 		<ID>1030600300</ID>
 		<Name>乾坤圏</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>餓狼伐虎四方拳</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -4469,7 +4577,7 @@
 		<ID>1030601500</ID>
 		<MaxName>猛虎</MaxName>
 		<Name>タイガーファング</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>壊龍伏衝撃</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -4497,7 +4605,7 @@
 		<ID>1030603200</ID>
 		<MaxName>禍雷爪</MaxName>
 		<Name>雷司の爪</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>雷鼓</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -4537,6 +4645,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1030603500</ID>
+		<MaxName>饗炎</MaxName>
 		<Name>カップ＆ソーサー</Name>
 		<Element>화</Element>
 		<Kind>권갑</Kind>
@@ -4592,7 +4701,7 @@
 	<Weapon>
 		<ID>1030603900</ID>
 		<Name>ミサンガ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>無双旋風脚</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -4603,10 +4712,23 @@
 		<Skill1Detail>빛속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1030604000</ID>
+		<Name>ブラストヘヴィナックル</Name>
+		<Element>빛</Element>
+		<Kind>권갑</Kind>
+		<Secrets>餓狼伐虎四方拳</Secrets>
+		<Skill1>뇌전의 공인</Skill1>
+		<MinHP>30</MinHP>
+		<MinATK>280</MinATK>
+		<MaxHP>179</MaxHP>
+		<MaxATK>1685</MaxATK>
+		<Skill1Detail>빛속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1030699000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルナックル</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>壊龍伏衝撃</Secrets>
 		<MinHP>4</MinHP>
@@ -4786,7 +4908,7 @@
 		<ID>1030701400</ID>
 		<MaxName>落暉</MaxName>
 		<Name>紅陽弓</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>활</Kind>
 		<Secrets>ライトブラスト</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -4869,7 +4991,7 @@
 		<ID>1030799000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルボウ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>활</Kind>
 		<Secrets>ラピッドストリーム</Secrets>
 		<MinHP>4</MinHP>
@@ -4937,7 +5059,7 @@
 		<ID>1030800400</ID>
 		<MaxName>百煌琴</MaxName>
 		<Name>ヘカトンケイルハープ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>악기</Kind>
 		<Secrets>無常の雷迅</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
@@ -4979,7 +5101,7 @@
 		<ID>1030800800</ID>
 		<MaxName>聖奏</MaxName>
 		<Name>ホーリーチャンター</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>악기</Kind>
 		<Secrets>ソウルボイス</Secrets>
 		<Skill1>뇌전의 수호</Skill1>
@@ -5089,7 +5211,7 @@
 		<ID>1030899000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルハープ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>악기</Kind>
 		<Secrets>レクイエム</Secrets>
 		<MinHP>40</MinHP>
@@ -5182,7 +5304,7 @@
 		<ID>1030999000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>大天使刀</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도</Kind>
 		<Secrets>残月</Secrets>
 		<MinHP>40</MinHP>
@@ -5248,7 +5370,7 @@
 	<Weapon>
 		<ID>1030202800(1)</ID>
 		<Name>ロムルス・レプリカ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>セレスティアルスター</Secrets>
 		<Skill1>심연을 비추는 광명</Skill1>
@@ -5275,7 +5397,7 @@
 		<ID>1030401900</ID>
 		<MaxName>偽聖</MaxName>
 		<Name>ニルヴァーナ・レプリカ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>アカシックレコード</Secrets>
 		<Skill1>득도의 경지</Skill1>
@@ -5355,7 +5477,7 @@
 	<Weapon>
 		<ID>1030900300</ID>
 		<Name>模造刀</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도</Kind>
 		<Secrets>草薙</Secrets>
 		<Skill1>하늘 샛별의 영혼</Skill1>
@@ -5499,6 +5621,18 @@
 		<MaxATK>96</MaxATK>
 	</Weapon>
 	<Weapon>
+		<ID>1030900600</ID>
+		<MaxName>壊転</MaxName>
+		<Name>朽ち果てた太刀</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>亜空一閃</Secrets>
+		<MinHP>1</MinHP>
+		<MinATK>1</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>96</MaxATK>
+	</Weapon>
+	<Weapon>
 		<ID>1020000000</ID>
 		<MaxName>剛剣</MaxName>
 		<Name>クレイモア</Name>
@@ -5556,7 +5690,7 @@
 		<ID>1020000400</ID>
 		<MaxName>雷光</MaxName>
 		<Name>サンダーレイピア</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>クロススラッシュ</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -5772,8 +5906,8 @@
 	<Weapon>
 		<ID>1020099000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルソード※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルソード</Name>
+		<Element>빛</Element>
 		<Kind>검</Kind>
 		<Secrets>クロススラッシュ</Secrets>
 		<MinHP>4</MinHP>
@@ -5985,7 +6119,7 @@
 		<ID>1020101700</ID>
 		<MaxName>征魔</MaxName>
 		<Name>ホーリークリス</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>ファストスライサー</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -6081,8 +6215,8 @@
 	<Weapon>
 		<ID>1020199000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルナイフ※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルナイフ</Name>
+		<Element>빛</Element>
 		<Kind>단검</Kind>
 		<Secrets>芽摘</Secrets>
 		<MinHP>4</MinHP>
@@ -6304,10 +6438,23 @@
 		<Skill1Detail>풍속성 캐릭터의 공격력 상승(小)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1020201800</ID>
+		<Name>シルバーポール</Name>
+		<Element>수</Element>
+		<Kind>창</Kind>
+		<Secrets>トゥルースラスト</Secrets>
+		<Skill1>물의 수인</Skill1>
+		<MinHP>21</MinHP>
+		<MinATK>165</MinATK>
+		<MaxHP>121</MaxHP>
+		<MaxATK>1045</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1020299000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルスピア※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルスピア</Name>
+		<Element>빛</Element>
 		<Kind>창</Kind>
 		<Secrets>スウィング</Secrets>
 		<MinHP>4</MinHP>
@@ -6319,7 +6466,7 @@
 		<ID>1020300000</ID>
 		<MaxName>曲月</MaxName>
 		<Name>タバール</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>パワースウィング</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -6347,7 +6494,7 @@
 		<ID>1020300200</ID>
 		<MaxName>雷斤</MaxName>
 		<Name>サンダーカリンガ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>ブレインシェイク</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -6548,7 +6695,7 @@
 		<ID>1020301800</ID>
 		<MaxName>鋼棘</MaxName>
 		<Name>モーニングスター</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>パワースウィング</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -6561,8 +6708,8 @@
 	<Weapon>
 		<ID>1020399000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルアックス※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルアックス</Name>
+		<Element>빛</Element>
 		<Kind>도끼</Kind>
 		<Secrets>ブレインシェイク</Secrets>
 		<MinHP>4</MinHP>
@@ -6588,7 +6735,7 @@
 		<ID>1020400100</ID>
 		<MaxName>魔香</MaxName>
 		<Name>シャレラバディ</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>ショック</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -6652,6 +6799,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1020400600</ID>
+		<MaxName>至術</MaxName>
 		<Name>フェザーワンド</Name>
 		<Element>풍</Element>
 		<Kind>지팡이</Kind>
@@ -6786,6 +6934,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1020401700</ID>
+		<MaxName>翠嵐</MaxName>
 		<Name>ウィンドロッド</Name>
 		<Element>풍</Element>
 		<Kind>지팡이</Kind>
@@ -6909,10 +7058,21 @@
 		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1020402600</ID>
+		<Name>ライトスタッフ</Name>
+		<Element>빛</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>バニッシュ</Secrets>
+		<MinHP>22</MinHP>
+		<MinATK>170</MinATK>
+		<MaxHP>138</MaxHP>
+		<MaxATK>1035</MaxATK>
+	</Weapon>
+	<Weapon>
 		<ID>1020499000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルワンド※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルワンド</Name>
+		<Element>빛</Element>
 		<Kind>지팡이</Kind>
 		<Secrets>ショック</Secrets>
 		<MinHP>4</MinHP>
@@ -7005,7 +7165,7 @@
 		<ID>1020500700</ID>
 		<MaxName>光炎</MaxName>
 		<Name>シャインバレル</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>スリーバースト</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -7130,8 +7290,8 @@
 	<Weapon>
 		<ID>1020599000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルガン※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルガン</Name>
+		<Element>빛</Element>
 		<Kind>총</Kind>
 		<Secrets>スリーバースト</Secrets>
 		<MinHP>4</MinHP>
@@ -7212,7 +7372,7 @@
 		<ID>1020600500</ID>
 		<MaxName>光拳</MaxName>
 		<Name>シャインナックル</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>パルバライザー</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -7296,7 +7456,7 @@
 		<ID>1020601100</ID>
 		<MaxName>魂拳</MaxName>
 		<Name>ブラストナックル</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>正拳突き</Secrets>
 		<Skill1>빛의 공인</Skill1>
@@ -7347,8 +7507,8 @@
 	<Weapon>
 		<ID>1020699000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルナックル※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルナックル</Name>
+		<Element>빛</Element>
 		<Kind>권갑</Kind>
 		<Secrets>パルバライザー</Secrets>
 		<MinHP>4</MinHP>
@@ -7457,8 +7617,8 @@
 	<Weapon>
 		<ID>1020799000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルボウ※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルボウ</Name>
+		<Element>빛</Element>
 		<Kind>활</Kind>
 		<Secrets>ストレートショット</Secrets>
 		<MinHP>4</MinHP>
@@ -7483,8 +7643,8 @@
 	<Weapon>
 		<ID>1020899000</ID>
 		<MaxName>天使</MaxName>
-		<Name>エンジェルハープ※1</Name>
-		<Element>광</Element>
+		<Name>エンジェルハープ</Name>
+		<Element>빛</Element>
 		<Kind>악기</Kind>
 		<Secrets>ペインメロディ</Secrets>
 		<MinHP>4</MinHP>
@@ -7507,6 +7667,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1020900100</ID>
+		<MaxName>蒼銀刀</MaxName>
 		<Name>霊銀刀</Name>
 		<Element>수</Element>
 		<Kind>도</Kind>
@@ -7534,7 +7695,7 @@
 		<ID>1020999000</ID>
 		<MaxName>天使</MaxName>
 		<Name>天使刀</Name>
-		<Element>광</Element>
+		<Element>빛</Element>
 		<Kind>도</Kind>
 		<Secrets>一文字斬り</Secrets>
 		<MinHP>4</MinHP>
