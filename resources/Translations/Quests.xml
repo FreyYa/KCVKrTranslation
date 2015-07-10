@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.6">
+<Quests Version="1.2.7">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -861,7 +861,7 @@
 	<Quest>
 		<ID>214</ID>
 		<TR-Name>아호작전 - 주간</TR-Name>
-		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 출격36회/보스전투24회/보스전투승리12회/S랭크완전승리6회 모두달성</TR-Detail>
+		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 출격36회/보스전투24회/보스전투승리12회/S랭크승리6회 모두달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>213</ID>
