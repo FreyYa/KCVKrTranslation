@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.1">
+<Weapons Version="1.0.2">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -359,6 +359,19 @@
 		<MaxHP>221</MaxHP>
 		<MaxATK>2615</MaxATK>
 		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040004500</ID>
+		<Name>フェアーソード</Name>
+		<Element>화</Element>
+		<Kind>검</Kind>
+		<Secrets>アサルトダンス</Secrets>
+		<Skill1>스트렝스</Skill1>
+		<MinHP>27</MinHP>
+		<MinATK>330</MinATK>
+		<MaxHP>173</MaxHP>
+		<MaxATK>2015</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1040100300</ID>
@@ -1839,6 +1852,19 @@
 		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1040602800</ID>
+		<Name>リスレット</Name>
+		<Element>빛</Element>
+		<Kind>권갑</Kind>
+		<Secrets>獅子戦吼</Secrets>
+		<Skill1>스트렝스</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>201</MaxHP>
+		<MaxATK>1880</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1040700000</ID>
 		<MaxName>黄金宝弓</MaxName>
 		<Name>エウリュトスボウ</Name>
@@ -2306,6 +2332,20 @@
 		<Skill2Detail>빛속성 캐릭터의 공격력 상승(大)</Skill2Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1040902200</ID>
+		<MaxName>黒閃導</MaxName>
+		<Name>ニバンボシ</Name>
+		<Element>암</Element>
+		<Kind>도</Kind>
+		<Secrets>蒼破刃</Secrets>
+		<Skill1>스트렝스</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>360</MinATK>
+		<MaxHP>148</MaxHP>
+		<MaxATK>2160</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1040900600</ID>
 		<MaxName>巡転</MaxName>
 		<Name>八命切・真</Name>
@@ -2318,6 +2358,20 @@
 		<MaxHP>188</MaxHP>
 		<MaxATK>2675</MaxATK>
 		<Skill1Detail>빛속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040702300</ID>
+		<MaxName>天眸正</MaxName>
+		<Name>二王弓・黒天</Name>
+		<Element>암</Element>
+		<Kind>활</Kind>
+		<Secrets>二王双極雷＋＋</Secrets>
+		<Skill1>나락의 공인</Skill1>
+		<MinHP>35</MinHP>
+		<MinATK>385</MinATK>
+		<MaxHP>255</MaxHP>
+		<MaxATK>2800</MaxATK>
+		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1030000000</ID>
@@ -5607,18 +5661,6 @@
 		<MinATK>1</MinATK>
 		<MaxHP>26</MaxHP>
 		<MaxATK>84</MaxATK>
-	</Weapon>
-	<Weapon>
-		<ID>1030900600</ID>
-		<MaxName>壊転</MaxName>
-		<Name>朽ち果てた太刀</Name>
-		<Element>암</Element>
-		<Kind>도</Kind>
-		<Secrets>亜空一閃</Secrets>
-		<MinHP>1</MinHP>
-		<MinATK>1</MinATK>
-		<MaxHP>30</MaxHP>
-		<MaxATK>96</MaxATK>
 	</Weapon>
 	<Weapon>
 		<ID>1030900600</ID>
