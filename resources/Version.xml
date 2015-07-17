@@ -2,9 +2,9 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>3.8.2.185</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.8.2r185/KanColleViewer-KR.3.8.2.r185.zip</URL>
-		<NoticeURL>http://kcvkr.tistory.com/100</NoticeURL>
+ 		<Version>3.8.2.186</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v3.8.2r186/KanColleViewer-KR.3.8.2.r186.zip</URL>
+		<NoticeURL>http://kcvkr.tistory.com/102</NoticeURL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
@@ -28,7 +28,7 @@
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.42</Version>
+		<Version>1.0.43</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
