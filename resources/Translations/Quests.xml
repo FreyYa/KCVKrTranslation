@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.7">
+<Quests Version="1.2.8">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -619,6 +619,11 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 3번 성공</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>309</ID>
+		<TR-Name>북방재돌입에 대비하여 숙련도 향상에 힘써라!</TR-Name>
+		<TR-Detail>오늘안에 「연습」에서 4회 이상 승리</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>308</ID>
 		<TR-Name>연습을 강화, 함대의 숙련도를 향상시키자!</TR-Name>
 		<TR-Detail>함대의 추가 숙련도 향상을 위해 오늘 내에 「연습」4회 승리하라!</TR-Detail>
@@ -642,6 +647,16 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>279</ID>
+		<TR-Name>제1수뢰전대 북방 케호작전 재돌입!</TR-Name>
+		<TR-Detail>아부쿠마改2를 기함으로 하고 히비키, 유우구모,나가나미,아키구모,시마카제로 구성된 함대로 3-2보스전에서 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>278</ID>
+		<TR-Name>제1수뢰전대 케호작전 돌입하라!</TR-Name>
+		<TR-Detail>아부쿠마를 기함으로 하고 히비키,하츠시모,와카바,사미다레,시마카제로 구성된 함대로 3-2 보스전에서 승리달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>277</ID>
@@ -892,6 +907,16 @@
 		<ID>201</ID>
 		<TR-Name>적 함대 격파! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>157</ID>
+		<TR-Name>제1수뢰전대 북방 재돌입 준비</TR-Name>
+		<TR-Detail>아부쿠마改2를 기함으로 하고 히비키, 유우구모,나가나미,아키구모,시마카제로 구성된 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>156</ID>
+		<TR-Name>제1수뢰전대 북방 돌입 준비</TR-Name>
+		<TR-Detail>아부쿠마를 기함으로 하고 히비키, 하츠시모,와카바,사미다레,시마카제로 구성된 함대를 편성(개조상태 상관없음)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>155</ID>
