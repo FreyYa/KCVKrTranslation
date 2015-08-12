@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.8">
+<Quests Version="1.2.9">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -34,6 +34,34 @@
 		<TR-Name>결혼식 준비!(세번째)</TR-Name>
 		<JP-Detail>第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！</JP-Detail>
 		<TR-Detail>제1함대 기함에 숙련도가 높은(Lv.90-99)칸무스를 배치하고 마음을 정리하라!</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>SN05</ID>
+		<JP-Name>ソロモン海方面の制空権を奪え！</JP-Name>
+		<TR-Name>솔로몬해 방면의 제공권을 빼앗아라!</TR-Name>
+		<JP-Detail>ソロモン海方面の制空権を制する敵飛行場近海に我が挺身部隊を突入、これを破砕せよ！</JP-Detail>
+		<TR-Detail>E-4게이지 격파</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>SN04</ID>
+		<JP-Name>「赤城」に艦攻「村田隊」を配属せよ！</JP-Name>
+		<TR-Name>아카기에 함공 무라타대를 배치하라!</TR-Name>
+		<JP-Detail>秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！</JP-Detail>
+		<TR-Detail>아카기에 97식 함상 공격기를 장비</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>SN03</ID>
+		<JP-Name>主力機動部隊の前路哨戒を実施せよ！</JP-Name>
+		<TR-Name>주력 기동부대 전로초계를 실시!</TR-Name>
+		<JP-Detail>敵潜水艦を補足、これを複数撃滅し、我が主力機動部隊進出の前路を哨戒せよ！</JP-Detail>
+		<TR-Detail>잠수함 6번 격침(예외되는 해역 있을 수 있음)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>SN02</ID>
+		<JP-Name>「工廠」倉庫の整理整頓！</JP-Name>
+		<TR-Name>[공창] 창고 정리정돈</TR-Name>
+		<JP-Detail>不要な装備を複数「廃棄」して、新装備受け入れのため「工廠」倉庫の整理を進めましょう！</JP-Detail>
+		<TR-Detail>장비 5회 폐기</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>G4</ID>
@@ -647,6 +675,11 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>280</ID>
+		<TR-Name>제2차 SN작전, 초동작전 완료!</TR-Name>
+		<TR-Detail>솔로몬 해역 전방에 전개한 적의 전력을 파쇄하여 초동작전(E1,E2)를 완수하라!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>279</ID>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.43">
+<Ships Version="1.0.44">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -285,6 +285,14 @@
 		<TR-Name>다이호改</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>Libeccio</JP-Name>
+		<TR-Name>리베치오</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Libeccio改</JP-Name>
+		<TR-Name>리베치오改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>Z1</JP-Name>
 		<TR-Name>레베</TR-Name>
 	</Ship>
@@ -451,6 +459,14 @@
 	<Ship>
 		<JP-Name>深雪改</JP-Name>
 		<TR-Name>미유키改</TR-Name>
+	</Ship>
+  	<Ship>
+		<JP-Name>瑞穂</JP-Name>
+		<TR-Name>미즈호</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>瑞穂改</JP-Name>
+		<TR-Name>미즈호改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>満潮</JP-Name>
@@ -957,6 +973,14 @@
 		<TR-Name>와카바改</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>海風</JP-Name>
+		<TR-Name>우미카제</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>海風改</JP-Name>
+		<TR-Name>우미카제改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>浦風</JP-Name>
 		<TR-Name>우라카제</TR-Name>
 	</Ship>
@@ -1401,6 +1425,22 @@
 		<TR-Name>카스미改</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>江風</JP-Name>
+		<TR-Name>카와카제</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>江風改</JP-Name>
+		<TR-Name>카와카제改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>風雲</JP-Name>
+		<TR-Name>카자구모</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>風雲改</JP-Name>
+		<TR-Name>카자구모改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>葛城</JP-Name>
 		<TR-Name>카츠라기</TR-Name>
 	</Ship>
@@ -1597,6 +1637,14 @@
 		<TR-Name>타카오改</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>照月</JP-Name>
+		<TR-Name>테루즈키</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>照月改</JP-Name>
+		<TR-Name>테루즈키改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>天龍</JP-Name>
 		<TR-Name>텐류</TR-Name>
 	</Ship>
@@ -1675,6 +1723,14 @@
 	<Ship>
 		<JP-Name>浜風改</JP-Name>
 		<TR-Name>하마카제改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>速吸</JP-Name>
+		<TR-Name>하야스이</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>速吸改</JP-Name>
+		<TR-Name>하야스이改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>早霜</JP-Name>
