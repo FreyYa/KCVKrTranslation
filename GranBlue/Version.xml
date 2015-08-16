@@ -2,8 +2,7 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>1.7.0.0</Version>
-  		<URL>https://github.com/FreyYa/GranBlueHelper/releases/download/1.7.0.0/GrandcypherGear.ver.1.7.zip</URL>
+ 		<Version>2.2.0.0</Version>
 		<NoticeURL>http://kcvkr.tistory.com/96</NoticeURL>
   	</Item>
 	<Item>
@@ -13,7 +12,12 @@
 	</Item>
 	<Item>
 		<Name>WeaponList</Name>
-		<Version>1.0.1</Version>
+		<Version>1.0.5</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/WeaponList.xml</URL>
+	</Item>
+	<Item>
+		<Name>SkillList</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/SkillList.xml</URL>
 	</Item>
 </Versions>
