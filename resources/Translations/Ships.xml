@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.44">
+<Ships Version="1.0.45">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -285,14 +285,6 @@
 		<TR-Name>다이호改</TR-Name>
 	</Ship>
 	<Ship>
-		<JP-Name>Libeccio</JP-Name>
-		<TR-Name>리베치오</TR-Name>
-	</Ship>
-	<Ship>
-		<JP-Name>Libeccio改</JP-Name>
-		<TR-Name>리베치오改</TR-Name>
-	</Ship>
-	<Ship>
 		<JP-Name>Z1</JP-Name>
 		<TR-Name>레베</TR-Name>
 	</Ship>
@@ -335,6 +327,14 @@
 	<Ship>
 		<JP-Name>龍鳳改</JP-Name>
 		<TR-Name>류호改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Libeccio</JP-Name>
+		<TR-Name>리베치오</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Libeccio改</JP-Name>
+		<TR-Name>리베치오改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>Littorio</JP-Name>
@@ -460,7 +460,7 @@
 		<JP-Name>深雪改</JP-Name>
 		<TR-Name>미유키改</TR-Name>
 	</Ship>
-  	<Ship>
+	<Ship>
 		<JP-Name>瑞穂</JP-Name>
 		<TR-Name>미즈호</TR-Name>
 	</Ship>
@@ -495,6 +495,10 @@
 	<Ship>
 		<JP-Name>泊地棲姫</JP-Name>
 		<TR-Name>박지서희</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>防空棲姫</JP-Name>
+		<TR-Name>방공서희</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>Верный</JP-Name>
@@ -599,6 +603,10 @@
 	<Ship>
 		<JP-Name>祥鳳改</JP-Name>
 		<TR-Name>쇼호改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>水母棲姫</JP-Name>
+		<TR-Name>수모서희</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>輸送ワ級</JP-Name>
@@ -973,20 +981,20 @@
 		<TR-Name>와카바改</TR-Name>
 	</Ship>
 	<Ship>
-		<JP-Name>海風</JP-Name>
-		<TR-Name>우미카제</TR-Name>
-	</Ship>
-	<Ship>
-		<JP-Name>海風改</JP-Name>
-		<TR-Name>우미카제改</TR-Name>
-	</Ship>
-	<Ship>
 		<JP-Name>浦風</JP-Name>
 		<TR-Name>우라카제</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>浦風改</JP-Name>
 		<TR-Name>우라카제改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>海風</JP-Name>
+		<TR-Name>우미카제</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>海風改</JP-Name>
+		<TR-Name>우미카제改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>潮</JP-Name>

@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.8">
+<RemodelSlots Version="1.0.9">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -612,5 +612,32 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName2>武蔵</ShipName2>
 		<WeekDays2>3456</WeekDays2>
 		<ToolTip>소모: 21호 대공 레이더</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>32号対水上電探</SlotItemName>
+		<Position>3</Position>
+		<AllWeekdays>134567</AllWeekdays>
+		<Upgrade1>32号対水上電探改</Upgrade1>
+		<StartEquip>1</StartEquip>
+		<MidEquip>2</MidEquip>
+		<LastEquip>1</LastEquip>
+		<ShipName1>伊勢</ShipName1>
+		<WeekDays1>4567</WeekDays1>
+		<ShipName2>日向</ShipName2>
+		<WeekDays2>123</WeekDays2>
+		<ToolTip>소모: 22호 대공 레이더. 갱신: 32호 대공레이더=&gt;32호 대공레이더改</ToolTip>
+		<Upgrade2>32号対水上電探改</Upgrade2>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>32号対水上電探改</SlotItemName>
+		<Position>3</Position>
+		<AllWeekdays>134567</AllWeekdays>
+		<StartEquip>3</StartEquip>
+		<MidEquip>1</MidEquip>
+		<ShipName1>伊勢</ShipName1>
+		<WeekDays1>123</WeekDays1>
+		<ShipName2>日向</ShipName2>
+		<WeekDays2>4567</WeekDays2>
+		<ToolTip>소모: 22호 대공 레이더. ★6부터 32호 대공 레이더</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.9">
+<Quests Version="1.2.10">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -36,32 +36,11 @@
 		<TR-Detail>제1함대 기함에 숙련도가 높은(Lv.90-99)칸무스를 배치하고 마음을 정리하라!</TR-Detail>
 	</Quest>
 	<Quest>
-		<ID>SN05</ID>
-		<JP-Name>ソロモン海方面の制空権を奪え！</JP-Name>
-		<TR-Name>솔로몬해 방면의 제공권을 빼앗아라!</TR-Name>
-		<JP-Detail>ソロモン海方面の制空権を制する敵飛行場近海に我が挺身部隊を突入、これを破砕せよ！</JP-Detail>
-		<TR-Detail>E-4게이지 격파</TR-Detail>
-	</Quest>
-	<Quest>
 		<ID>SN04</ID>
 		<JP-Name>「赤城」に艦攻「村田隊」を配属せよ！</JP-Name>
 		<TR-Name>아카기에 함공 무라타대를 배치하라!</TR-Name>
 		<JP-Detail>秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！</JP-Detail>
 		<TR-Detail>아카기에 97식 함상 공격기를 장비</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>SN03</ID>
-		<JP-Name>主力機動部隊の前路哨戒を実施せよ！</JP-Name>
-		<TR-Name>주력 기동부대 전로초계를 실시!</TR-Name>
-		<JP-Detail>敵潜水艦を補足、これを複数撃滅し、我が主力機動部隊進出の前路を哨戒せよ！</JP-Detail>
-		<TR-Detail>잠수함 6번 격침(예외되는 해역 있을 수 있음)</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>SN02</ID>
-		<JP-Name>「工廠」倉庫の整理整頓！</JP-Name>
-		<TR-Name>[공창] 창고 정리정돈</TR-Name>
-		<JP-Detail>不要な装備を複数「廃棄」して、新装備受け入れのため「工廠」倉庫の整理を進めましょう！</JP-Detail>
-		<TR-Detail>장비 5회 폐기</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>G4</ID>
@@ -487,6 +466,16 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>621</ID>
+		<TR-Name>기종전환</TR-Name>
+		<TR-Detail>「97식함공(무라타대)」을 탑재한「쇼카쿠」를 비서함으로「텐잔」2개 폐기(무라타대 장비잠금 해제 필수,잠금상태 시 임무 실패)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>620</ID>
+		<TR-Name>「공창」창고의 정리정돈</TR-Name>
+		<TR-Detail>장비 5회 폐기</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>619</ID>
 		<TR-Name>장비의 개수강화 - 일일반복</TR-Name>
 		<TR-Detail>「개수공창」에서「장비」의 개수강화 1회 (실패도 포함)</TR-Detail>
@@ -647,6 +636,11 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 3번 성공</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>310</ID>
+		<TR-Name>FS작전에 대비하고 함대 련도 향상에 힘쓰자!</TR-Name>
+		<TR-Detail>오늘 중 연습전 4회 승리(05:00부터 익일04:59까지)</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>309</ID>
 		<TR-Name>북방재돌입에 대비하여 숙련도 향상에 힘써라!</TR-Name>
 		<TR-Detail>오늘안에 「연습」에서 4회 이상 승리</TR-Detail>
@@ -675,6 +669,26 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>284</ID>
+		<TR-Name>FS작전의 교두보를 쌓아라!</TR-Name>
+		<TR-Detail>적 항공모함(정규공모,경공모) 10회 격침(추천:2-3)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>283</ID>
+		<TR-Name>서부 방면 파견 함대, 출격하라！</TR-Name>
+		<TR-Detail>이벤트해역 E-5 클리어</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>282</ID>
+		<TR-Name>솔로몬 바다 쪽의 제공권을 빼앗아라!</TR-Name>
+		<TR-Detail>이벤트해역 E-4 게이지 파괴 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>281</ID>
+		<TR-Name>주력 기동 부대 전로 초계를 실시하라!</TR-Name>
+		<TR-Detail>적 잠수함 6척 격침(추천:1-5)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>280</ID>
@@ -940,6 +954,21 @@
 		<ID>201</ID>
 		<TR-Name>적 함대 격파! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>160</ID>
+		<TR-Name>항공모함 기동부대「제3함대」를 편성하라!</TR-Name>
+		<TR-Detail>연합함대 편성으로 제1함대에「쇼카쿠」「즈이카쿠」「즈이호」를 배치하라!</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>159</ID>
+		<TR-Name>「쇼카쿠」에 함상공격기「무라타대」를 배치하라!</TR-Name>
+		<TR-Detail>비서함을「쇼카쿠」로 하여 함상공격기「무라타대」장착하고, 수반함 한 척을 배치하라.</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>158</ID>
+		<TR-Name>[158]「아카기」에 함상공격기「무라타대」를 배치하라！</TR-Name>
+		<TR-Detail>비서함을 항공모함「아카기」로 하여「무라타대」장착</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>157</ID>
