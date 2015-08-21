@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.6">
+<Weapons Version="1.0.7">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -380,10 +380,12 @@
 		<Element>수</Element>
 		<Kind>검</Kind>
 		<Secrets>レーゲンス</Secrets>
+		<Skill1>서리의 공인 II</Skill1>
 		<MinHP>42</MinHP>
 		<MinATK>450</MinATK>
 		<MaxHP>240</MaxHP>
 		<MaxATK>2760</MaxATK>
+		<Skill1Detail>수속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1040004700</ID>

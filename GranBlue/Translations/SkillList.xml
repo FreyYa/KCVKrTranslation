@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Skills Version="1.0.1">
+<Skills Version="1.0.2">
 	<Skill>
 		<JpName>アンノウン・ATK</JpName>
 		<KrName>미지의 힘・ATK</KrName>
@@ -153,7 +153,7 @@
 	<Skill>
 		<JpName>機炎方陣・攻刃II</JpName>
 		<KrName>기염방진・공인II</KrName>
-		<Detail>화속성 캐릭터의 공격력 상승(大) </Detail>
+		<Detail>화속성 캐릭터의 공격력 상승(大)  </Detail>
 	</Skill>
 	<Skill>
 		<JpName>機炎方陣・守護II</JpName>
@@ -163,7 +163,7 @@
 	<Skill>
 		<JpName>騎解方陣・攻刃II</JpName>
 		<KrName>기해방진・공인II</KrName>
-		<Detail>빛속성 캐릭터의 공격력 상승(大) </Detail>
+		<Detail>빛속성 캐릭터의 공격력 상승(大)  </Detail>
 	</Skill>
 	<Skill>
 		<JpName>騎解方陣・守護II</JpName>
@@ -173,6 +173,11 @@
 	<Skill>
 		<JpName>奈落の攻刃</JpName>
 		<KrName>나락의 공인</KrName>
+		<Detail>암속성 캐릭터의 공격력 상승(大)  </Detail>
+	</Skill>
+	<Skill>
+		<JpName>奈落の攻刃II</JpName>
+		<KrName>나락의 공인 II</KrName>
 		<Detail>암속성 캐릭터의 공격력 상승(大) </Detail>
 	</Skill>
 	<Skill>
@@ -218,6 +223,11 @@
 	<Skill>
 		<JpName>乱気の攻刃</JpName>
 		<KrName>광기의 공인</KrName>
+		<Detail>풍속성 캐릭터의 공격력 상승(大)  </Detail>
+	</Skill>
+	<Skill>
+		<JpName>乱気の攻刃II</JpName>
+		<KrName>광기의 공인 II</KrName>
 		<Detail>풍속성 캐릭터의 공격력 상승(大) </Detail>
 	</Skill>
 	<Skill>
@@ -328,6 +338,11 @@
 	<Skill>
 		<JpName>霧氷の攻刃</JpName>
 		<KrName>서리의 공인</KrName>
+		<Detail>수속성 캐릭터의 공격력 상승(大)  </Detail>
+	</Skill>
+	<Skill>
+		<JpName>霧氷の攻刃II</JpName>
+		<KrName>서리의 공인 II</KrName>
 		<Detail>수속성 캐릭터의 공격력 상승(大) </Detail>
 	</Skill>
 	<Skill>
@@ -498,6 +513,11 @@
 	<Skill>
 		<JpName>地裂の攻刃</JpName>
 		<KrName>지진의 공인</KrName>
+		<Detail>토속성 캐릭터의 공격력 상승(大)  </Detail>
+	</Skill>
+	<Skill>
+		<JpName>地裂の攻刃II</JpName>
+		<KrName>지진의 공인 II</KrName>
 		<Detail>토속성 캐릭터의 공격력 상승(大) </Detail>
 	</Skill>
 	<Skill>
@@ -539,6 +559,11 @@
 		<JpName>天光の攻刃</JpName>
 		<KrName>천광의 공인</KrName>
 		<Detail>빛속성 캐릭터의 공격력 상승(大)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>天光の攻刃II</JpName>
+		<KrName>천광의 공인 II</KrName>
+		<Detail>빛속성 캐릭터의 공격력 상승(大) </Detail>
 	</Skill>
 	<Skill>
 		<JpName>天光の守護</JpName>
@@ -614,6 +639,11 @@
 		<JpName>紅蓮の攻刃</JpName>
 		<KrName>홍련의 공인</KrName>
 		<Detail>화속성 캐릭터의 공격력 상승(大)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>紅蓮の攻刃II</JpName>
+		<KrName>홍련의 공인 II</KrName>
+		<Detail>화속성 캐릭터의 공격력 상승(大) </Detail>
 	</Skill>
 	<Skill>
 		<JpName>紅蓮の技巧</JpName>
