@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.7">
+<Weapons Version="1.0.8">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -349,6 +349,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1040004400</ID>
+		<MaxName>炎奏華</MaxName>
 		<Name>ローエングリン</Name>
 		<Element>화</Element>
 		<Kind>검</Kind>
@@ -404,6 +405,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1040004800</ID>
+		<MaxName>万断剣</MaxName>
 		<Name>大地の剣</Name>
 		<Element>토</Element>
 		<Kind>검</Kind>
@@ -683,6 +685,19 @@
 		<MaxATK>2405</MaxATK>
 		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 		<Skill2Detail>빛속성 캐릭터의 최대 HP상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040103900</ID>
+		<Name>秘丹弥虚羅多包丁</Name>
+		<Element>수</Element>
+		<Kind>단검</Kind>
+		<Secrets>秘丹弥虚羅多説法</Secrets>
+		<Skill1>미지의 힘・ATKII</Skill1>
+		<MinHP>33</MinHP>
+		<MinATK>300</MinATK>
+		<MaxHP>195</MaxHP>
+		<MaxATK>1915</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1040200000</ID>
@@ -4714,6 +4729,19 @@
 		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1030503200</ID>
+		<Name>秘丹弥虚羅多鉄砲</Name>
+		<Element>암</Element>
+		<Kind>총</Kind>
+		<Secrets>秘丹弥虚羅多風玉</Secrets>
+		<Skill1>미지의 힘・ATK</Skill1>
+		<MinHP>12</MinHP>
+		<MinATK>255</MinATK>
+		<MaxHP>95</MaxHP>
+		<MaxATK>1515</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1030599000</ID>
 		<MaxName>大天使</MaxName>
 		<Name>アークエンジェルガン</Name>
@@ -5321,6 +5349,19 @@
 		<MaxHP>125</MaxHP>
 		<MaxATK>1395</MaxATK>
 		<Skill1Detail>화속성 캐릭터의 공격력 상승(中)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030702900</ID>
+		<Name>秘丹弥虚羅多弓</Name>
+		<Element>풍</Element>
+		<Kind>활</Kind>
+		<Secrets>秘丹弥虚羅多風玉</Secrets>
+		<Skill1>미지의 힘・VIT</Skill1>
+		<MinHP>19</MinHP>
+		<MinATK>220</MinATK>
+		<MaxHP>124</MaxHP>
+		<MaxATK>1370</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1030799000</ID>
@@ -6172,7 +6213,7 @@
 		<MinATK>190</MinATK>
 		<MaxHP>102</MaxHP>
 		<MaxATK>1180</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020001900</ID>
@@ -6278,7 +6319,7 @@
 		<MinATK>165</MinATK>
 		<MaxHP>104</MaxHP>
 		<MaxATK>1020</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020100300</ID>
@@ -6439,7 +6480,7 @@
 		<MinATK>125</MinATK>
 		<MaxHP>78</MaxHP>
 		<MaxATK>760</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020101700</ID>
@@ -6731,7 +6772,7 @@
 		<MinATK>168</MinATK>
 		<MaxHP>120</MaxHP>
 		<MaxATK>1050</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020201500</ID>
@@ -6943,7 +6984,7 @@
 		<MinATK>205</MinATK>
 		<MaxHP>93</MaxHP>
 		<MaxATK>1255</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020301200</ID>
@@ -6984,7 +7025,7 @@
 		<MinATK>180</MinATK>
 		<MaxHP>98</MaxHP>
 		<MaxATK>1125</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020301500</ID>
@@ -7120,7 +7161,7 @@
 		<MinATK>150</MinATK>
 		<MaxHP>127</MaxHP>
 		<MaxATK>940</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020400500</ID>
@@ -7160,7 +7201,7 @@
 		<MinATK>160</MinATK>
 		<MaxHP>133</MaxHP>
 		<MaxATK>985</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020400800</ID>
@@ -7392,7 +7433,7 @@
 		<MinATK>165</MinATK>
 		<MaxHP>139</MaxHP>
 		<MaxATK>1030</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020402600</ID>
@@ -7703,7 +7744,7 @@
 		<MinATK>120</MinATK>
 		<MaxHP>78</MaxHP>
 		<MaxATK>735</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020600500</ID>
@@ -7828,7 +7869,7 @@
 		<MinATK>180</MinATK>
 		<MaxHP>123</MaxHP>
 		<MaxATK>1140</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020601400</ID>
@@ -7949,7 +7990,7 @@
 		<MinATK>190</MinATK>
 		<MaxHP>111</MaxHP>
 		<MaxATK>1200</MaxATK>
-		<Skill1Detail>토속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+		<Skill1Detail>토속성 캐릭터의 최대 HP상승(中)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1020799000</ID>
