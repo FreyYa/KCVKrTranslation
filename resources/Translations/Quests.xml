@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.10">
+<Quests Version="1.2.11">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -636,6 +636,11 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 원정 3번 성공</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>311</ID>
+		<TR-Name>정예 함대 연습</TR-Name>
+		<TR-Detail>05시부터 익일 04:59까지 연습전 7회 B승리 이상 기록</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>310</ID>
 		<TR-Name>FS작전에 대비하고 함대 련도 향상에 힘쓰자!</TR-Name>
 		<TR-Detail>오늘 중 연습전 4회 승리(05:00부터 익일04:59까지)</TR-Detail>
@@ -669,6 +674,16 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>286</ID>
+		<TR-Name>진수부 정면의 대잠초계를 강화하라!</TR-Name>
+		<TR-Detail>1-5 보스전 B승리 이상 4회 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>285</ID>
+		<TR-Name>항모기동부대, 북방해역에 진출하라!</TR-Name>
+		<TR-Detail>항공모함을 주력으로 한 항공모함 기동 부대로 3-5 보스전 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>284</ID>
