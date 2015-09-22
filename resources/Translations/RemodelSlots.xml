@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.11">
+<RemodelSlots Version="1.0.12">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -143,7 +143,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>12</WeekDays1>
 		<ShipName2>武蔵</ShipName2>
 		<WeekDays2>34</WeekDays2>
-		<ToolTip>초기소모: 41cm 연장포 x2</ToolTip>
+		<ToolTip>초기소모: 41cm 연장포 x2, 변환완료 시 46cm연장포★5</ToolTip>
 		<Upgrade2>46cm三連装砲</Upgrade2>
 	</RemodelSlot>
 	<RemodelSlot>
@@ -169,6 +169,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>167</WeekDays1>
 		<ShipName2>五十鈴改二</ShipName2>
 		<WeekDays2>267</WeekDays2>
+    <ToolTip>장비변환 시 3식 소나★3</ToolTip>
 		<Upgrade2>三式水中探信儀</Upgrade2>
 	</RemodelSlot>
 	<RemodelSlot>
@@ -231,7 +232,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<LastEquip>2</LastEquip>
 		<ShipName1>Bismarck</ShipName1>
 		<WeekDays1>567</WeekDays1>
-		<ToolTip>초기소모: 35.6cm 연장포, 장비변환: 41cm 연장포x2  소모</ToolTip>
+		<ToolTip>초기소모: 35.6cm 연장포, 장비변환: 41cm 연장포x2 소모, 변환완료 시 38cm연장포改★3</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>35.6cm連装砲</SlotItemName>
@@ -317,7 +318,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>167</WeekDays1>
 		<ShipName2>榛名</ShipName2>
 		<WeekDays2>234</WeekDays2>
-		<ToolTip>초기소모: 91식 철갑탄x2</ToolTip>
+		<ToolTip>초기소모: 91식 철갑탄x2, ★6부터 1식 철갑탄x1</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>10cm連装高角砲+高射装置</SlotItemName>
@@ -348,6 +349,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<StartEquip>0</StartEquip>
 		<MidEquip>1</MidEquip>
 		<LastEquip>2</LastEquip>
+    <ToolTip>장비변환 시 3식 폭뢰투사기★3</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>三式爆雷投射機</SlotItemName>
@@ -368,7 +370,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<LastEquip>2</LastEquip>
 		<ShipName1>吹雪改二</ShipName1>
 		<WeekDays1>567</WeekDays1>
-		<ToolTip>소모장비 : 61cm 3연장어뢰, 장비변환 : 61cm 4연장어뢰 x2</ToolTip>
+		<ToolTip>소모장비 : 61cm 3연장어뢰, 장비변환 : 61cm 4연장어뢰 x2, 변환완료 시 61cm 4연장어뢰★5</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>381mm/50 三連装砲</SlotItemName>
@@ -382,7 +384,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>3456</WeekDays1>
 		<ShipName2>Roma</ShipName2>
 		<WeekDays2>127</WeekDays2>
-		<ToolTip>소모장비: 35.6cm연장포, 장비변환: 25mm 연장기관포⇒381mm/50 3연장포改</ToolTip>
+		<ToolTip>소모장비: 35.6cm연장포, 장비변환: 25mm 연장기관포⇒381mm/50 3연장포改★3</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>381mm/50 三連装砲改</SlotItemName>
@@ -449,7 +451,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>567</WeekDays1>
 		<ShipName2>能代</ShipName2>
 		<WeekDays2>1267</WeekDays2>
-		<ToolTip>갱신: 22호 대 해상전탐⇒15.2cm 연장포改</ToolTip>
+		<ToolTip>갱신: 22호 대수상레이더⇒15.2cm 연장포改</ToolTip>
 		<Upgrade2>15.2cm連装砲改</Upgrade2>
 		<ShipName3>矢矧</ShipName3>
 		<WeekDays3>2345</WeekDays3>
@@ -540,7 +542,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>1567</WeekDays1>
 		<ShipName2>羽黒改二</ShipName2>
 		<WeekDays2>1267</WeekDays2>
-		<ToolTip>소모(초기부터): 22호 대수상전탐. ★6부터 동일장비 소모</ToolTip>
+		<ToolTip>소모(초기부터): 22호 대수상전탐. ★6부터 22호 대수상전탐改4 소모</ToolTip>
 		<ShipName3>金剛改二</ShipName3>
 		<WeekDays3>3456</WeekDays3>
 	</RemodelSlot>
@@ -636,7 +638,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>4567</WeekDays1>
 		<ShipName2>日向</ShipName2>
 		<WeekDays2>123</WeekDays2>
-		<ToolTip>소모: 22호 대수상 레이더. 갱신: 32호 대공레이더=&gt;32호 대공레이더改</ToolTip>
+		<ToolTip>소모: 22호 대수상 레이더,갱신: 32호 대수상레이더=&gt;32호 대수상레이더改</ToolTip>
 		<Upgrade2>32号対水上電探改</Upgrade2>
 	</RemodelSlot>
 	<RemodelSlot>
@@ -649,6 +651,6 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>123</WeekDays1>
 		<ShipName2>日向</ShipName2>
 		<WeekDays2>4567</WeekDays2>
-		<ToolTip>소모: 22호 대수상 레이더. ★6부터 32호 대공 레이더</ToolTip>
+		<ToolTip>소모: 22호 대수상 레이더. ★6부터 32호 대수상 레이더</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>
