@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.9">
+<Weapons Version="1.0.10">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -453,6 +453,18 @@
 		<MaxATK>2201</MaxATK>
 		<Skill1Detail>HP를 500상승</Skill1Detail>
 		<Skill2Detail>배틀 개시 5턴동안 토속성 캐릭터의 방어력 상승</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040004900</ID>
+		<MaxName>黒彩宝</MaxName>
+		<Name>オブシダンソード</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>ブラックサージ</Secrets>
+		<MinHP>23</MinHP>
+		<MinATK>335</MinATK>
+		<MaxHP>164</MaxHP>
+		<MaxATK>1980</MaxATK>
 	</Weapon>
 	<Weapon>
 		<ID>1040100000</ID>
@@ -1061,6 +1073,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1040203800</ID>
+		<MaxName>蒐索槍</MaxName>
 		<Name>アワリティアスピア</Name>
 		<Element>토</Element>
 		<Kind>창</Kind>
@@ -1333,10 +1346,11 @@
 	</Weapon>
 	<Weapon>
 		<ID>1040303200</ID>
+		<MaxName>輝影斧</MaxName>
 		<Name>ヴェセラゴハーケン</Name>
 		<Element>빛</Element>
 		<Kind>도끼</Kind>
-		<Secrets>ミラーティスペラー</Secrets>
+		<Secrets>ミラーディスペラー</Secrets>
 		<Skill1>뇌전의 공인</Skill1>
 		<Skill2>빛의 수호</Skill2>
 		<MinHP>25</MinHP>
@@ -1647,6 +1661,29 @@
 		<MaxATK>2180</MaxATK>
 		<Skill1Detail>암속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 		<Skill2Detail>토속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040403900</ID>
+		<MaxName>福鸚鵡</MaxName>
+		<Name>ゴトルベルケーン</Name>
+		<Element>빛</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>福音の鐘</Secrets>
+		<MinHP>32</MinHP>
+		<MinATK>240</MinATK>
+		<MaxHP>200</MaxHP>
+		<MaxATK>1500</MaxATK>
+	</Weapon>
+	<Weapon>
+		<ID>1040404000</ID>
+		<Name>セプティアンバーナー</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>イグナイトゾーン</Secrets>
+		<MinHP>39</MinHP>
+		<MinATK>315</MinATK>
+		<MaxHP>250</MaxHP>
+		<MaxATK>1900</MaxATK>
 	</Weapon>
 	<Weapon>
 		<ID>1040500000</ID>
@@ -2474,6 +2511,21 @@
 		<Skill1Detail>획득 경험치 상승</Skill1Detail>
 	</Weapon>
 	<Weapon>
+		<ID>1040802400</ID>
+		<Name>神授のリラ</Name>
+		<Element>풍</Element>
+		<Kind>악기</Kind>
+		<Secrets>ビネヴォレンス</Secrets>
+		<Skill1>광기의 공인</Skill1>
+		<Skill2>홍련의 공인</Skill2>
+		<MinHP>70</MinHP>
+		<MinATK>375</MinATK>
+		<MaxHP>242</MaxHP>
+		<MaxATK>2225</MaxATK>
+		<Skill1Detail>풍속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+		<Skill2Detail>화속성 캐릭터의 공격력 상승(大)</Skill2Detail>
+	</Weapon>
+	<Weapon>
 		<ID>1040900300</ID>
 		<MaxName>真鍛心</MaxName>
 		<Name>天叢雲剣</Name>
@@ -2652,6 +2704,20 @@
 		<MaxATK>2695</MaxATK>
 		<Skill1Detail>암속성 캐릭터의 공격력이 HP가 적을수록 상승(大)</Skill1Detail>
 		<Skill2Detail>빛속성 공격으로 약점을 때렸을때 확률로 데미지 업(小)</Skill2Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040902500</ID>
+		<MaxName>永炎</MaxName>
+		<Name>朱雀光剣</Name>
+		<Element>화</Element>
+		<Kind>도</Kind>
+		<Secrets>四象天神之太刀・南朱++</Secrets>
+		<Skill1>홍련의 공인 II</Skill1>
+		<MinHP>22</MinHP>
+		<MinATK>345</MinATK>
+		<MaxHP>175</MaxHP>
+		<MaxATK>2530</MaxATK>
+		<Skill1Detail>화속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1030000000</ID>
@@ -4132,6 +4198,19 @@
 		<MaxHP>123</MaxHP>
 		<MaxATK>1765</MaxATK>
 		<Skill1Detail>드라프족의 공격력 상승</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1030303000</ID>
+		<Name>グレートハンマー</Name>
+		<Element>토</Element>
+		<Kind>도끼</Kind>
+		<Secrets>ヘヴィスマッシュ</Secrets>
+		<Skill1>대지의 끝</Skill1>
+		<MinHP>24</MinHP>
+		<MinATK>305</MinATK>
+		<MaxHP>136</MaxHP>
+		<MaxATK>1855</MaxATK>
+		<Skill1Detail>토속성 캐릭터가 드물게 카운터를 발동. 스킬레벨 상승으로 카운터 데미지 업(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
 		<ID>1030399000</ID>
@@ -5889,7 +5968,7 @@
 		<Skill1Detail>士気向上(사기진작)의 효과 상승</Skill1Detail>
 	</Weapon>
 	<Weapon>
-		<ID>1030202800(1)</ID>
+		<ID>1030202800</ID>
 		<Name>ロムルス・レプリカ</Name>
 		<Element>빛</Element>
 		<Kind>창</Kind>
@@ -6736,6 +6815,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1020102400</ID>
+		<MaxName>忙厨</MaxName>
 		<Name>チョッパーナイフ</Name>
 		<Element>암</Element>
 		<Kind>단검</Kind>
@@ -6961,6 +7041,7 @@
 	</Weapon>
 	<Weapon>
 		<ID>1020201700</ID>
+		<MaxName>迷彩</MaxName>
 		<Name>ギリーフォーク</Name>
 		<Element>풍</Element>
 		<Kind>창</Kind>
@@ -7604,6 +7685,17 @@
 		<MaxHP>138</MaxHP>
 		<MaxATK>1035</MaxATK>
 		<Skill1Detail>광속성 캐릭터의 최대 HP상승(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1020402700</ID>
+		<Name>宿樹の仙杖</Name>
+		<Element>화</Element>
+		<Kind>지팡이</Kind>
+		<Secrets>ショック</Secrets>
+		<MinHP>20</MinHP>
+		<MinATK>178</MinATK>
+		<MaxHP>136</MaxHP>
+		<MaxATK>1045</MaxATK>
 	</Weapon>
 	<Weapon>
 		<ID>1020499000</ID>
