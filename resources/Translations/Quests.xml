@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.11">
+<?xml version="1.0" encoding="utf-8"?>
+<Quests Version="1.2.12">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -466,6 +466,16 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>623</ID>
+		<TR-Name>정예「97식함공」부대의 편성</TR-Name>
+		<TR-Detail>「쇼카쿠」또는「아카기」를 기함으로「97식함공」3기 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>622</ID>
+		<TR-Name>기종전환</TR-Name>
+		<TR-Detail>「97식함공(무라타대)」를 탑재한 「쇼카쿠」를 기함으로,「텐잔」2기 폐기</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>621</ID>
 		<TR-Name>기종전환</TR-Name>
 		<TR-Detail>「97식함공(무라타대)」을 탑재한「쇼카쿠」를 비서함으로「텐잔」2개 폐기(무라타대 장비잠금 해제 필수,잠금상태 시 임무 실패)</TR-Detail>
@@ -554,6 +564,11 @@
 		<ID>503</ID>
 		<TR-Name>함대 대정비 - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 군함 5척 수리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>420</ID>
+		<TR-Name>기동부대의 운용을 강화하라!</TR-Name>
+		<TR-Detail>기동부대 원정을 실시,「MO작전」및「적 모항 공습작전」(80시간 원정)을 전개, 성공시켜라!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>419</ID>
@@ -674,6 +689,21 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>289</ID>
+		<TR-Name>「제16전대(제1차)」출격하라!</TR-Name>
+		<TR-Detail>「아시가라」「쿠마」「나가라」를 포함한 제16전대(제1차)로 2-2 보스전 S승(3척 자유편성)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>288</ID>
+		<TR-Name>신편「제21전대」북방으로 출격하라!</TR-Name>
+		<TR-Detail>「아시가라改2」「나치改2」및「타마」「키소」를 포함한 제21전대로 3-1 보스전 S승 (2척 자유편성)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>287</ID>
+		<TR-Name>「제5항공전대」산호섬 앞바다에 출격하라!</TR-Name>
+		<TR-Detail>「쇼카쿠」「즈이카쿠」와 수반구축함「오보로」「아키구모」를 기반으로 5-2 보스전 S승(2척 자유편성,루트고정 경모1 유의)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>286</ID>
@@ -969,6 +999,21 @@
 		<ID>201</ID>
 		<TR-Name>적 함대 격파! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>163</ID>
+		<TR-Name>「제16전대(제1차)」를 편성하라!</TR-Name>
+		<TR-Detail>「아시가라」를 기함으로「쿠마」「나가라」를 포함한 제16전대(제1차)를 편성하라!</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>162</ID>
+		<TR-Name>신편「제21전대」출격준비!</TR-Name>
+		<TR-Detail>「아시가라改2」「나치改2」및「타마」「키소」를 기반으로 한, 제21전대를 편성하라!</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>161</ID>
+		<TR-Name>「제5항공전대」를 재구성하라!</TR-Name>
+		<TR-Detail>「쇼카쿠」「즈이카쿠」와 수반구축함「오보로」「아키구모」를 기반으로한 제5항공전대를 재편성하라!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>160</ID>
