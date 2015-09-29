@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.12">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quests Version="1.2.13">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -464,6 +464,11 @@
 		<ID>702</ID>
 		<TR-Name>군함의 근대화 개수 실시 - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>624</ID>
+		<TR-Name>시작 의장의 준비</TR-Name>
+		<TR-Detail>「공창」에서 장비 7개를「폐기」하여,「시제갑판 캐터펠트」를 준비하자!</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>623</ID>

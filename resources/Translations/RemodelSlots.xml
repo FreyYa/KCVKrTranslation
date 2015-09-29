@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.12">
+<RemodelSlots Version="1.0.13">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -169,7 +169,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<WeekDays1>167</WeekDays1>
 		<ShipName2>五十鈴改二</ShipName2>
 		<WeekDays2>267</WeekDays2>
-    <ToolTip>장비변환 시 3식 소나★3</ToolTip>
+		<ToolTip>장비변환 시 3식 소나★3</ToolTip>
 		<Upgrade2>三式水中探信儀</Upgrade2>
 	</RemodelSlot>
 	<RemodelSlot>
@@ -193,16 +193,16 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<LastEquip>2</LastEquip>
 		<ShipName1>秋月</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
-		<ShipName2>吹雪改二</ShipName2>
-		<WeekDays2>1567</WeekDays2>
+		<ShipName2>照月</ShipName2>
+		<WeekDays2>1234567</WeekDays2>
 		<ToolTip>소모장비: 10cm 연장고각포. 마야改2 장비변환: 12.7cm 연장고각포. 장비변환 후 착용가능함이 변경되므로 주의</ToolTip>
 		<Upgrade2>10cm連装高角砲+高射装置</Upgrade2>
-		<ShipName3>摩耶改二</ShipName3>
+		<ShipName3>吹雪改二</ShipName3>
 		<WeekDays3>1567</WeekDays3>
-		<Upgrade3>12.7cm高角砲+高射装置</Upgrade3>
-		<ShipName4>照月</ShipName4>
-		<WeekDays4>1234567</WeekDays4>
+		<Upgrade3>10cm連装高角砲+高射装置</Upgrade3>
 		<Upgrade4>12.7cm高角砲+高射装置</Upgrade4>
+		<ShipName4>摩耶改二</ShipName4>
+		<WeekDays4>1567</WeekDays4>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>14cm連装砲</SlotItemName>
@@ -328,9 +328,9 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<MidEquip>2</MidEquip>
 		<ShipName1>秋月</ShipName1>
 		<WeekDays1>2345</WeekDays1>
+		<ShipName2>照月</ShipName2>
+		<WeekDays2>1567</WeekDays2>
 		<ToolTip>소모장비 : 10cm연장고각포</ToolTip>
-		<ShipName3>照月</ShipName3>
-		<WeekDays3>15678</WeekDays3>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>61cm五連装(酸素)魚雷</SlotItemName>
@@ -349,7 +349,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<StartEquip>0</StartEquip>
 		<MidEquip>1</MidEquip>
 		<LastEquip>2</LastEquip>
-    <ToolTip>장비변환 시 3식 폭뢰투사기★3</ToolTip>
+		<ToolTip>장비변환 시 3식 폭뢰투사기★3</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>三式爆雷投射機</SlotItemName>
@@ -510,9 +510,9 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName3>青葉</ShipName3>
 		<WeekDays3>234</WeekDays3>
 		<Upgrade3>96式150cm探照灯</Upgrade3>
+		<Upgrade4>96式150cm探照灯</Upgrade4>
 		<ShipName4>綾波</ShipName4>
 		<WeekDays4>234</WeekDays4>
-		<Upgrade4>96式150cm探照灯</Upgrade4>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>22号対水上電探</SlotItemName>
@@ -652,5 +652,19 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName2>日向</ShipName2>
 		<WeekDays2>4567</WeekDays2>
 		<ToolTip>소모: 22호 대수상 레이더. ★6부터 32호 대수상 레이더</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>四式水中聴音機</SlotItemName>
+		<Position>2</Position>
+		<AllWeekdays>12347</AllWeekdays>
+		<StartEquip>1</StartEquip>
+		<MidEquip>1</MidEquip>
+		<ShipName1>五十鈴改二</ShipName1>
+		<WeekDays1>67</WeekDays1>
+		<ShipName2>秋月改</ShipName2>
+		<WeekDays2>1</WeekDays2>
+		<ToolTip>소모 : 93식 소나, ★6부터 4식 소나</ToolTip>
+		<ShipName3>香取改</ShipName3>
+		<WeekDays3>23</WeekDays3>
 	</RemodelSlot>
 </RemodelSlots>
