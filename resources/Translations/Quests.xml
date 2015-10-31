@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.14">
+<Quests Version="1.2.15">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -466,6 +466,16 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>626</ID>
+		<TR-Name>정예 [함대] 신편성</TR-Name>
+		<TR-Detail>※숙련승무원[熟練搭乗員]이 없으면 달성불가. 임무 달성시 숙련승무원을 1개 소모)숙련도 MAX 영식 함상 전투기 21형을 탑제한 호쇼를 비서함으로 하고 영식 함상 전투기 21형 2개와 96식 함상 전투기 1개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>625</ID>
+		<TR-Name>시제 항공의장의 추가 시험품</TR-Name>
+		<TR-Detail>공창에서 장비아이템을 9개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>624</ID>
 		<TR-Name>시작 의장의 준비</TR-Name>
 		<TR-Detail>「공창」에서 장비 7개를「폐기」하여,「시제갑판 캐터펠트」를 준비하자!</TR-Detail>
@@ -694,6 +704,31 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 B랭크 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>294</ID>
+		<TR-Name>오자와 함대 출격</TR-Name>
+		<TR-Detail>즈이카쿠改 기함, 치토세, 치요다, 이세改, 휴가改 함대로 2-4 보스전 S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>293</ID>
+		<TR-Name>제 3 항공전대 남서제도방면 방어선으로 출격</TR-Name>
+		<TR-Detail>즈이카쿠改를 기함으로 하고 즈이호, 치토세, 치요다와 기타2척을 포함하여 1-4보스전  S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>292</ID>
+		<TR-Name>꽁치잡이:더 노력해도 좋아!</TR-Name>
+		<TR-Detail>1-1, 1-5, 1-6, 3-1, 3-2, 3-3, 3-4, 3-5, 6-1등에서 꽁치를 30마리 획득</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>291</ID>
+		<TR-Name>꽁치잡이:[꽁치]를 더 수확하라!</TR-Name>
+		<TR-Detail>1-1, 1-5, 1-6, 3-1, 3-2, 3-3, 3-4, 3-5, 6-1등에서 꽁치를 10마리 획득</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>290</ID>
+		<TR-Name>꽁치잡이:[꽁치]를 수확하라!</TR-Name>
+		<TR-Detail>1-1, 1-5, 1-6, 3-1, 3-2, 3-3, 3-4, 3-5, 6-1등에서 꽁치를 3마리 획득</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>289</ID>
@@ -1006,6 +1041,21 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>166</ID>
+		<TR-Name>오자와 함대 편성</TR-Name>
+		<TR-Detail>즈이카쿠改를 기함으로 하고 치토세, 치요다, 이세改, 휴가改로 함대를 편성(경공모 개장필요)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>165</ID>
+		<TR-Name>제 4 항공전대 편성</TR-Name>
+		<TR-Detail>항공전함 이세改와 휴가改를 포함한 함대 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>164</ID>
+		<TR-Name>제 3 항공전대 편성</TR-Name>
+		<TR-Detail>즈이카쿠改를 기함으로 하여 즈이호, 치토세, 치요다로 함대 편성(총4, 경공모 개장필요)</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>163</ID>
 		<TR-Name>「제16전대(제1차)」를 편성하라!</TR-Name>
 		<TR-Detail>「아시가라」를 기함으로「쿠마」「나가라」를 포함한 제16전대(제1차)를 편성하라!</TR-Detail>
@@ -1194,20 +1244,5 @@
 		<ID>101</ID>
 		<TR-Name>첫「편성」！</TR-Name>
 		<TR-Detail>2척 이상의 함선으로 이루어진 함대를 편성하라！</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>290</ID>
-		<TR-Name>꽁치잡이:[꽁치]를 수확하라!</TR-Name>
-		<TR-Detail>1-1, 1-5, 1-6, 3-1, 3-2, 3-3, 3-4, 3-5, 6-1등에서 꽁치를 3마리 획득</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>291</ID>
-		<TR-Name>꽁치잡이:[꽁치]를 더 수확하라!</TR-Name>
-		<TR-Detail>1-1, 1-5, 1-6, 3-1, 3-2, 3-3, 3-4, 3-5, 6-1등에서 꽁치를 10마리 획득</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>292</ID>
-		<TR-Name>꽁치잡이:더 노력해도 좋아!</TR-Name>
-		<TR-Detail>1-1, 1-5, 1-6, 3-1, 3-2, 3-3, 3-4, 3-5, 6-1등에서 꽁치를 30마리 획득</TR-Detail>
 	</Quest>
 </Quests>
