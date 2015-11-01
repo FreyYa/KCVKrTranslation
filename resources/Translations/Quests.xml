@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.15">
+<Quests Version="1.2.16">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -187,7 +187,7 @@
 		<JP-Name>「第十八駆逐隊」出撃せよ！</JP-Name>
 		<TR-Name>제18구축함대 출격!!</TR-Name>
 		<JP-Detail>編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-		<TR-Detail>카스미, 아라레, 카게로우, 시라누이가 포함된 함대로 3-1 해역 보스전 승리 (남은 2척은 자유배치)</TR-Detail>
+		<TR-Detail>카스미, 아라레, 카게로우, 시라누이가 포함된 함대로 3-1 해역 보스전 승리 (남은 2척은 자유배치)※기함자유</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B20</ID>
@@ -708,7 +708,7 @@
 	<Quest>
 		<ID>294</ID>
 		<TR-Name>오자와 함대 출격</TR-Name>
-		<TR-Detail>즈이카쿠改 기함, 치토세, 치요다, 이세改, 휴가改 함대로 2-4 보스전 S승</TR-Detail>
+		<TR-Detail>즈이카쿠改 기함, 즈이호改, 치토세, 치요다, 이세改, 휴가改 함대로 2-4 보스전 S승</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>293</ID>
@@ -733,7 +733,7 @@
 	<Quest>
 		<ID>289</ID>
 		<TR-Name>「제16전대(제1차)」출격하라!</TR-Name>
-		<TR-Detail>「아시가라」「쿠마」「나가라」를 포함한 제16전대(제1차)로 2-2 보스전 S승(3척 자유편성)</TR-Detail>
+		<TR-Detail>「아시가라(기함)」「쿠마」「나가라」를 포함한 제16전대(제1차)로 2-2 보스전 S승(3척 자유편성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>288</ID>
@@ -843,7 +843,7 @@
 	<Quest>
 		<ID>267</ID>
 		<TR-Name>「제11구축대」출격하라!</TR-Name>
-		<TR-Detail>「제11구축대」(후부키,시라유키,하츠유키,무라쿠모)를 포함한 함대로 2-3 보스전 승리(그 외 자유편성)</TR-Detail>
+		<TR-Detail>「제11구축대」(후부키,시라유키,하츠유키,무라쿠모)를 포함한 함대로 2-3 보스전 승리(그 외 자유편성)※기함자유</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>266</ID>
@@ -1043,7 +1043,7 @@
 	<Quest>
 		<ID>166</ID>
 		<TR-Name>오자와 함대 편성</TR-Name>
-		<TR-Detail>즈이카쿠改를 기함으로 하고 치토세, 치요다, 이세改, 휴가改로 함대를 편성(경공모 개장필요)</TR-Detail>
+		<TR-Detail>즈이카쿠改를 기함으로 하고 즈이호改, 치토세, 치요다, 이세改, 휴가改로 함대를 편성(경공모 개장필요)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>165</ID>
