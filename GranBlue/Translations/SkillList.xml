@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Skills Version="1.0.3">
+<Skills Version="1.0.4">
 	<Skill>
 		<JpName>鍛錬の守護</JpName>
 		<KrName>단련의 수호</KrName>
@@ -86,13 +86,13 @@
 		<Detail>강화에 사용하면 무기 스킬레벨이 올라가기 쉽다(中)</Detail>
 	</Skill>
 	<Skill>
-		<JpName>鍛錬の攻刃</JpName>
-		<KrName>단련의 공인</KrName>
+		<JpName>竜騎の攻刃</JpName>
+		<KrName>용기병의 공인</KrName>
 		<Detail>공격력을 1000상승</Detail>
 	</Skill>
 	<Skill>
-		<JpName>竜騎の攻刃</JpName>
-		<KrName>용기병의 공인</KrName>
+		<JpName>鍛錬の攻刃</JpName>
+		<KrName>단련의 공인</KrName>
 		<Detail>공격력을 1000상승</Detail>
 	</Skill>
 	<Skill>
@@ -129,6 +129,11 @@
 		<JpName>破壊を齎す強心</JpName>
 		<KrName>파괴를 불러오는 강한 마음</KrName>
 		<Detail>드물게 모든 공격을 회피. 회피시 오의 게이지 UP</Detail>
+	</Skill>
+	<Skill>
+		<JpName>繁栄の祭火</JpName>
+		<KrName>번영의 재화</KrName>
+		<Detail>메인장비시 아이템 드랍업</Detail>
 	</Skill>
 	<Skill>
 		<JpName>ヤリイカの閃き</JpName>
@@ -181,6 +186,11 @@
 		<Detail>배틀 개시 5턴동안 화속성 캐릭터의 방어력 상승</Detail>
 	</Skill>
 	<Skill>
+		<JpName>先制の黒の結界</JpName>
+		<KrName>선제의 검은 결계</KrName>
+		<Detail>배틀 개시할때 암속성 캐릭터에게 베리어 효과</Detail>
+	</Skill>
+	<Skill>
 		<JpName>パンプキントリック</JpName>
 		<KrName>펌프킨 트릭</KrName>
 		<Detail>빛속성 공격으로 약점을 때렸을때  확률로 데미지 업(中)</Detail>
@@ -194,6 +204,11 @@
 		<JpName>雷電の技巧</JpName>
 		<KrName>뇌전의 기교</KrName>
 		<Detail>빛속성 공격으로 약점을 때렸을때 확률로 데미지 업(中)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>深い闇</JpName>
+		<KrName>깊은 어둠</KrName>
+		<Detail>빛속성 데미지를 3%커트</Detail>
 	</Skill>
 	<Skill>
 		<JpName>雷電の見切</JpName>
@@ -226,6 +241,11 @@
 		<Detail>빛속성 캐릭터의 공격력 상승(中)</Detail>
 	</Skill>
 	<Skill>
+		<JpName>雷電の二手</JpName>
+		<KrName>뇌전의 양손</KrName>
+		<Detail>빛속성 캐릭터의 더블어택 확률 증가(中)</Detail>
+	</Skill>
+	<Skill>
 		<JpName>天光の守護</JpName>
 		<KrName>천광의 수호</KrName>
 		<Detail>빛속성 캐릭터의 최대 HP상승(大)</Detail>
@@ -239,6 +259,11 @@
 		<JpName>雷電の守護</JpName>
 		<KrName>뇌전의 수호</KrName>
 		<Detail>빛속성 캐릭터의 최대 HP상승(中)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>天光の治癒</JpName>
+		<KrName>천광의 치유</KrName>
+		<Detail>빛속성 캐릭터의 회복상한상승(大)</Detail>
 	</Skill>
 	<Skill>
 		<JpName>雷電の治癒</JpName>
@@ -312,7 +337,7 @@
 	</Skill>
 	<Skill>
 		<JpName>水の守護</JpName>
-		<KrName>물의 수인</KrName>
+		<KrName>물의 수호</KrName>
 		<Detail>수속성 캐릭터의 최대 HP상승(小)</Detail>
 	</Skill>
 	<Skill>
@@ -361,6 +386,11 @@
 		<Detail>암속성 공격으로 약점을 때렸을때  확률로 데미지 업(中)</Detail>
 	</Skill>
 	<Skill>
+		<JpName>ゴーストフロウ</JpName>
+		<KrName>고스트 플로우</KrName>
+		<Detail>암속성 캐릭터가 드물게 적에게 받는 피해를 회피</Detail>
+	</Skill>
+	<Skill>
 		<JpName>憎悪の見切</JpName>
 		<KrName>증오의 끝</KrName>
 		<Detail>암속성 캐릭터가 드물게 카운터를 발동. 스킬레벨 상승으로 카운터 데미지 업(中)</Detail>
@@ -406,13 +436,13 @@
 		<Detail>암속성 캐릭터의 공격력이 HP가 적을수록 상승(中)</Detail>
 	</Skill>
 	<Skill>
-		<JpName>スカルパレード</JpName>
-		<KrName>스컬 퍼레이드</KrName>
+		<JpName>憎悪の二手</JpName>
+		<KrName>증오의 양손</KrName>
 		<Detail>암속성 캐릭터의 더블어택 확률상승(中)</Detail>
 	</Skill>
 	<Skill>
-		<JpName>憎悪の二手</JpName>
-		<KrName>증오의 양손</KrName>
+		<JpName>スカルパレード</JpName>
+		<KrName>스컬 퍼레이드</KrName>
 		<Detail>암속성 캐릭터의 더블어택 확률상승(中)</Detail>
 	</Skill>
 	<Skill>
@@ -434,6 +464,11 @@
 		<JpName>憎悪の守護</JpName>
 		<KrName>증오의 수호</KrName>
 		<Detail>암속성 캐릭터의 최대 HP상승(中) </Detail>
+	</Skill>
+	<Skill>
+		<JpName>憎悪の治癒</JpName>
+		<KrName>증오의 치유</KrName>
+		<Detail>암속성 캐릭터의 회복상한상승(大)</Detail>
 	</Skill>
 	<Skill>
 		<JpName>戦場の災禍</JpName>
@@ -469,6 +504,16 @@
 		<JpName>天つ空なる明星の御霊</JpName>
 		<KrName>하늘 샛별의 영혼</KrName>
 		<Detail>오의 게이지 상승률UP</Detail>
+	</Skill>
+	<Skill>
+		<JpName>老練の技能</JpName>
+		<KrName>노련한 기능</KrName>
+		<Detail>오의 게이지 상승률UP</Detail>
+	</Skill>
+	<Skill>
+		<JpName>オイゲンとの絆</JpName>
+		<KrName>오이겐과의 연</KrName>
+		<Detail>오이겐이 파티에 있는경우 공격/방어 UP</Detail>
 	</Skill>
 	<Skill>
 		<JpName>イオとの絆</JpName>
@@ -586,9 +631,19 @@
 		<Detail>풍속성 캐릭터가 드물게 카운터를 발동. 스킬레벨 상승으로 카운터 데미지 업(大)</Detail>
 	</Skill>
 	<Skill>
+		<JpName>風の見切</JpName>
+		<KrName>바람의 끝</KrName>
+		<Detail>풍속성 캐릭터가 드물게 카운터를 발동. 스킬레벨 상승으로 카운터 데미지 업(小)</Detail>
+	</Skill>
+	<Skill>
 		<JpName>乱気の背水</JpName>
 		<KrName>광기의 배수</KrName>
 		<Detail>풍속성 캐릭터의 HP가 적을수록 공격력이 상승(大)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>嵐竜方陣・背水</JpName>
+		<KrName>남룡방진・배수</KrName>
+		<Detail>풍속성 캐릭터의 HP가 적을수록 공격력이 상승(小)</Detail>
 	</Skill>
 	<Skill>
 		<JpName>嵐竜方陣・攻刃II</JpName>
@@ -644,6 +699,16 @@
 		<JpName>竜巻の守護</JpName>
 		<KrName>바람의 수호</KrName>
 		<Detail>풍속성 캐릭터의 최대 HP상승(中)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>竜巻の治癒</JpName>
+		<KrName>바람의 치유</KrName>
+		<Detail>풍속성 캐릭터의 회복상한상승(中)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>ベストフレンズ</JpName>
+		<KrName>베스트 프렌즈</KrName>
+		<Detail>플레이어의 공격력 상승(大)</Detail>
 	</Skill>
 	<Skill>
 		<JpName>ハーヴィンアニムス・ウィス</JpName>
@@ -706,6 +771,11 @@
 		<Detail>화속성 캐릭터의 공격력 상승(中) </Detail>
 	</Skill>
 	<Skill>
+		<JpName>火の背水</JpName>
+		<KrName>불의 배수</KrName>
+		<Detail>화속성 캐릭터의 공격력이 HP가 적을수록 상승(小)</Detail>
+	</Skill>
+	<Skill>
 		<JpName>業火の二手</JpName>
 		<KrName>업화의 양손</KrName>
 		<Detail>화속성 캐릭터의 더블어택 확률상승(中)</Detail>
@@ -731,6 +801,16 @@
 		<Detail>화속성 캐릭터의 최대 HP상승(中)</Detail>
 	</Skill>
 	<Skill>
+		<JpName>火の治癒</JpName>
+		<KrName>불의 치유</KrName>
+		<Detail>화속성 캐릭터의 회복상한상승(小)</Detail>
+	</Skill>
+	<Skill>
+		<JpName>癒しの力II</JpName>
+		<KrName>치유의 힘II</KrName>
+		<Detail>회복 타입의 회복효과상승(?)</Detail>
+	</Skill>
+	<Skill>
 		<JpName>癒しの力</JpName>
 		<KrName>치유의 힘</KrName>
 		<Detail>회복 타입의 회복효과상승(小)</Detail>
@@ -739,6 +819,11 @@
 		<JpName>冥暗の妖刀</JpName>
 		<KrName>명암의 요검</KrName>
 		<Detail>회피시 모든 어빌리티 사용 턴 1턴 단축</Detail>
+	</Skill>
+	<Skill>
+		<JpName>祝福の鐘音</JpName>
+		<KrName>축복의 종소리</KrName>
+		<Detail>획득 경험치 상승</Detail>
 	</Skill>
 	<Skill>
 		<JpName>修練の心得</JpName>
