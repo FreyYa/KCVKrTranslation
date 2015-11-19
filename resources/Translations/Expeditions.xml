@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.19">
+<Expeditions Version="1.0.20">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -540,7 +540,7 @@
 		<TR-Detail>잠수모함과 다수의 잠수함으로 원양 잠수함 작전을 실시, 적 전력의 감소에 힘써라!</TR-Detail>
 		<FlagLv>3</FlagLv>
 		<NeedShip>5척</NeedShip>
-		<FormedNeedShip>5;</FormedNeedShip>
+		<FormedNeedShip>5;20*1</FormedNeedShip>
 		<Time>30;0</Time>
 		<FuelLoss>90</FuelLoss>
 		<ArmoLoss>90</ArmoLoss>
