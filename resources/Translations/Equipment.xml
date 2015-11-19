@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.22">
+<Equipment Version="1.1.23">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -851,5 +851,17 @@
 	<Item>
 		<JP-Name>零式艦戦53型(岩本隊)</JP-Name>
 		<TR-Name>영식 함상전투기 53형(이와모토대)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Bf109T改</JP-Name>
+		<TR-Name>메서슈미트 Bf109T改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Fw190T改</JP-Name>
+		<TR-Name>포케 울프 Fw190T改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>10.5cm連装砲</JP-Name>
+		<TR-Name>10.5cm 연장포</TR-Name>
 	</Item>
 </Equipment>
