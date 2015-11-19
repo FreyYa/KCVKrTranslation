@@ -1,0 +1,27 @@
+[
+    {
+        "area": 1, 
+        "color": "#3b8a30", 
+        "name": "1구역"
+    }, 
+    {
+        "area": 2, 
+        "color": "#ab6e35", 
+        "name": "2구역"
+    }, 
+    {
+        "area": 3, 
+        "color": "#ab6e35", 
+        "name": "3구역"
+    }, 
+    {
+        "area": 4, 
+        "color": "#ab6e35", 
+        "name": "4구역"
+    }, 
+    {
+        "area": 5, 
+        "color": "#ab6e35", 
+        "name": "5구역"
+    }
+]
