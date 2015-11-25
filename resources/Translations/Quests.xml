@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.16">
+<Quests Version="1.2.17">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -464,6 +464,41 @@
 		<ID>702</ID>
 		<TR-Name>군함의 근대화 개수 실시 - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 근대화 개수 2회 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>633</ID>
+		<TR-Name>기종전환,부대재편</TR-Name>
+		<TR-Detail>숙련도 Max인「영전52형갑형(이와모토 소대)」를 탑재한「즈이카쿠」를 비서함으로,「사이운」2기 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>632</ID>
+		<TR-Name>기종전환</TR-Name>
+		<TR-Detail>숙련도 Max인「영전21형(이와모토 소대)」를 탑재한「즈이카쿠」를 비서함으로,「영전52형」2기 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>631</ID>
+		<TR-Name>기종전환,부대재편</TR-Name>
+		<TR-Detail>숙련도 Max인「영전52병형(이와모토 소대)」를 탑재한「즈이카쿠」를 비서함으로,「영전62형(폭전)」2기 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>630</ID>
+		<TR-Name>「함전」대의 재편성</TR-Name>
+		<TR-Detail>숙련도 Max인「영전 21형(숙련)」을 탑재한「즈이카쿠」를 비서함으로「영전 21형」 2기 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>629</ID>
+		<TR-Name>「함전」대의 재편성</TR-Name>
+		<TR-Detail>숙련도 Max인「영전 52형(숙련)」을 탑재한「즈이카쿠」를 비서함으로「영전 52형병형(601항공대)」폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>628</ID>
+		<TR-Name>기종전환</TR-Name>
+		<TR-Detail>숙련도 Max「영전21형(숙련)」을 탑재한 공모를 기함으로, 새롭게「영전52형」2기 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>627</ID>
+		<TR-Name>기종전환</TR-Name>
+		<TR-Detail>「영전21형(숙련)」을 탑재한 공모를 비서함으로,「영전52형」2기 폐기</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>626</ID>
@@ -1039,6 +1074,11 @@
 		<ID>201</ID>
 		<TR-Name>적 함대 격파! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>167</ID>
+		<TR-Name>신 항공전대를 편성하라!</TR-Name>
+		<TR-Detail>2차개장을 마친 쇼카쿠改2,즈이카쿠改2와 함께 호위 구축함 2척으로 이루어진 함대를 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>166</ID>
