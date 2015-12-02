@@ -3,7 +3,7 @@
 	<Item>
   		<Name>App</Name>
  		<Version>4.1.7.193</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v4.1.7r193/KanColleViewer-KR.4.1.7.r193.zip</URL>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v4.1.7r193/KanColleViewer-KR.4.1.7.r193-fix.zip</URL>
 		<NoticeURL>http://kcvkr.tistory.com/115</NoticeURL>
   	</Item>
 	<Item>
@@ -28,7 +28,7 @@
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.48</Version>
+		<Version>1.0.49</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
