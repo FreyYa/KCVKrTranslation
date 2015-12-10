@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.18">
+<Quests Version="1.2.19">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -741,6 +741,21 @@
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 20회 승리</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>297</ID>
+		<TR-Name>레이호 작전 실시하라</TR-Name>
+		<TR-Detail>카스미를 기함으로 하고 아시가라,오요도,아사시모,키요시모가 포함된 함대로 2-5 S승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>296</ID>
+		<TR-Name>신편성항공전대 북방으로 진격!</TR-Name>
+		<TR-Detail>공모2척+(항공전함 OR 항공순양함)2척+구축함2 편성으로 3-3보스전 S승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>295</ID>
+		<TR-Name>제 16전대(제2차) 출격</TR-Name>
+		<TR-Detail>나토리를 기함으로 이스즈, 키누를 포함한 함대로 2-3 S승</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>294</ID>
 		<TR-Name>오자와 함대 출격</TR-Name>
 		<TR-Detail>즈이카쿠改 기함, 즈이호改, 치토세, 치요다, 이세改, 휴가改 함대로 2-4 보스전 S승</TR-Detail>
@@ -1074,6 +1089,21 @@
 		<ID>201</ID>
 		<TR-Name>적 함대 격파! - 일일반복</TR-Name>
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>170</ID>
+		<TR-Name>정예 수상반격부대를 편성하라</TR-Name>
+		<TR-Detail>카스미를 기함으로 하고 아시가라,오요도,아사시모,키요시모로 수상반격부대를 재편성하라</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>169</ID>
+		<TR-Name>신편성항공전대를 편성하라</TR-Name>
+		<TR-Detail>공모2척+(항공전함 OR 항공순양함)2척+구축함2척의 신항공전대를 편성하라</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>168</ID>
+		<TR-Name>제 16전대(제2차)를 편성하라</TR-Name>
+		<TR-Detail>나토리를 기함으로 이스즈, 키누를 포함한 16전대(제2차)를 편성하라</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>167</ID>
