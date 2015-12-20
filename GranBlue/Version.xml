@@ -2,7 +2,7 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>2.3.0.0</Version>
+ 		<Version>2.4.0.0</Version>
 		<NoticeURL>http://kcvkr.tistory.com/96</NoticeURL>
   	</Item>
 	<Item>
@@ -19,5 +19,10 @@
 		<Name>SkillList</Name>
 		<Version>1.0.4</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/SkillList.xml</URL>
+	</Item>
+	<Item>
+		<Name>TenList</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/TenList.xml</URL>
 	</Item>
 </Versions>
