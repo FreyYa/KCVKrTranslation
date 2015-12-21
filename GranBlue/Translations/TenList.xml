@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Treasures Version="1.0.2">
+<Treasures Version="1.0.3">
 	<Treasure>
 		<ItemName>宝晶石</ItemName>
 		<First>100</First>
@@ -17,32 +17,32 @@
 	<Treasure>
 		<ItemName>プライマルビット</ItemName>
 		<Fifth>80</Fifth>
-		<IsMagna>1</IsMagna>
+		<ElementID>1</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>プロミネンスリアクター</ItemName>
 		<Fifth>80</Fifth>
-		<IsMagna>1</IsMagna>
+		<ElementID>1</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>嵐竜の琥珀眼</ItemName>
 		<Fifth>80</Fifth>
-		<IsMagna>1</IsMagna>
+		<ElementID>1</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>創樹の花蕾</ItemName>
 		<Fifth>80</Fifth>
-		<IsMagna>1</IsMagna>
+		<ElementID>1</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>海神の扇尾</ItemName>
 		<Fifth>80</Fifth>
-		<IsMagna>1</IsMagna>
+		<ElementID>1</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>黒霧の結晶</ItemName>
 		<Fifth>80</Fifth>
-		<IsMagna>1</IsMagna>
+		<ElementID>1</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>碧空の結晶</ItemName>
