@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Treasures Version="1.0.5">
+<Treasures Version="1.0.6">
 	<Treasure>
 		<ItemName>黒霧の結晶</ItemName>
 		<Fifth>80</Fifth>
@@ -7,88 +7,90 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>黒竜鱗</ItemName>
+		<ElementID>6</ElementID>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
-		<ElementID>6</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>黒の書</ItemName>
-		<First>100</First>
-		<Second>150</Second>
 		<ElementID>6</ElementID>
+		<Second>150</Second>
+		<First>100</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる闇のアニマ</ItemName>
+		<ElementID>6</ElementID>
 		<Second>3</Second>
 		<Fourth>3</Fourth>
 		<Sixth>3</Sixth>
-		<ElementID>6</ElementID>
 		<Element>3</Element>
+		<Origin>1</Origin>
 	</Treasure>
 	<Treasure>
 		<ItemName>闇の宝珠</ItemName>
-		<First>100</First>
-		<Second>150</Second>
-		<Third>200</Third>
-		<Fourth>250</Fourth>
 		<ElementID>6</ElementID>
+		<Second>150</Second>
+		<Fourth>250</Fourth>
+		<First>100</First>
+		<Third>200</Third>
 		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>深淵の巻</ItemName>
-		<First>150</First>
 		<ElementID>6</ElementID>
+		<First>150</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>奈落の宝珠</ItemName>
-		<Third>100</Third>
 		<ElementID>6</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>セレストのアニマ</ItemName>
-		<Third>100</Third>
 		<ElementID>6</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>煌光の宝珠</ItemName>
+		<ElementID>5</ElementID>
 		<Third>100</Third>
 		<Proto>50</Proto>
-		<ElementID>5</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>天光の巻</ItemName>
+		<ElementID>5</ElementID>
 		<First>150</First>
 		<Proto>50</Proto>
-		<ElementID>5</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる光のアニマ</ItemName>
+		<ElementID>5</ElementID>
 		<Second>3</Second>
 		<Fourth>3</Fourth>
 		<Sixth>3</Sixth>
-		<ElementID>5</ElementID>
 		<Element>3</Element>
+		<Origin>1</Origin>
 	</Treasure>
 	<Treasure>
 		<ItemName>白竜鱗</ItemName>
+		<ElementID>5</ElementID>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
 		<Proto>50</Proto>
-		<ElementID>5</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>白の書</ItemName>
-		<First>100</First>
-		<Second>150</Second>
 		<ElementID>5</ElementID>
+		<Second>150</Second>
+		<First>100</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>光の宝珠</ItemName>
-		<First>100</First>
-		<Second>150</Second>
-		<Third>200</Third>
-		<Fourth>250</Fourth>
 		<ElementID>5</ElementID>
+		<Second>150</Second>
+		<Fourth>250</Fourth>
+		<First>100</First>
+		<Third>200</Third>
 		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
@@ -98,47 +100,48 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>シュヴァリエのアニマ</ItemName>
-		<Third>100</Third>
 		<ElementID>5</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>風竜鱗</ItemName>
+		<ElementID>4</ElementID>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
-		<ElementID>4</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>風の宝珠</ItemName>
-		<First>100</First>
-		<Second>150</Second>
-		<Third>200</Third>
-		<Fourth>250</Fourth>
 		<ElementID>4</ElementID>
+		<Second>150</Second>
+		<Fourth>250</Fourth>
+		<First>100</First>
+		<Third>200</Third>
 		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>疾風の巻</ItemName>
-		<First>150</First>
 		<ElementID>4</ElementID>
+		<First>150</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる風のアニマ</ItemName>
+		<ElementID>4</ElementID>
 		<Second>3</Second>
 		<Fourth>3</Fourth>
 		<Sixth>3</Sixth>
-		<ElementID>4</ElementID>
 		<Element>3</Element>
+		<Origin>1</Origin>
 	</Treasure>
 	<Treasure>
 		<ItemName>緑の書</ItemName>
-		<First>100</First>
-		<Second>150</Second>
 		<ElementID>4</ElementID>
+		<Second>150</Second>
+		<First>100</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>烈空の宝珠</ItemName>
-		<Third>100</Third>
 		<ElementID>4</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>嵐竜の琥珀眼</ItemName>
@@ -147,16 +150,16 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>ティアマトのアニマ</ItemName>
-		<Third>100</Third>
 		<ElementID>4</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>土の宝珠</ItemName>
-		<First>100</First>
-		<Second>150</Second>
-		<Third>200</Third>
-		<Fourth>250</Fourth>
 		<ElementID>3</ElementID>
+		<Second>150</Second>
+		<Fourth>250</Fourth>
+		<First>100</First>
+		<Third>200</Third>
 		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
@@ -166,38 +169,39 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる土のアニマ</ItemName>
+		<ElementID>3</ElementID>
 		<Second>3</Second>
 		<Fourth>3</Fourth>
 		<Sixth>3</Sixth>
-		<ElementID>3</ElementID>
 		<Element>3</Element>
+		<Origin>1</Origin>
 	</Treasure>
 	<Treasure>
 		<ItemName>地竜鱗</ItemName>
+		<ElementID>3</ElementID>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
-		<ElementID>3</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>地裂の巻</ItemName>
-		<First>150</First>
 		<ElementID>3</ElementID>
+		<First>150</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>橙の書</ItemName>
-		<First>100</First>
-		<Second>150</Second>
 		<ElementID>3</ElementID>
+		<Second>150</Second>
+		<First>100</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>大地の宝珠</ItemName>
-		<Third>100</Third>
 		<ElementID>3</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>ユグドラシルのアニマ</ItemName>
-		<Third>100</Third>
 		<ElementID>3</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>海神の扇尾</ItemName>
@@ -206,86 +210,88 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>濁流の巻</ItemName>
-		<First>150</First>
 		<ElementID>2</ElementID>
+		<First>150</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>青竜鱗</ItemName>
+		<ElementID>2</ElementID>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
-		<ElementID>2</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>青の書</ItemName>
-		<First>100</First>
-		<Second>150</Second>
 		<ElementID>2</ElementID>
+		<Second>150</Second>
+		<First>100</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる水のアニマ</ItemName>
+		<ElementID>2</ElementID>
 		<Second>3</Second>
 		<Fourth>3</Fourth>
 		<Sixth>3</Sixth>
-		<ElementID>2</ElementID>
 		<Element>3</Element>
+		<Origin>1</Origin>
 	</Treasure>
 	<Treasure>
 		<ItemName>水の宝珠</ItemName>
-		<First>100</First>
-		<Second>150</Second>
-		<Third>200</Third>
-		<Fourth>250</Fourth>
 		<ElementID>2</ElementID>
+		<Second>150</Second>
+		<Fourth>250</Fourth>
+		<First>100</First>
+		<Third>200</Third>
 		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>霧氷の宝珠</ItemName>
-		<Third>100</Third>
 		<ElementID>2</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>リヴァイアサンのアニマ</ItemName>
-		<Third>100</Third>
 		<ElementID>2</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>紅蓮の宝珠</ItemName>
-		<Third>100</Third>
 		<ElementID>1</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる火のアニマ</ItemName>
+		<ElementID>1</ElementID>
 		<Second>3</Second>
 		<Fourth>3</Fourth>
 		<Sixth>3</Sixth>
-		<ElementID>1</ElementID>
 		<Element>3</Element>
+		<Origin>1</Origin>
 	</Treasure>
 	<Treasure>
 		<ItemName>赤竜鱗</ItemName>
+		<ElementID>1</ElementID>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
-		<ElementID>1</ElementID>
 	</Treasure>
 	<Treasure>
 		<ItemName>赤の書</ItemName>
-		<First>100</First>
-		<Second>150</Second>
 		<ElementID>1</ElementID>
+		<Second>150</Second>
+		<First>100</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>炎の宝珠</ItemName>
-		<First>100</First>
-		<Second>150</Second>
-		<Third>200</Third>
-		<Fourth>250</Fourth>
 		<ElementID>1</ElementID>
+		<Second>150</Second>
+		<Fourth>250</Fourth>
+		<First>100</First>
+		<Third>200</Third>
 		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>業火の巻</ItemName>
-		<First>150</First>
 		<ElementID>1</ElementID>
+		<First>150</First>
 	</Treasure>
 	<Treasure>
 		<ItemName>プロミネンスリアクター</ItemName>
@@ -294,8 +300,8 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>コロッサスのアニマ</ItemName>
-		<Third>100</Third>
 		<ElementID>1</ElementID>
+		<Third>100</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>紅黄石</ItemName>
@@ -317,9 +323,9 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>覇者の証</ItemName>
+		<Fifth>10</Fifth>
 		<First>10</First>
 		<Third>10</Third>
-		<Fifth>10</Fifth>
 	</Treasure>
 	<Treasure>
 		<ItemName>清らかな水</ItemName>
@@ -351,22 +357,22 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>宝晶石</ItemName>
-		<First>100</First>
-		<Second>200</Second>
-		<Third>300</Third>
-		<Fourth>400</Fourth>
-		<Sixth>500</Sixth>
 		<Fifth>500</Fifth>
+		<Second>200</Second>
+		<Fourth>400</Fourth>
+		<First>100</First>
+		<Sixth>500</Sixth>
+		<Third>300</Third>
 		<Proto>100</Proto>
 	</Treasure>
 	<Treasure>
 		<ItemName>碧空の結晶</ItemName>
-		<First>3</First>
-		<Second>5</Second>
-		<Third>7</Third>
-		<Fourth>10</Fourth>
-		<Sixth>30</Sixth>
 		<Fifth>15</Fifth>
+		<Second>5</Second>
+		<Fourth>10</Fourth>
+		<First>3</First>
+		<Sixth>30</Sixth>
+		<Third>7</Third>
 	</Treasure>
 	<Treasure>
 		<ItemName>古代布</ItemName>
@@ -382,22 +388,24 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>ホーリー・ジーン</ItemName>
-		<First>100</First>
+		<ElementID>5</ElementID>
 		<Second>150</Second>
-		<Third>200</Third>
 		<Fourth>250</Fourth>
-		<Proto>50</Proto>
-		<Rust>250</Rust>
+		<First>100</First>
 		<Element>2</Element>
+		<Third>200</Third>
+		<Rust>250</Rust>
+		<Proto>50</Proto>
 	</Treasure>
 	<Treasure>
 		<ItemName>ファイア・ジーン</ItemName>
-		<First>100</First>
+		<ElementID>1</ElementID>
 		<Second>150</Second>
-		<Third>200</Third>
 		<Fourth>250</Fourth>
-		<Rust>250</Rust>
+		<First>100</First>
 		<Element>2</Element>
+		<Third>200</Third>
+		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>ヒヒイロカネ</ItemName>
@@ -405,12 +413,13 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>ダーク・ジーン</ItemName>
-		<First>100</First>
+		<ElementID>6</ElementID>
 		<Second>150</Second>
-		<Third>200</Third>
 		<Fourth>250</Fourth>
-		<Rust>250</Rust>
+		<First>100</First>
 		<Element>2</Element>
+		<Third>200</Third>
+		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>オルディネシュタイン</ItemName>
@@ -418,29 +427,32 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>ウィンド・ジーン</ItemName>
-		<First>100</First>
+		<ElementID>4</ElementID>
 		<Second>150</Second>
-		<Third>200</Third>
 		<Fourth>250</Fourth>
-		<Rust>250</Rust>
+		<First>100</First>
 		<Element>2</Element>
+		<Third>200</Third>
+		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>アクア・ジーン</ItemName>
-		<First>100</First>
+		<ElementID>2</ElementID>
 		<Second>150</Second>
-		<Third>200</Third>
 		<Fourth>250</Fourth>
-		<Rust>250</Rust>
+		<First>100</First>
 		<Element>2</Element>
+		<Third>200</Third>
+		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>アース・ジーン</ItemName>
-		<First>100</First>
+		<ElementID>3</ElementID>
 		<Second>150</Second>
-		<Third>200</Third>
 		<Fourth>250</Fourth>
-		<Rust>250</Rust>
+		<First>100</First>
 		<Element>2</Element>
+		<Third>200</Third>
+		<Rust>250</Rust>
 	</Treasure>
 </Treasures>
