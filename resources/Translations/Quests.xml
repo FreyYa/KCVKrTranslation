@@ -746,6 +746,9 @@
 		<TR-Detail>「장식재료(お飾り材料)」를 32개 수집</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>298</ID>
+		<TR-Name>12월의 마미야 도와주기!</TR-Name>
+		<TR-Detail>「장식재료(お飾り材料)」를 16개 수집</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>297</ID>
