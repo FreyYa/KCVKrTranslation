@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.19">
+<Quests Version="1.2.20">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -739,6 +739,13 @@
 		<ID>302</ID>
 		<TR-Name>대규모연습 - 주간</TR-Name>
 		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 연습전투에서 20회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>299</ID>
+		<TR-Name>연말준비! 12월의 마미야의 심부름</TR-Name>
+		<TR-Detail>「장식재료(お飾り材料)」를 32개 수집</TR-Detail>
+	</Quest>
+	<Quest>
 	</Quest>
 	<Quest>
 		<ID>297</ID>
