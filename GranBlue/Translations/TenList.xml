@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Treasures Version="1.0.8">
+<Treasures Version="1.0.9">
 	<Treasure>
 		<ItemName>黒霧の結晶</ItemName>
 		<ElementID>6</ElementID>
@@ -21,6 +21,7 @@
 	<Treasure>
 		<ItemName>煌光の宝珠</ItemName>
 		<ElementID>5</ElementID>
+		<Origin>3</Origin>
 		<Third>100</Third>
 		<Proto>50</Proto>
 	</Treasure>
@@ -70,9 +71,9 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>覇者の証</ItemName>
+		<Fifth>10</Fifth>
 		<First>10</First>
 		<Third>10</Third>
-		<Fifth>10</Fifth>
 	</Treasure>
 	<Treasure>
 		<ItemName>土の宝珠</ItemName>
@@ -107,6 +108,7 @@
 	<Treasure>
 		<ItemName>天光の巻</ItemName>
 		<ElementID>5</ElementID>
+		<Origin>3</Origin>
 		<First>150</First>
 		<Proto>50</Proto>
 	</Treasure>
@@ -124,38 +126,38 @@
 	<Treasure>
 		<ItemName>真なる火のアニマ</ItemName>
 		<ElementID>1</ElementID>
-		<Sixth>3</Sixth>
 		<Origin>1</Origin>
+		<Sixth>3</Sixth>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる風のアニマ</ItemName>
 		<ElementID>4</ElementID>
-		<Sixth>3</Sixth>
 		<Origin>1</Origin>
+		<Sixth>3</Sixth>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる土のアニマ</ItemName>
 		<ElementID>3</ElementID>
-		<Sixth>3</Sixth>
 		<Origin>1</Origin>
+		<Sixth>3</Sixth>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる闇のアニマ</ItemName>
 		<ElementID>6</ElementID>
-		<Sixth>3</Sixth>
 		<Origin>1</Origin>
+		<Sixth>3</Sixth>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる水のアニマ</ItemName>
 		<ElementID>2</ElementID>
-		<Sixth>3</Sixth>
 		<Origin>1</Origin>
+		<Sixth>3</Sixth>
 	</Treasure>
 	<Treasure>
 		<ItemName>真なる光のアニマ</ItemName>
 		<ElementID>5</ElementID>
-		<Sixth>3</Sixth>
 		<Origin>1</Origin>
+		<Sixth>3</Sixth>
 	</Treasure>
 	<Treasure>
 		<ItemName>地竜鱗</ItemName>
@@ -194,6 +196,7 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>栄光の証</ItemName>
+		<Origin>3</Origin>
 		<Proto>50</Proto>
 	</Treasure>
 	<Treasure>
@@ -239,30 +242,33 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>星晶の欠片</ItemName>
+		<Origin>3</Origin>
 		<Proto>250</Proto>
 	</Treasure>
 	<Treasure>
 		<ItemName>宝晶石</ItemName>
+		<Origin>3</Origin>
+		<Fifth>500</Fifth>
 		<Second>200</Second>
 		<Fourth>400</Fourth>
 		<First>100</First>
 		<Third>300</Third>
 		<Proto>100</Proto>
 		<Sixth>500</Sixth>
-		<Fifth>500</Fifth>
 	</Treasure>
 	<Treasure>
 		<ItemName>碧空の結晶</ItemName>
+		<Fifth>15</Fifth>
 		<Second>5</Second>
 		<Fourth>10</Fourth>
 		<First>3</First>
 		<Third>7</Third>
 		<Sixth>30</Sixth>
-		<Fifth>15</Fifth>
 	</Treasure>
 	<Treasure>
 		<ItemName>白竜鱗</ItemName>
 		<ElementID>5</ElementID>
+		<Origin>3</Origin>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
 		<Proto>50</Proto>
@@ -345,12 +351,13 @@
 	<Treasure>
 		<ItemName>ホーリー・ジーン</ItemName>
 		<ElementID>5</ElementID>
+		<Origin>3</Origin>
 		<Second>150</Second>
 		<Fourth>250</Fourth>
 		<First>100</First>
 		<Third>200</Third>
-		<Rust>250</Rust>
 		<Proto>50</Proto>
+		<Rust>250</Rust>
 	</Treasure>
 	<Treasure>
 		<ItemName>プロミネンスリアクター</ItemName>
