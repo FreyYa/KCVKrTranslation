@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Treasures Version="1.0.9">
+<Treasures Version="1.0.10">
 	<Treasure>
 		<ItemName>黒霧の結晶</ItemName>
 		<ElementID>6</ElementID>
@@ -21,7 +21,6 @@
 	<Treasure>
 		<ItemName>煌光の宝珠</ItemName>
 		<ElementID>5</ElementID>
-		<Origin>3</Origin>
 		<Third>100</Third>
 		<Proto>50</Proto>
 	</Treasure>
@@ -108,7 +107,6 @@
 	<Treasure>
 		<ItemName>天光の巻</ItemName>
 		<ElementID>5</ElementID>
-		<Origin>3</Origin>
 		<First>150</First>
 		<Proto>50</Proto>
 	</Treasure>
@@ -196,7 +194,6 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>栄光の証</ItemName>
-		<Origin>3</Origin>
 		<Proto>50</Proto>
 	</Treasure>
 	<Treasure>
@@ -242,12 +239,10 @@
 	</Treasure>
 	<Treasure>
 		<ItemName>星晶の欠片</ItemName>
-		<Origin>3</Origin>
 		<Proto>250</Proto>
 	</Treasure>
 	<Treasure>
 		<ItemName>宝晶石</ItemName>
-		<Origin>3</Origin>
 		<Fifth>500</Fifth>
 		<Second>200</Second>
 		<Fourth>400</Fourth>
@@ -268,7 +263,6 @@
 	<Treasure>
 		<ItemName>白竜鱗</ItemName>
 		<ElementID>5</ElementID>
-		<Origin>3</Origin>
 		<Second>30</Second>
 		<Fourth>50</Fourth>
 		<Proto>50</Proto>
@@ -351,7 +345,6 @@
 	<Treasure>
 		<ItemName>ホーリー・ジーン</ItemName>
 		<ElementID>5</ElementID>
-		<Origin>3</Origin>
 		<Second>150</Second>
 		<Fourth>250</Fourth>
 		<First>100</First>
