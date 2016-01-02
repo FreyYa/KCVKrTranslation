@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.20">
+<Quests Version="1.2.21">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -454,6 +454,26 @@
 		<TR-Name>제6구축함대 편성</TR-Name>
 		<JP-Detail>「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
 		<TR-Detail>아카츠키, 히비키, 이카즈치, 이나즈마 4척으로 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>804</ID>
+		<TR-Name>영춘! 기동부대 출항!</TR-Name>
+		<TR-Detail>6-2 보스전 2회 S승리 달성. 항모2+자유4의 편성. 경공모도 가능</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>803</ID>
+		<TR-Name>넘치는 전함혼! 거함거포도 정월!</TR-Name>
+		<TR-Detail>4-2 보스전 2회 S승리 달성. 전함4+자유2의 편성. 항전도 가능</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>802</ID>
+		<TR-Name>신년의 이라코의 심부름!</TR-Name>
+		<TR-Detail>2-3 보스전 3회 S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>801</ID>
+		<TR-Name>근하신년! 수뢰전대 출격 시작!</TR-Name>
+		<TR-Detail>1-3 보스전 S승리(경순1~2 구축3~5척. 경순, 구축 이외의 함종제외한 편성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>703</ID>
