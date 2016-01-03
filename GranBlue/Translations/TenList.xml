@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Treasures Version="1.0.10">
+<Treasures Version="1.0.11">
 	<Treasure>
 		<ItemName>黒霧の結晶</ItemName>
 		<ElementID>6</ElementID>
@@ -436,5 +436,9 @@
 		<First>100</First>
 		<Third>200</Third>
 		<Rust>250</Rust>
+	</Treasure>
+	<Treasure>
+		<ItemName>鷹の羽</ItemName>
+		<Third>100</Third>
 	</Treasure>
 </Treasures>
