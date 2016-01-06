@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.21">
+<Quests Version="1.2.22">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -473,7 +473,7 @@
 	<Quest>
 		<ID>801</ID>
 		<TR-Name>근하신년! 수뢰전대 출격 시작!</TR-Name>
-		<TR-Detail>1-3 보스전 S승리(경순1~2 구축3~5척. 경순, 구축 이외의 함종제외한 편성)</TR-Detail>
+		<TR-Detail>1-3 보스전 S승리(경순1 구축5척. 경순, 구축 이외의 함종제외한 편성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>703</ID>
