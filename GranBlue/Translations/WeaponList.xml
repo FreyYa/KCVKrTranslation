@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.12">
+<Weapons Version="1.0.13">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -2992,7 +2992,7 @@
 		<Element>화</Element>
 		<Kind>도</Kind>
 		<Secrets>四象天神之太刀・南朱++</Secrets>
-		<Skill1>홍련의 공인 II</Skill1>
+		<Skill1>홍련의 공인</Skill1>
 		<MinHP>22</MinHP>
 		<MinATK>345</MinATK>
 		<MaxHP>175</MaxHP>
