@@ -1,82 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Skills Version="1.0.7">
-	<Skill>
-		<JpName>嵐竜方陣・背水</JpName>
-		<KrName>남룡방진・배수</KrName>
-		<JPDetail>風属性キャラのHPが少ないほど攻撃力が上昇(小)</JPDetail>
-		<Detail>풍속성 캐릭터의 HP가 적을수록 공격력이 상승(小)</Detail>
-		<SkillData>3;5;4;0;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>創樹方陣・背水II</JpName>
-		<KrName>창수방진・배수II</KrName>
-		<JPDetail>土属性キャラの攻撃力がHPが少ないほど上昇(大)</JPDetail>
-		<Detail>토속성 캐릭터의 공격력이 HP가 적을수록 상승(大)</Detail>
-		<SkillData>3;5;3;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>機炎方陣・背水II</JpName>
-		<KrName>기염방진・배수II</KrName>
-		<JPDetail>火属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
-		<Detail>화속성 캐릭터의 HP가 적을수록 공격력이 상승(大)</Detail>
-		<SkillData>3;5;1;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>奈落の背水</JpName>
-		<KrName>나락의 배수</KrName>
-		<JPDetail>闇属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
-		<Detail>암속성 캐릭터의 공격력이 HP가 적을수록 상승(大)</Detail>
-		<SkillData>3;1;6;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>憎悪の背水</JpName>
-		<KrName>증오의 배수</KrName>
-		<JPDetail>闇属性キャラのHPが少ないほど攻撃力が上昇(中)</JPDetail>
-		<Detail>암속성 캐릭터의 공격력이 HP가 적을수록 상승(中)</Detail>
-		<SkillData>3;1;6;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>地裂の背水</JpName>
-		<KrName>지진의 배수</KrName>
-		<JPDetail>土属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
-		<Detail>토속성 캐릭터의 HP가 적어질수록 공격력이 상승(大)</Detail>
-		<SkillData>3;1;3;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>大地の背水</JpName>
-		<KrName>대지의 배수</KrName>
-		<JPDetail>土属性キャラのHPが少ないほど攻撃力が上昇(中)</JPDetail>
-		<Detail>토속성 캐릭터의 HP가 적어질수록 공격력 상승(中)</Detail>
-		<SkillData>3;1;3;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>乱気の背水</JpName>
-		<KrName>광기의 배수</KrName>
-		<JPDetail>風属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
-		<Detail>풍속성 캐릭터의 HP가 적을수록 공격력이 상승(大)</Detail>
-		<SkillData>3;1;4;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>風の技巧</JpName>
-		<KrName>바람의 기교</KrName>
-		<JPDetail>風属性攻撃で弱点を突いた時、クリティカル確率上昇(小)</JPDetail>
-		<Detail>풍속성 공격으로 약점을 때렸을때 확률로 데미지 업(小)</Detail>
-		<SkillData>3;1;4;0;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>渦潮の背水</JpName>
-		<KrName>조수의 배수</KrName>
-		<JPDetail>水属性キャラのHPが少ないほど攻撃力が上昇(中)</JPDetail>
-		<Detail>수속성 캐릭터의 HP가 적어질수록 공격력 상승(中)</Detail>
-		<SkillData>3;1;2;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>火の背水</JpName>
-		<KrName>불의 배수</KrName>
-		<JPDetail>火属性キャラのHPが少ないほど攻撃力が上昇(小)</JPDetail>
-		<Detail>화속성 캐릭터의 공격력이 HP가 적을수록 상승(小)</Detail>
-		<SkillData>3;1;1;0;1</SkillData>
-	</Skill>
+<Skills Version="1.0.8">
 	<Skill>
 		<JpName>鍛錬の守護</JpName>
 		<KrName>단련의 수호</KrName>
@@ -90,545 +13,6 @@
 		<JPDetail>HPを500上昇</JPDetail>
 		<Detail>HP를 500상승</Detail>
 		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>光の守護</JpName>
-		<KrName>빛의 수호</KrName>
-		<JPDetail>光属性キャラの最大HP上昇(小)</JPDetail>
-		<Detail>광속성 캐릭터의 최대 HP상승(小)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>ドラフアニムス・メンス</JpName>
-		<KrName>드라프 아니무스・멘스</KrName>
-		<JPDetail>드라프족의 최대 HP상승</JPDetail>
-		<Detail>드라프족의 최대 HP상승</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>アンノウン・VITII</JpName>
-		<KrName>미지의 힘・VITII</KrName>
-		<JPDetail>武器属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>무기속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>アンノウン・VIT</JpName>
-		<KrName>미지의 힘・VIT</KrName>
-		<JPDetail>武器属性キャラの最大HP上昇(中)、(小)</JPDetail>
-		<Detail>무기속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>天光の守護</JpName>
-		<KrName>천광의 수호</KrName>
-		<JPDetail>光属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>빛속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>騎解方陣・守護II</JpName>
-		<KrName>기해방진・수호II</KrName>
-		<JPDetail>光属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>빛속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>雷電の守護</JpName>
-		<KrName>뇌전의 수호</KrName>
-		<JPDetail>光属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>빛속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>霧氷の守護</JpName>
-		<KrName>서리의 수호</KrName>
-		<JPDetail>水属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>수속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>海神方陣・守護II</JpName>
-		<KrName>해신방진・수호II</KrName>
-		<JPDetail>水属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>수속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>水の守護</JpName>
-		<KrName>물의 수호</KrName>
-		<JPDetail>水属性キャラの最大HP上昇(小)</JPDetail>
-		<Detail>수속성 캐릭터의 최대 HP상승(小)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>渦潮の守護</JpName>
-		<KrName>조수의 수호</KrName>
-		<JPDetail>水属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>수속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>黒霧方陣・守護II</JpName>
-		<KrName>흑무방진・수호II</KrName>
-		<JPDetail>闇属性キャラのHP上昇(大)</JPDetail>
-		<Detail>암속성 캐릭터의 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>奈落の守護</JpName>
-		<KrName>나락의 수호</KrName>
-		<JPDetail>闇属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>암속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>闇の守護</JpName>
-		<KrName>어둠의 수호</KrName>
-		<JPDetail>闇属性キャラの最大HP上昇(小)</JPDetail>
-		<Detail>암속성 캐릭터의 최대 HP상승(小)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>憎悪の守護</JpName>
-		<KrName>증오의 수호</KrName>
-		<JPDetail>闇属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>암속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>黒霧方陣・守護</JpName>
-		<KrName>흑무방진・수호</KrName>
-		<JPDetail>闇属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>암속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>エルーンアニムス・メンス</JpName>
-		<KrName>엘룬 아니무스・멘스</KrName>
-		<JPDetail>엘룬족의 최대 HP상승</JPDetail>
-		<Detail>엘룬족의 최대 HP상승</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>地裂の守護</JpName>
-		<KrName>지진의 수호</KrName>
-		<JPDetail>土属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>토속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>創樹方陣・守護II</JpName>
-		<KrName>창수방진・수호II</KrName>
-		<JPDetail>土属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>토속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>土の守護</JpName>
-		<KrName>흙의 수호</KrName>
-		<JPDetail>土属性キャラの最大HP上昇(小)</JPDetail>
-		<Detail>토속성 캐릭터의 최대 HP상승(小)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>大地の守護</JpName>
-		<KrName>대지의 수호</KrName>
-		<JPDetail>土属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>토속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>創樹方陣・守護</JpName>
-		<KrName>창수방진・수호</KrName>
-		<JPDetail>土属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>토속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>乱気の守護</JpName>
-		<KrName>광기의 수호</KrName>
-		<JPDetail>風属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>풍속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>嵐竜方陣・守護II</JpName>
-		<KrName>남룡방진・수호II</KrName>
-		<JPDetail>風属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>풍속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>風の守護</JpName>
-		<KrName>바람의 공인</KrName>
-		<JPDetail>風属性キャラの最大HP上昇(小)</JPDetail>
-		<Detail>풍속성 캐릭터의 최대 HP상승(小)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>竜巻の守護</JpName>
-		<KrName>바람의 수호</KrName>
-		<JPDetail>風属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>풍속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>ハーヴィンアニムス・メンス</JpName>
-		<KrName>하빈 아니무스・멘스</KrName>
-		<JPDetail>하빈족의 최대 HP상승</JPDetail>
-		<Detail>하빈족의 최대 HP상승</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>紅蓮の守護</JpName>
-		<KrName>홍련의 수호</KrName>
-		<JPDetail>火属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>화속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>機炎方陣・守護II</JpName>
-		<KrName>기염방진・수호II</KrName>
-		<JPDetail>火属性キャラの最大HP上昇(大)</JPDetail>
-		<Detail>화속성 캐릭터의 최대 HP상승(大)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>火の守護</JpName>
-		<KrName>불의 수호</KrName>
-		<JPDetail>火属性キャラの最大HP上昇(小)</JPDetail>
-		<Detail>화속성 캐릭터의 최대 HP상승(小)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>業火の守護</JpName>
-		<KrName>업화의 수호</KrName>
-		<JPDetail>火属性キャラの最大HP上昇(中)</JPDetail>
-		<Detail>화속성 캐릭터의 최대 HP상승(中)</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>ヒューマンアニムス・メンス</JpName>
-		<KrName>휴먼 아니무스・멘스</KrName>
-		<JPDetail>휴먼족의 최대 HP상승</JPDetail>
-		<Detail>휴먼족의 최대 HP상승</Detail>
-		<SkillData>2;</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>コンキリオ・カエルレウス</JpName>
-		<KrName>콘킬리오・카이룰레우스</KrName>
-		<JPDetail>엘룬족과 하빈족의 공격력/HP상승</JPDetail>
-		<Detail>엘룬족과 하빈족의 공격력/HP상승</Detail>
-		<SkillData>1;8;8;0;5</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>コンキリオ・ルーベル</JpName>
-		<KrName>콘킬리오・뤼벨</KrName>
-		<JPDetail>휴먼족과 드라프족의 공격력/HP상승</JPDetail>
-		<Detail>휴먼족과 드라프족의 공격력/HP상승</Detail>
-		<SkillData>1;8;8;0;5</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>ドラフアニムス・ウィス</JpName>
-		<KrName>드라프 아니무스・위스</KrName>
-		<JPDetail>드라프족의 공격력 상승</JPDetail>
-		<Detail>드라프족의 공격력 상승</Detail>
-		<SkillData>1;7;8;0;4</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>エルーンアニムス・ウィス</JpName>
-		<KrName>엘룬 아니무스・위스</KrName>
-		<JPDetail>엘룬족의 공격력 상승</JPDetail>
-		<Detail>엘룬족의 공격력 상승</Detail>
-		<SkillData>1;7;8;0;4</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>ハーヴィンアニムス・ウィス</JpName>
-		<KrName>하빈 아니무스・위스</KrName>
-		<JPDetail>하빈족의 공격력 상승</JPDetail>
-		<Detail>하빈족의 공격력 상승</Detail>
-		<SkillData>1;7;8;0;4</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>ヒューマンアニムス・ウィス</JpName>
-		<KrName>휴먼 아니무스・위스</KrName>
-		<JPDetail>휴먼족의 공격력 상승</JPDetail>
-		<Detail>휴먼족의 공격력 상승</Detail>
-		<SkillData>1;7;8;0;4</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>鍛錬の攻刃</JpName>
-		<KrName>단련의 공인</KrName>
-		<JPDetail>攻撃力を1000上昇</JPDetail>
-		<Detail>공격력을 1000상승</Detail>
-		<SkillData>1;6;8;0;1000</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>竜騎の攻刃</JpName>
-		<KrName>용기병의 공인</KrName>
-		<JPDetail>攻撃力を1000上昇</JPDetail>
-		<Detail>공격력을 1000상승</Detail>
-		<SkillData>1;6;8;0;1000</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>黒霧方陣・攻刃II</JpName>
-		<KrName>흑무방진・공인II</KrName>
-		<JPDetail>闇属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>암속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;5;6;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>騎解方陣・攻刃II</JpName>
-		<KrName>기해방진・공인II</KrName>
-		<JPDetail>光属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>빛속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;5;5;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>創樹方陣・攻刃</JpName>
-		<KrName>창수방진・공인</KrName>
-		<JPDetail>土属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>토속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;5;3;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>嵐竜方陣・攻刃II</JpName>
-		<KrName>남룡방진・공인II</KrName>
-		<JPDetail>風属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>풍속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;5;4;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>嵐竜方陣・攻刃</JpName>
-		<KrName>남룡방진・공인</KrName>
-		<JPDetail>風属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>풍속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;5;4;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>海神方陣・攻刃II</JpName>
-		<KrName>해신방진・공인II</KrName>
-		<JPDetail>水属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>수속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;5;2;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>海神方陣・攻刃</JpName>
-		<KrName>해신방진・공인</KrName>
-		<JPDetail>水属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>수속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;5;2;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>創樹方陣・攻刃II</JpName>
-		<KrName>창수방진・공인II</KrName>
-		<JPDetail>土属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>토속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;5;3;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>機炎方陣・攻刃II</JpName>
-		<KrName>기염방진・공인II</KrName>
-		<JPDetail>火属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>화속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;5;1;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>機炎方陣・攻刃</JpName>
-		<KrName>기염방진・공인</KrName>
-		<JPDetail>火属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>화속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;5;1;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>セービングアタック</JpName>
-		<KrName>세이빙 어택</KrName>
-		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;4;7;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>ストレングス</JpName>
-		<KrName>스트렝스</KrName>
-		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;3;7;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>アンノウン・ATKII</JpName>
-		<KrName>미지의 힘・ATKII</KrName>
-		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;2;7;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>アンノウン・ATK</JpName>
-		<KrName>미지의 힘・ATK</KrName>
-		<JPDetail>武器属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>무기속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;2;7;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>奈落の攻刃</JpName>
-		<KrName>나락의 공인</KrName>
-		<JPDetail>闇属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>암속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;6;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>憎悪の攻刃</JpName>
-		<KrName>증오의 공인</KrName>
-		<JPDetail>闇属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>암속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;1;6;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>闇の攻刃</JpName>
-		<KrName>어둠의 공인</KrName>
-		<JPDetail>闇属性キャラの攻撃力上昇(小)</JPDetail>
-		<Detail>암속성 캐릭터의 공격력 상승(小)</Detail>
-		<SkillData>1;1;6;0;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>天光の攻刃II</JpName>
-		<KrName>천광의 공인 II</KrName>
-		<JPDetail>光属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>빛속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;5;1;3;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>天光の攻刃</JpName>
-		<KrName>천광의 공인</KrName>
-		<JPDetail>光属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>빛속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;5;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>雷電の攻刃</JpName>
-		<KrName>뇌전의 공인</KrName>
-		<JPDetail>光属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>빛속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;1;5;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>光の攻刃</JpName>
-		<KrName>빛의 공인</KrName>
-		<JPDetail>光属性キャラの攻撃力上昇(小)</JPDetail>
-		<Detail>빛속성 캐릭터의 공격력 상승(小)</Detail>
-		<SkillData>1;1;5;0;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>地裂の攻刃II</JpName>
-		<KrName>지진의 공인 II</KrName>
-		<JPDetail>土属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>토속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;3;1;3;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>地裂の攻刃</JpName>
-		<KrName>지진의 공인</KrName>
-		<JPDetail>土属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>토속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;3;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>大地の攻刃</JpName>
-		<KrName>대지의 공인</KrName>
-		<JPDetail>土属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>토속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;1;3;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>土の攻刃</JpName>
-		<KrName>흙의 공인</KrName>
-		<JPDetail>土属性キャラの攻撃力上昇(小)</JPDetail>
-		<Detail>토속성 캐릭터의 공격력 상승(小)</Detail>
-		<SkillData>1;1;3;0;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>乱気の攻刃II</JpName>
-		<KrName>광기의 공인 II</KrName>
-		<JPDetail>風属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>풍속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;4;1;3;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>乱気の攻刃</JpName>
-		<KrName>광기의 공인</KrName>
-		<JPDetail>風属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>풍속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;4;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>竜巻の攻刃</JpName>
-		<KrName>바람의 공인</KrName>
-		<JPDetail>風属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>풍속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;1;4;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>風の攻刃</JpName>
-		<KrName>바람의 공인</KrName>
-		<JPDetail>風属性キャラの攻撃力上昇(小)</JPDetail>
-		<Detail>풍속성 캐릭터의 공격력 상승(小)</Detail>
-		<SkillData>1;1;4;0;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>霧氷の攻刃II</JpName>
-		<KrName>서리의 공인 II</KrName>
-		<JPDetail>水属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>수속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;2;1;3;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>霧氷の攻刃</JpName>
-		<KrName>서리의 공인</KrName>
-		<JPDetail>水属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>수속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;2;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>渦潮の攻刃</JpName>
-		<KrName>조수의 공인</KrName>
-		<JPDetail>水属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>수속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;1;2;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>水の攻刃</JpName>
-		<KrName>물의 공인</KrName>
-		<JPDetail>水属性キャラの攻撃力上昇(小)</JPDetail>
-		<Detail>수속성 캐릭터의 공격력 상승(小)</Detail>
-		<SkillData>1;1;2;0;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>紅蓮の攻刃II</JpName>
-		<KrName>홍련의 공인 II</KrName>
-		<JPDetail>火属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>화속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;1;1;3;1</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>紅蓮の攻刃</JpName>
-		<KrName>홍련의 공인</KrName>
-		<JPDetail>火属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>화속성 캐릭터의 공격력 상승(大)</Detail>
-		<SkillData>1;1;1;0;3</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>業火の攻刃</JpName>
-		<KrName>업화의 공인</KrName>
-		<JPDetail>火属性キャラの攻撃力上昇(中)</JPDetail>
-		<Detail>화속성 캐릭터의 공격력 상승(中)</Detail>
-		<SkillData>1;1;1;0;2</SkillData>
-	</Skill>
-	<Skill>
-		<JpName>火の攻刃</JpName>
-		<KrName>불의 공인</KrName>
-		<JPDetail>火属性キャラの攻撃力上昇(小)</JPDetail>
-		<Detail>화속성 캐릭터의 공격력 상승(小)</Detail>
-		<SkillData>1;1;1;0;1</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>雷鳴の轟き</JpName>
@@ -736,6 +120,20 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>鍛錬の攻刃</JpName>
+		<KrName>단련의 공인</KrName>
+		<JPDetail>攻撃力を1000上昇</JPDetail>
+		<Detail>공격력을 1000상승</Detail>
+		<SkillData>1;6;8;0;1000</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>竜騎の攻刃</JpName>
+		<KrName>용기병의 공인</KrName>
+		<JPDetail>攻撃力を1000上昇</JPDetail>
+		<Detail>공격력을 1000상승</Detail>
+		<SkillData>1;6;8;0;1000</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>勇躍の心得</JpName>
 		<KrName>용약의 마음가짐</KrName>
 		<JPDetail>イベントでの獲得貢献度UP ※シナリオイベントや古戦場で獲得した貢献度が、累計貢献度として加算される際にボーナスが付く(MVP判定用の貢献度ではない)</JPDetail>
@@ -750,6 +148,13 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>光の守護</JpName>
+		<KrName>빛의 수호</KrName>
+		<JPDetail>光属性キャラの最大HP上昇(小)</JPDetail>
+		<Detail>광속성 캐릭터의 최대 HP상승(小)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>竜騎の二手</JpName>
 		<KrName>용기사의 양손</KrName>
 		<JPDetail>ダブルアタック確率を3%上昇</JPDetail>
@@ -762,6 +167,20 @@
 		<JPDetail>ドライブバーストの効果UP</JPDetail>
 		<Detail>드라이브 버스트의 효과UP</Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>ドラフアニムス・ウィス</JpName>
+		<KrName>드라프 아니무스・위스</KrName>
+		<JPDetail>드라프족의 공격력 상승</JPDetail>
+		<Detail>드라프족의 공격력 상승</Detail>
+		<SkillData>1;7;8;0;4</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>ドラフアニムス・メンス</JpName>
+		<KrName>드라프 아니무스・멘스</KrName>
+		<JPDetail>드라프족의 최대 HP상승</JPDetail>
+		<Detail>드라프족의 최대 HP상승</Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>破壊を齎す強心</JpName>
@@ -797,6 +216,48 @@
 		<JPDetail>瞑想使用時に奥義ゲージ消費量減少</JPDetail>
 		<Detail>瞑想(명상)사용시에 오의 게이지 소비량 감소</Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>セービングアタック</JpName>
+		<KrName>세이빙 어택</KrName>
+		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;4;7;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>ストレングス</JpName>
+		<KrName>스트렝스</KrName>
+		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;3;7;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>アンノウン・ATKII</JpName>
+		<KrName>미지의 힘・ATKII</KrName>
+		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;2;7;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>アンノウン・ATK</JpName>
+		<KrName>미지의 힘・ATK</KrName>
+		<JPDetail>武器属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>무기속성 캐릭터의 공격력 상승(中)</Detail>
+		<SkillData>1;2;7;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>アンノウン・VITII</JpName>
+		<KrName>미지의 힘・VITII</KrName>
+		<JPDetail>武器属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>무기속성 캐릭터의 최대 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>アンノウン・VIT</JpName>
+		<KrName>미지의 힘・VIT</KrName>
+		<JPDetail>武器属性キャラの最大HP上昇(中)、(小)</JPDetail>
+		<Detail>무기속성 캐릭터의 최대 HP상승(中)</Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>先制の岩壁</JpName>
@@ -869,11 +330,67 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>騎解方陣・攻刃II</JpName>
+		<KrName>기해방진・공인II</KrName>
+		<JPDetail>光属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>빛속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;5;5;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>天光の攻刃II</JpName>
+		<KrName>천광의 공인 II</KrName>
+		<JPDetail>光属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>빛속성 캐릭터의 공격력 상승(大) </Detail>
+		<SkillData>1;1;5;1;3;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>天光の攻刃</JpName>
+		<KrName>천광의 공인</KrName>
+		<JPDetail>光属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>빛속성 캐릭터의 공격력 상승(大)  </Detail>
+		<SkillData>1;1;5;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>光の攻刃</JpName>
+		<KrName>빛의 공인</KrName>
+		<JPDetail>光属性キャラの攻撃力上昇(小)</JPDetail>
+		<Detail>빛속성 캐릭터의 공격력 상승(小)</Detail>
+		<SkillData>1;1;5;0;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>雷電の攻刃</JpName>
+		<KrName>뇌전의 공인</KrName>
+		<JPDetail>光属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>빛속성 캐릭터의 공격력 상승(中)</Detail>
+		<SkillData>1;1;5;0;2</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>雷電の二手</JpName>
 		<KrName>뇌전의 양손</KrName>
 		<JPDetail>光属性キャラのダブルアタック確率上昇(中)</JPDetail>
 		<Detail>빛속성 캐릭터의 더블어택 확률 증가(中)</Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>天光の守護</JpName>
+		<KrName>천광의 수호</KrName>
+		<JPDetail>光属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>빛속성 캐릭터의 최대 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>騎解方陣・守護II</JpName>
+		<KrName>기해방진・수호II</KrName>
+		<JPDetail>光属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>빛속성 캐릭터의 최대 HP상승(大) </Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>雷電の守護</JpName>
+		<KrName>뇌전의 수호</KrName>
+		<JPDetail>光属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>빛속성 캐릭터의 최대 HP상승(中)</Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>天光の治癒</JpName>
@@ -911,6 +428,55 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>渦潮の背水</JpName>
+		<KrName>조수의 배수</KrName>
+		<JPDetail>水属性キャラのHPが少ないほど攻撃力が上昇(中)</JPDetail>
+		<Detail>수속성 캐릭터의 HP가 적어질수록 공격력 상승(中)</Detail>
+		<SkillData>3;1;2;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>海神方陣・攻刃II</JpName>
+		<KrName>해신방진・공인II</KrName>
+		<JPDetail>水属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>수속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;5;2;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>霧氷の攻刃II</JpName>
+		<KrName>서리의 공인 II</KrName>
+		<JPDetail>水属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>수속성 캐릭터의 공격력 상승(大) </Detail>
+		<SkillData>1;1;2;1;3;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>霧氷の攻刃</JpName>
+		<KrName>서리의 공인</KrName>
+		<JPDetail>水属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>수속성 캐릭터의 공격력 상승(大)  </Detail>
+		<SkillData>1;1;2;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>水の攻刃</JpName>
+		<KrName>물의 공인</KrName>
+		<JPDetail>水属性キャラの攻撃力上昇(小)</JPDetail>
+		<Detail>수속성 캐릭터의 공격력 상승(小)</Detail>
+		<SkillData>1;1;2;0;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>海神方陣・攻刃</JpName>
+		<KrName>해신방진・공인</KrName>
+		<JPDetail>水属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>수속성 캐릭터의 공격력 상승(中)</Detail>
+		<SkillData>1;5;2;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>渦潮の攻刃</JpName>
+		<KrName>조수의 공인</KrName>
+		<JPDetail>水属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>수속성 캐릭터의 공격력 상승(中) </Detail>
+		<SkillData>1;1;2;0;2</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>霧氷の二手</JpName>
 		<KrName>서리의 양손</KrName>
 		<JPDetail>水属性キャラのダブルアタック確率上昇(大)</JPDetail>
@@ -923,6 +489,34 @@
 		<JPDetail>水属性キャラのダブルアタック確率上昇(中)</JPDetail>
 		<Detail>수속성 캐릭터의 더블어택 확률상승(中)</Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>霧氷の守護</JpName>
+		<KrName>서리의 수호</KrName>
+		<JPDetail>水属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>수속성 캐릭터의 최대 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>海神方陣・守護II</JpName>
+		<KrName>해신방진・수호II</KrName>
+		<JPDetail>水属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>수속성 캐릭터의 최대 HP상승(大) </Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>水の守護</JpName>
+		<KrName>물의 수호</KrName>
+		<JPDetail>水属性キャラの最大HP上昇(小)</JPDetail>
+		<Detail>수속성 캐릭터의 최대 HP상승(小)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>渦潮の守護</JpName>
+		<KrName>조수의 수호</KrName>
+		<JPDetail>水属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>수속성 캐릭터의 최대 HP상승(中)</Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>海神方陣・治癒II</JpName>
@@ -1002,6 +596,55 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>黒霧方陣・守護II</JpName>
+		<KrName>흑무방진・수호II</KrName>
+		<JPDetail>闇属性キャラのHP上昇(大)</JPDetail>
+		<Detail>암속성 캐릭터의 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>黒霧方陣・攻刃II</JpName>
+		<KrName>흑무방진・공인II</KrName>
+		<JPDetail>闇属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>암속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;5;6;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>奈落の攻刃</JpName>
+		<KrName>나락의 공인</KrName>
+		<JPDetail>闇属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>암속성 캐릭터의 공격력 상승(大) </Detail>
+		<SkillData>1;1;6;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>闇の攻刃</JpName>
+		<KrName>어둠의 공인</KrName>
+		<JPDetail>闇属性キャラの攻撃力上昇(小)</JPDetail>
+		<Detail>암속성 캐릭터의 공격력 상승(小)</Detail>
+		<SkillData>1;1;6;0;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>憎悪の攻刃</JpName>
+		<KrName>증오의 공인</KrName>
+		<JPDetail>闇属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>암속성 캐릭터의 공격력 상승(中)</Detail>
+		<SkillData>1;1;6;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>奈落の背水</JpName>
+		<KrName>나락의 배수</KrName>
+		<JPDetail>闇属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
+		<Detail>암속성 캐릭터의 공격력이 HP가 적을수록 상승(大)</Detail>
+		<SkillData>3;1;6;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>憎悪の背水</JpName>
+		<KrName>증오의 배수</KrName>
+		<JPDetail>闇属性キャラのHPが少ないほど攻撃力が上昇(中)</JPDetail>
+		<Detail>암속성 캐릭터의 공격력이 HP가 적을수록 상승(中)</Detail>
+		<SkillData>3;1;6;0;2</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>闇の二手</JpName>
 		<KrName>어둠의 양손</KrName>
 		<JPDetail>闇属性キャラのダブルアタック確率上昇(小)</JPDetail>
@@ -1019,8 +662,36 @@
 		<JpName>スカルパレード</JpName>
 		<KrName>스컬 퍼레이드</KrName>
 		<JPDetail>闇属性キャラのダブルアタック確率上昇(中)</JPDetail>
-		<Detail>암속성 캐릭터의 더블어택 확률상승(中)</Detail>
+		<Detail>암속성 캐릭터의 더블어택 확률상승(中) </Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>奈落の守護</JpName>
+		<KrName>나락의 수호</KrName>
+		<JPDetail>闇属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>암속성 캐릭터의 최대 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>闇の守護</JpName>
+		<KrName>어둠의 수호</KrName>
+		<JPDetail>闇属性キャラの最大HP上昇(小)</JPDetail>
+		<Detail>암속성 캐릭터의 최대 HP상승(小)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>憎悪の守護</JpName>
+		<KrName>증오의 수호</KrName>
+		<JPDetail>闇属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>암속성 캐릭터의 최대 HP상승(中)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>黒霧方陣・守護</JpName>
+		<KrName>흑무방진・수호</KrName>
+		<JPDetail>闇属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>암속성 캐릭터의 최대 HP상승(中) </Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>憎悪の治癒</JpName>
@@ -1051,6 +722,27 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>コンキリオ・カエルレウス</JpName>
+		<KrName>콘킬리오・카이룰레우스</KrName>
+		<JPDetail>엘룬족과 하빈족의 공격력/HP상승</JPDetail>
+		<Detail>엘룬족과 하빈족의 공격력/HP상승</Detail>
+		<SkillData>1;8;8;0;5</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>エルーンアニムス・ウィス</JpName>
+		<KrName>엘룬 아니무스・위스</KrName>
+		<JPDetail>엘룬족의 공격력 상승</JPDetail>
+		<Detail>엘룬족의 공격력 상승</Detail>
+		<SkillData>1;7;8;0;4</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>エルーンアニムス・メンス</JpName>
+		<KrName>엘룬 아니무스・멘스</KrName>
+		<JPDetail>엘룬족의 최대 HP상승</JPDetail>
+		<Detail>엘룬족의 최대 HP상승</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>老練の技能</JpName>
 		<KrName>노련한 기능</KrName>
 		<JPDetail>奥義ゲージ上昇量UP</JPDetail>
@@ -1061,7 +753,7 @@
 		<JpName>天つ空なる明星の御霊</JpName>
 		<KrName>하늘 샛별의 영혼</KrName>
 		<JPDetail>奥義ゲージ上昇量UP</JPDetail>
-		<Detail>오의 게이지 상승률UP</Detail>
+		<Detail>오의 게이지 상승률UP </Detail>
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
@@ -1114,6 +806,104 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>大地の背水</JpName>
+		<KrName>대지의 배수</KrName>
+		<JPDetail>土属性キャラのHPが少ないほど攻撃力が上昇(中)</JPDetail>
+		<Detail>토속성 캐릭터의 HP가 적어질수록 공격력 상승(中)</Detail>
+		<SkillData>3;1;3;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>地裂の背水</JpName>
+		<KrName>지진의 배수</KrName>
+		<JPDetail>土属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
+		<Detail>토속성 캐릭터의 HP가 적어질수록 공격력이 상승(大)</Detail>
+		<SkillData>3;1;3;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>創樹方陣・攻刃II</JpName>
+		<KrName>창수방진・공인II</KrName>
+		<JPDetail>土属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>토속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;5;3;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>地裂の攻刃II</JpName>
+		<KrName>지진의 공인 II</KrName>
+		<JPDetail>土属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>토속성 캐릭터의 공격력 상승(大) </Detail>
+		<SkillData>1;1;3;1;3;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>地裂の攻刃</JpName>
+		<KrName>지진의 공인</KrName>
+		<JPDetail>土属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>토속성 캐릭터의 공격력 상승(大)  </Detail>
+		<SkillData>1;1;3;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>土の攻刃</JpName>
+		<KrName>흙의 공인</KrName>
+		<JPDetail>土属性キャラの攻撃力上昇(小)</JPDetail>
+		<Detail>토속성 캐릭터의 공격력 상승(小)</Detail>
+		<SkillData>1;1;3;0;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>創樹方陣・攻刃</JpName>
+		<KrName>창수방진・공인</KrName>
+		<JPDetail>土属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>토속성 캐릭터의 공격력 상승(中)</Detail>
+		<SkillData>1;5;3;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>大地の攻刃</JpName>
+		<KrName>대지의 공인</KrName>
+		<JPDetail>土属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>토속성 캐릭터의 공격력 상승(中) </Detail>
+		<SkillData>1;1;3;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>創樹方陣・背水II</JpName>
+		<KrName>창수방진・배수II</KrName>
+		<JPDetail>土属性キャラの攻撃力がHPが少ないほど上昇(大)</JPDetail>
+		<Detail>토속성 캐릭터의 공격력이 HP가 적을수록 상승(大)</Detail>
+		<SkillData>3;5;3;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>地裂の守護</JpName>
+		<KrName>지진의 수호</KrName>
+		<JPDetail>土属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>토속성 캐릭터의 최대 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>創樹方陣・守護II</JpName>
+		<KrName>창수방진・수호II</KrName>
+		<JPDetail>土属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>토속성 캐릭터의 최대 HP상승(大) </Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>土の守護</JpName>
+		<KrName>흙의 수호</KrName>
+		<JPDetail>土属性キャラの最大HP上昇(小)</JPDetail>
+		<Detail>토속성 캐릭터의 최대 HP상승(小)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>大地の守護</JpName>
+		<KrName>대지의 수호</KrName>
+		<JPDetail>土属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>토속성 캐릭터의 최대 HP상승(中)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>創樹方陣・守護</JpName>
+		<KrName>창수방진・수호</KrName>
+		<JPDetail>土属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>토속성 캐릭터의 최대 HP상승(中) </Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>地裂の治癒</JpName>
 		<KrName>지진의 치유</KrName>
 		<JPDetail>土属性キャラの回復上限上昇(大)</JPDetail>
@@ -1142,6 +932,13 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>風の技巧</JpName>
+		<KrName>바람의 기교</KrName>
+		<JPDetail>風属性攻撃で弱点を突いた時、クリティカル確率上昇(小)</JPDetail>
+		<Detail>풍속성 공격으로 약점을 때렸을때 확률로 데미지 업(小)</Detail>
+		<SkillData>3;1;4;0;1</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>竜巻の見切</JpName>
 		<KrName>바람의 끝</KrName>
 		<JPDetail>風属性キャラが稀にカウンター発動。スキルLv上昇でカウンターダメージアップ(中)</JPDetail>
@@ -1156,6 +953,62 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>乱気の背水</JpName>
+		<KrName>광기의 배수</KrName>
+		<JPDetail>風属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
+		<Detail>풍속성 캐릭터의 HP가 적을수록 공격력이 상승(大)</Detail>
+		<SkillData>3;1;4;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>嵐竜方陣・背水</JpName>
+		<KrName>남룡방진・배수</KrName>
+		<JPDetail>風属性キャラのHPが少ないほど攻撃力が上昇(小)</JPDetail>
+		<Detail>풍속성 캐릭터의 HP가 적을수록 공격력이 상승(小)</Detail>
+		<SkillData>3;5;4;0;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>嵐竜方陣・攻刃II</JpName>
+		<KrName>남룡방진・공인II</KrName>
+		<JPDetail>風属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>풍속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;5;4;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>乱気の攻刃II</JpName>
+		<KrName>광기의 공인 II</KrName>
+		<JPDetail>風属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>풍속성 캐릭터의 공격력 상승(大) </Detail>
+		<SkillData>1;1;4;1;3;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>乱気の攻刃</JpName>
+		<KrName>광기의 공인</KrName>
+		<JPDetail>風属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>풍속성 캐릭터의 공격력 상승(大)  </Detail>
+		<SkillData>1;1;4;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>風の攻刃</JpName>
+		<KrName>바람의 공인</KrName>
+		<JPDetail>風属性キャラの攻撃力上昇(小)</JPDetail>
+		<Detail>풍속성 캐릭터의 공격력 상승(小)</Detail>
+		<SkillData>1;1;4;0;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>嵐竜方陣・攻刃</JpName>
+		<KrName>남룡방진・공인</KrName>
+		<JPDetail>風属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>풍속성 캐릭터의 공격력 상승(中)</Detail>
+		<SkillData>1;5;4;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>竜巻の攻刃</JpName>
+		<KrName>바람의 공인</KrName>
+		<JPDetail>風属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>풍속성 캐릭터의 공격력 상승(中) </Detail>
+		<SkillData>1;1;4;0;2</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>竜巻の二手</JpName>
 		<KrName>바람의 양손</KrName>
 		<JPDetail>風属性キャラのダブルアタック確率上昇(中)</JPDetail>
@@ -1163,10 +1016,38 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>乱気の守護</JpName>
+		<KrName>광기의 수호</KrName>
+		<JPDetail>風属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>풍속성 캐릭터의 최대 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>嵐竜方陣・守護II</JpName>
+		<KrName>남룡방진・수호II</KrName>
+		<JPDetail>風属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>풍속성 캐릭터의 최대 HP상승(大) </Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>風の守護</JpName>
+		<KrName>바람의 공인</KrName>
+		<JPDetail>風属性キャラの最大HP上昇(小)</JPDetail>
+		<Detail>풍속성 캐릭터의 최대 HP상승(小)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>竜巻の守護</JpName>
+		<KrName>바람의 수호</KrName>
+		<JPDetail>風属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>풍속성 캐릭터의 최대 HP상승(中)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>竜巻の治癒</JpName>
 		<KrName>바람의 치유</KrName>
 		<JPDetail>風属性キャラの回復上限上昇(中)</JPDetail>
-		<Detail>풍속성 캐릭터의 회복상한상승(中)</Detail>
+		<Detail>풍속성 캐릭터의 회복상한상승(中) </Detail>
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
@@ -1175,6 +1056,20 @@
 		<JPDetail>プレイヤーの攻撃力上昇(大)</JPDetail>
 		<Detail>플레이어의 공격력 상승(大)</Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>ハーヴィンアニムス・ウィス</JpName>
+		<KrName>하빈 아니무스・위스</KrName>
+		<JPDetail>하빈족의 공격력 상승</JPDetail>
+		<Detail>하빈족의 공격력 상승</Detail>
+		<SkillData>1;7;8;0;4</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>ハーヴィンアニムス・メンス</JpName>
+		<KrName>하빈 아니무스・멘스</KrName>
+		<JPDetail>하빈족의 최대 HP상승</JPDetail>
+		<Detail>하빈족의 최대 HP상승</Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>紅蓮の技巧</JpName>
@@ -1212,11 +1107,95 @@
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
+		<JpName>機炎方陣・背水II</JpName>
+		<KrName>기염방진・배수II</KrName>
+		<JPDetail>火属性キャラのHPが少ないほど攻撃力が上昇(大)</JPDetail>
+		<Detail>화속성 캐릭터의 HP가 적을수록 공격력이 상승(大)</Detail>
+		<SkillData>3;5;1;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>機炎方陣・攻刃II</JpName>
+		<KrName>기염방진・공인II</KrName>
+		<JPDetail>火属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>화속성 캐릭터의 공격력 상승(大)</Detail>
+		<SkillData>1;5;1;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>紅蓮の攻刃II</JpName>
+		<KrName>홍련의 공인 II</KrName>
+		<JPDetail>火属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>화속성 캐릭터의 공격력 상승(大) </Detail>
+		<SkillData>1;1;1;1;3;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>紅蓮の攻刃</JpName>
+		<KrName>홍련의 공인</KrName>
+		<JPDetail>火属性キャラの攻撃力上昇(大)</JPDetail>
+		<Detail>화속성 캐릭터의 공격력 상승(大)  </Detail>
+		<SkillData>1;1;1;0;3</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>火の攻刃</JpName>
+		<KrName>불의 공인</KrName>
+		<JPDetail>火属性キャラの攻撃力上昇(小)</JPDetail>
+		<Detail>화속성 캐릭터의 공격력 상승(小)</Detail>
+		<SkillData>1;1;1;0;1</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>機炎方陣・攻刃</JpName>
+		<KrName>기염방진・공인</KrName>
+		<JPDetail>火属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>화속성 캐릭터의 공격력 상승(中)</Detail>
+		<SkillData>1;5;1;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>業火の攻刃</JpName>
+		<KrName>업화의 공인</KrName>
+		<JPDetail>火属性キャラの攻撃力上昇(中)</JPDetail>
+		<Detail>화속성 캐릭터의 공격력 상승(中) </Detail>
+		<SkillData>1;1;1;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>火の背水</JpName>
+		<KrName>불의 배수</KrName>
+		<JPDetail>火属性キャラのHPが少ないほど攻撃力が上昇(小)</JPDetail>
+		<Detail>화속성 캐릭터의 공격력이 HP가 적을수록 상승(小)</Detail>
+		<SkillData>3;1;1;0;1</SkillData>
+	</Skill>
+	<Skill>
 		<JpName>業火の二手</JpName>
 		<KrName>업화의 양손</KrName>
 		<JPDetail>火属性キャラのダブルアタック確率上昇(中)</JPDetail>
 		<Detail>화속성 캐릭터의 더블어택 확률상승(中)</Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>紅蓮の守護</JpName>
+		<KrName>홍련의 수호</KrName>
+		<JPDetail>火属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>화속성 캐릭터의 최대 HP상승(大)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>機炎方陣・守護II</JpName>
+		<KrName>기염방진・수호II</KrName>
+		<JPDetail>火属性キャラの最大HP上昇(大)</JPDetail>
+		<Detail>화속성 캐릭터의 최대 HP상승(大) </Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>火の守護</JpName>
+		<KrName>불의 수호</KrName>
+		<JPDetail>火属性キャラの最大HP上昇(小)</JPDetail>
+		<Detail>화속성 캐릭터의 최대 HP상승(小)</Detail>
+		<SkillData>2;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>業火の守護</JpName>
+		<KrName>업화의 수호</KrName>
+		<JPDetail>火属性キャラの最大HP上昇(中)</JPDetail>
+		<Detail>화속성 캐릭터의 최대 HP상승(中)</Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>火の治癒</JpName>
@@ -1266,5 +1245,26 @@
 		<JPDetail>獲得経験値UP(5%)</JPDetail>
 		<Detail>획득 경험치 상승</Detail>
 		<SkillData>-1;</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>コンキリオ・ルーベル</JpName>
+		<KrName>콘킬리오・뤼벨</KrName>
+		<JPDetail>휴먼족과 드라프족의 공격력/HP상승</JPDetail>
+		<Detail>휴먼족과 드라프족의 공격력/HP상승</Detail>
+		<SkillData>1;8;8;0;5</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>ヒューマンアニムス・ウィス</JpName>
+		<KrName>휴먼 아니무스・위스</KrName>
+		<JPDetail>휴먼족의 공격력 상승</JPDetail>
+		<Detail>휴먼족의 공격력 상승</Detail>
+		<SkillData>1;7;8;0;4</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>ヒューマンアニムス・メンス</JpName>
+		<KrName>휴먼 아니무스・멘스</KrName>
+		<JPDetail>휴먼족의 최대 HP상승</JPDetail>
+		<Detail>휴먼족의 최대 HP상승</Detail>
+		<SkillData>2;</SkillData>
 	</Skill>
 </Skills>
