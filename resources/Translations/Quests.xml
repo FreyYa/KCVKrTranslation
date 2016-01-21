@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.22">
+<Quests Version="1.2.23">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -1344,5 +1344,15 @@
 		<ID>101</ID>
 		<TR-Name>첫「편성」！</TR-Name>
 		<TR-Detail>2척 이상의 함선으로 이루어진 함대를 편성하라！</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>805</ID>
+		<TR-Name>기함 카스미 북방해역을 순찰하라!</TR-Name>
+		<TR-Detail>카스미 改2(改2을도 가능)을 기함으로 하고 구축3+자유2로 3-1 보스전 승리?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>806</ID>
+		<TR-Name>기함 카스미 출격! 적의 함대를 격멸하라!</TR-Name>
+		<TR-Detail>카스미 改2(改2을도 가능)기함,구축2+자유3편성으로 2-5 보스전 S승리 달성</TR-Detail>
 	</Quest>
 </Quests>
