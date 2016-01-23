@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Skills Version="1.0.8">
+<Skills Version="1.0.9">
 	<Skill>
 		<JpName>鍛錬の守護</JpName>
 		<KrName>단련의 수호</KrName>
@@ -228,14 +228,14 @@
 		<JpName>ストレングス</JpName>
 		<KrName>스트렝스</KrName>
 		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
+		<Detail>무기속성 캐릭터의 공격력 상승(大) </Detail>
 		<SkillData>1;3;7;0;3</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>アンノウン・ATKII</JpName>
 		<KrName>미지의 힘・ATKII</KrName>
 		<JPDetail>武器属性キャラの攻撃力上昇(大)</JPDetail>
-		<Detail>무기속성 캐릭터의 공격력 상승(大)</Detail>
+		<Detail>무기속성 캐릭터의 공격력 상승(大)  </Detail>
 		<SkillData>1;2;7;0;3</SkillData>
 	</Skill>
 	<Skill>
