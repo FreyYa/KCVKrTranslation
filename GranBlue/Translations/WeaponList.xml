@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.14">
+<Weapons Version="1.0.15">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -8861,7 +8861,7 @@
 		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 	<Weapon>
-		<ID>104006000</ID>
+		<ID>1040006000</ID>
 		<MaxName>참요</MaxName>
 		<Name>브라스트 소드</Name>
 		<Element>수</Element>
