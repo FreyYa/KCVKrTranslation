@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Weapons Version="1.0.13">
+<Weapons Version="1.0.14">
 	<Weapon>
 		<ID>1040000000</ID>
 		<MaxName>吸血剣</MaxName>
@@ -8845,5 +8845,46 @@
 		<MaxHP>30</MaxHP>
 		<MaxATK>100</MaxATK>
 		<Skill1Detail>강화에 사용하면 무기 스킬레벨이 올라가기 쉽다(小)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040005900</ID>
+		<MaxName>열광</MaxName>
+		<Name>빛의 검</Name>
+		<Element>암</Element>
+		<Kind>검</Kind>
+		<Secrets>열광의 검</Secrets>
+		<Skill1>스트렝스</Skill1>
+		<MinHP>3</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>100</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>104006000</ID>
+		<MaxName>참요</MaxName>
+		<Name>브라스트 소드</Name>
+		<Element>수</Element>
+		<Kind>검</Kind>
+		<Secrets>참요검</Secrets>
+		<Skill1>스트렝스</Skill1>
+		<MinHP>3</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>100</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
+	</Weapon>
+	<Weapon>
+		<ID>1040603100</ID>
+		<Name>스트리트 파이트</Name>
+		<Element>수</Element>
+		<Kind>권갑</Kind>
+		<Secrets>풍</Secrets>
+		<Skill1>스트렝스</Skill1>
+		<MinHP>3</MinHP>
+		<MinATK>10</MinATK>
+		<MaxHP>30</MaxHP>
+		<MaxATK>100</MaxATK>
+		<Skill1Detail>무기속성 캐릭터의 공격력 상승(大)</Skill1Detail>
 	</Weapon>
 </Weapons>
