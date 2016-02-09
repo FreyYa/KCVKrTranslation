@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Skills Version="1.0.9">
+<!--
+General
+-1: 카테고리화 되지 않는 무기들이 포함
+1: 공격력 상승 카테고리의 무기가 모두 여기에 포함
+2: HP 상승 카테고리의 무기가 모두 여기에 포함
+3. 배수 카테고리의 무기가 모두 여기에 포함
+Attack
+0. 미분류. 기본적으로 계산에 포함되지않는다
+1. 일반공인. 바하무기도 여기에 포함
+2. 언노운. 신데렐라 콜라보 무기만 여기에 포함된다
+3. 스트렝스. 테일즈 콜라보 무기만 여기에 포함된다
+4. 세이빙 어택. 스트리트 파이터 무기만 여기에 포함된다
+5. 마그나. 마그나 드랍 무기만 여기에 포함된다
+6. 절대 공격력 상승 무기가 여기에 추가
+7. 바하무트 웨폰 위스
+8. 바하무트 웨폰 콘킬리오
+Attribute
+1. 화
+2. 수
+3. 토
+4. 풍
+5. 광
+6. 암
+7. 이벤트무기중 메인 무기의 속성을 따라가는 경우
+8. 속성무관
+Is Unlimited
+0. 기본. 최대 스킬레벨은 10이다
+1. 최종상한무기. 최대 스킬레벨은 15다
+Is Double
+0. 기본
+1. II 일반공인
+Skill Rank
+0. 미분류. 공인이 아닌 무기는 모두 여기에 포함
+1. 소
+2. 중
+3. 대
+4. 위스
+5. 콘킬리오
+-->
+<Skills Version="1.0.10">
 	<Skill>
 		<JpName>鍛錬の守護</JpName>
 		<KrName>단련의 수호</KrName>
@@ -363,6 +402,13 @@
 		<JPDetail>光属性キャラの攻撃力上昇(中)</JPDetail>
 		<Detail>빛속성 캐릭터의 공격력 상승(中)</Detail>
 		<SkillData>1;1;5;0;2</SkillData>
+	</Skill>
+	<Skill>
+		<JpName>騎解方陣・神威</JpName>
+		<KrName>기해방진・신위</KrName>
+		<JPDetail>빛속성 캐릭터의 공격력,HP가 상승(小)</JPDetail>
+		<Detail>빛속성 캐릭터의 공격력,HP가 상승(小)</Detail>
+		<SkillData>1;5;1;0;1</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>雷電の二手</JpName>
@@ -1047,7 +1093,7 @@
 		<JpName>竜巻の治癒</JpName>
 		<KrName>바람의 치유</KrName>
 		<JPDetail>風属性キャラの回復上限上昇(中)</JPDetail>
-		<Detail>풍속성 캐릭터의 회복상한상승(中) </Detail>
+		<Detail>풍속성 캐릭터의 회복상한상승(中)</Detail>
 		<SkillData>-1;</SkillData>
 	</Skill>
 	<Skill>
