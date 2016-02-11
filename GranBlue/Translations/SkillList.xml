@@ -38,7 +38,7 @@ Skill Rank
 4. 위스
 5. 콘킬리오
 -->
-<Skills Version="1.1.0">
+<Skills Version="1.1.1">
 	<Skill>
 		<JpName>鍛錬の守護</JpName>
 		<KrName>단련의 수호</KrName>
@@ -408,7 +408,7 @@ Skill Rank
 		<KrName>기해방진・신위</KrName>
 		<JPDetail>빛속성 캐릭터의 공격력,HP가 상승(小)</JPDetail>
 		<Detail>빛속성 캐릭터의 공격력,HP가 상승(小)</Detail>
-		<SkillData>1;5;1;0;1</SkillData>
+		<SkillData>1;5;5;0;1</SkillData>
 	</Skill>
 	<Skill>
 		<JpName>雷電の二手</JpName>
