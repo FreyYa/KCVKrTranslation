@@ -38,7 +38,7 @@ Skill Rank
 4. 위스
 5. 콘킬리오
 -->
-<Skills Version="1.0.10">
+<Skills Version="1.1.0">
 	<Skill>
 		<JpName>鍛錬の守護</JpName>
 		<KrName>단련의 수호</KrName>
