@@ -13,7 +13,7 @@
   	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.23</Version>
+		<Version>1.1.24</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
@@ -28,7 +28,7 @@
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.51</Version>
+		<Version>1.0.52</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
