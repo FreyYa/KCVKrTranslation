@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.0.14">
+<RemodelSlots Version="1.0.15">
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<Position>1</Position>
@@ -168,9 +168,27 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<ShipName1>夕張</ShipName1>
 		<WeekDays1>167</WeekDays1>
 		<ShipName2>五十鈴改二</ShipName2>
-		<WeekDays2>267</WeekDays2>
+		<WeekDays2>2</WeekDays2>
 		<ToolTip>장비변환 시 3식 소나★3</ToolTip>
 		<Upgrade2>三式水中探信儀</Upgrade2>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>九三式水中聴音機</SlotItemName>
+		<Position>2</Position>
+		<AllWeekdays>12567</AllWeekdays>
+		<Upgrade1>四式水中聴音機</Upgrade1>
+		<StartEquip>0</StartEquip>
+		<MidEquip>1</MidEquip>
+		<LastEquip>2</LastEquip>
+		<ShipName1>時雨改二</ShipName1>
+		<WeekDays1>1567</WeekDays1>
+		<ShipName2>五十鈴改二</ShipName2>
+		<WeekDays2>56</WeekDays2>
+		<ToolTip>장비변환 시 4식 소나</ToolTip>
+		<Upgrade2>四式水中聴音機</Upgrade2>
+		<ShipName3>香取改</ShipName3>
+		<WeekDays3>167</WeekDays3>
+		<Upgrade3>四式水中聴音機</Upgrade3>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>三式水中探信儀</SlotItemName>
