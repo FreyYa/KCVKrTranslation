@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.23">
+<Quests Version="1.2.24">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -498,7 +498,7 @@
 	<Quest>
 		<ID>631</ID>
 		<TR-Name>기종전환,부대재편</TR-Name>
-		<TR-Detail>숙련도 Max인「영전52병형(이와모토 소대)」를 탑재한「즈이카쿠」를 비서함으로,「영전62형(폭전)」2기 폐기</TR-Detail>
+		<TR-Detail>숙련도 Max인「영전52병형(이와이 소대)」를 탑재한「즈이카쿠」를 비서함으로,「영전62형(폭전)」2기 폐기</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>630</ID>
