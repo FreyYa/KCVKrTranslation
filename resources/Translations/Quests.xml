@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.24">
+<Quests Version="1.2.25">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -1354,5 +1354,15 @@
 		<ID>806</ID>
 		<TR-Name>기함 카스미 출격! 적의 함대를 격멸하라!</TR-Name>
 		<TR-Detail>카스미 改2(改2을도 가능)기함,구축2+자유3편성으로 2-5 보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>171</ID>
+		<TR-Name>제 31전대(제 1차)를 편성하라!</TR-Name>
+		<TR-Detail>이스즈改2를 기함으로 사츠키改2,우즈키改가 포함된 대잠 기동 수상부대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>807</ID>
+		<TR-Name>제 31전대 출격!</TR-Name>
+		<TR-Detail>이스즈改2를 기함으로 사츠키改2,우즈키改, 자유편성3가 포함된 대잠 기동 수상부대로 1-6을 클리어(골 지점으로 향하기)</TR-Detail>
 	</Quest>
 </Quests>
