@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.25">
+<Quests Version="1.2.26">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -454,6 +454,26 @@
 		<TR-Name>제6구축함대 편성</TR-Name>
 		<JP-Detail>「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
 		<TR-Detail>아카츠키, 히비키, 이카즈치, 이나즈마 4척으로 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>808</ID>
+		<TR-Name>제 27구축대 출격!</TR-Name>
+		<TR-Detail>시라츠유改를 기함으로 하고 시구레, 하루사메, 사미다레+자유2척으로 구성된 함대로 2-3보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>807</ID>
+		<TR-Name>제 31전대 출격!</TR-Name>
+		<TR-Detail>이스즈改2를 기함으로 사츠키改2,우즈키改, 자유편성3가 포함된 대잠 기동 수상부대로 1-6을 클리어(골 지점으로 향하기)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>806</ID>
+		<TR-Name>기함 카스미 출격! 적의 함대를 격멸하라!</TR-Name>
+		<TR-Detail>카스미 改2(改2을도 가능)기함,구축2+자유3편성으로 2-5 보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>805</ID>
+		<TR-Name>기함 카스미 북방해역을 순찰하라!</TR-Name>
+		<TR-Detail>카스미 改2(改2을도 가능)을 기함으로 하고 구축3+자유2로 3-1 보스전 승리?</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>804</ID>
@@ -1121,6 +1141,16 @@
 		<TR-Detail>당일 05:00 부터 다음날 04:59 까지 해역 상관 없이 전투 1회 승리</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>172</ID>
+		<TR-Name>제 27구축대를 편성하라!</TR-Name>
+		<TR-Detail>시라츠유改를 기함으로 하고 시구레,하루사메,사미다레 4척으로 구성된 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>171</ID>
+		<TR-Name>제 31전대(제 1차)를 편성하라!</TR-Name>
+		<TR-Detail>이스즈改2를 기함으로 사츠키改2,우즈키改가 포함된 대잠 기동 수상부대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>170</ID>
 		<TR-Name>정예 수상반격부대를 편성하라</TR-Name>
 		<TR-Detail>카스미를 기함으로 하고 아시가라,오요도,아사시모,키요시모로 수상반격부대를 재편성하라</TR-Detail>
@@ -1344,25 +1374,5 @@
 		<ID>101</ID>
 		<TR-Name>첫「편성」！</TR-Name>
 		<TR-Detail>2척 이상의 함선으로 이루어진 함대를 편성하라！</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>805</ID>
-		<TR-Name>기함 카스미 북방해역을 순찰하라!</TR-Name>
-		<TR-Detail>카스미 改2(改2을도 가능)을 기함으로 하고 구축3+자유2로 3-1 보스전 승리?</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>806</ID>
-		<TR-Name>기함 카스미 출격! 적의 함대를 격멸하라!</TR-Name>
-		<TR-Detail>카스미 改2(改2을도 가능)기함,구축2+자유3편성으로 2-5 보스전 S승리 달성</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>171</ID>
-		<TR-Name>제 31전대(제 1차)를 편성하라!</TR-Name>
-		<TR-Detail>이스즈改2를 기함으로 사츠키改2,우즈키改가 포함된 대잠 기동 수상부대를 편성</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>807</ID>
-		<TR-Name>제 31전대 출격!</TR-Name>
-		<TR-Detail>이스즈改2를 기함으로 사츠키改2,우즈키改, 자유편성3가 포함된 대잠 기동 수상부대로 1-6을 클리어(골 지점으로 향하기)</TR-Detail>
 	</Quest>
 </Quests>
