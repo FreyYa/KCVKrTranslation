@@ -2,9 +2,9 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>4.2.2.198</Version>
-  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v4.2.2r198/KanColleViewer-KR.4.2.2.r198.zip</URL>
-		<NoticeURL>http://kcvkr.tistory.com/134</NoticeURL>
+ 		<Version>4.2.4.199</Version>
+  		<URL>https://github.com/FreyYa/KanColleViewer/releases/download/v4.2.4r199/KanColleViewer-KR.4.2.4.r199.zip</URL>
+		<NoticeURL>http://kcvkr.tistory.com/142</NoticeURL>
   	</Item>
 	<Item>
   		<Name>Updater</Name>
