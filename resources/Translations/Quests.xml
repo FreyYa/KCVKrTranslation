@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.27">
+<Quests Version="1.2.28">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -1387,7 +1387,7 @@
 	</Quest>
 	<Quest>
 		<ID>811</ID>
-		<TR-Name>난세 이제도 방어선을 강화하라!</TR-Name>
+		<TR-Name>난세이 제도 방어선을 강화하라!</TR-Name>
 		<TR-Detail>1-4보스전 5회 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
