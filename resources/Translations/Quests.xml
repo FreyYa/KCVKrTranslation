@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.29">
+<Quests Version="1.2.30">
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -454,6 +454,11 @@
 		<TR-Name>제6구축함대 편성</TR-Name>
 		<JP-Detail>「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
 		<TR-Detail>아카츠키, 히비키, 이카즈치, 이나즈마 4척으로 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>809</ID>
+		<TR-Name>강습상륙작전용 전력을 증강하라!</TR-Name>
+		<TR-Detail>6-3보스전에서 B승리 이상 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>808</ID>
@@ -1399,5 +1404,40 @@
 		<ID>813</ID>
 		<TR-Name>기함 오오시오 改2 출격하라!</TR-Name>
 		<TR-Detail>오오시오改2를 기함으로 한 함대로 3-5보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>173</ID>
+		<TR-Name>강행 고속 수송부대를 편성하라!</TR-Name>
+		<TR-Detail>센다이改2를 기함, 카와카제改2와 시구레改2+구축함 2척을 포함한 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>814</ID>
+		<TR-Name>강행 고속 수송부대 출격하라!</TR-Name>
+		<TR-Detail>센다이改2를 기함, 카와카제改2와 시구레改2+구축함 2척+자유로 편성된 함대로 4-5보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>815</ID>
+		<TR-Name>제1항공전대 서쪽으로!</TR-Name>
+		<TR-Detail>아카기를 기함으로 하고 카가가 포함된 함대로 4-5보스전 S승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>816</ID>
+		<TR-Name>함대, 3주년!</TR-Name>
+		<TR-Detail>2-2보스전 또는 2-3보스전 S승리 달성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>635</ID>
+		<TR-Name>새로운 장비를 준비</TR-Name>
+		<TR-Detail>장비 5개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>312</ID>
+		<TR-Name>상륙 부대 훈련</TR-Name>
+		<TR-Detail>하루동안 연습전 4회이상 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>636</ID>
+		<TR-Name>상륙전용 신장비 조달</TR-Name>
+		<TR-Detail>7.7mm 기관총 두개와 12.7mm 단장기관총 두개 파기</TR-Detail>
 	</Quest>
 </Quests>
