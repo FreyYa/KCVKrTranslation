@@ -924,4 +924,8 @@
 		<JP-Name>PBY-5A Catalina</JP-Name>
 		<TR-Name>PBY-5A 카탈리나</TR-Name>
 	</Item>
+	<Item>
+		<JP-Name>雷電</JP-Name>
+		<TR-Name>라이덴</TR-Name>
+	</Item>
 </Equipment>
