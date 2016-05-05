@@ -892,4 +892,40 @@
 		<JP-Name>特二式内火艇</JP-Name>
 		<TR-Name>특2식 내화정</TR-Name>
 	</Item>
+  	<Item>
+		<JP-Name>九六式陸攻</JP-Name>
+		<TR-Name>96식 육상공격기</TR-Name>
+ 	</Item>
+  	<Item>
+		<JP-Name>一式陸攻</JP-Name>
+		<TR-Name>1식 육상공격기</TR-Name>
+ 	</Item>
+	<Item>
+		<JP-Name>Bofors 40mm四連装機関砲</JP-Name>
+		<TR-Name>Bofors 40mm 4연장기관포</TR-Name>
+	</Item>
+ 	<Item>
+		<JP-Name>一式陸攻(野中隊)</JP-Name>
+		<TR-Name>1식 육상공격기(노나카대)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>53cm連装魚雷</JP-Name>
+		<TR-Name>53cm 연장어뢰</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>三式戦 飛燕</JP-Name>
+		<TR-Name>3식 전투기 히엔</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>三式戦 飛燕(飛行第244戦隊)</JP-Name>
+		<TR-Name>3식 전투기 히엔(비행제244전대)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>PBY-5A Catalina</JP-Name>
+		<TR-Name>PBY-5A 카탈리나</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>雷電</JP-Name>
+		<TR-Name>라이덴</TR-Name>
+	</Item>
 </Equipment>
