@@ -2036,4 +2036,48 @@
     <JP-Name>春風改</JP-Name>
     <TR-Name>하루카제改</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>PT小鬼群</JP-Name>
+    <TR-Name>PT소귀군</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>集積地棲姫</JP-Name>
+    <TR-Name>집적지서희</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>砲台小鬼</JP-Name>
+    <TR-Name>포대소귀</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐古鬼</JP-Name>
+    <TR-Name>구축고귀</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>重巡棲姫</JP-Name>
+    <TR-Name>중순서희</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>リコリス棲姫</JP-Name>
+    <TR-Name>리코리스서희</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>中枢棲姫</JP-Name>
+    <TR-Name>중추서희</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐水鬼</JP-Name>
+    <TR-Name>구축수귀</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>集積地棲姫-壊</JP-Name>
+    <TR-Name>집적지서희-괴</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>中枢棲姫-壊</JP-Name>
+    <TR-Name>중추서희-괴</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐古姫</JP-Name>
+    <TR-Name>구축고희</TR-Name>
+  </Ship>
 </Ships>
