@@ -918,7 +918,7 @@
 	</Item>
 	<Item>
 		<JP-Name>三式戦 飛燕(飛行第244戦隊)</JP-Name>
-		<TR-Name>3식 전투기 히엔(비행제244전대)</TR-Name>
+		<TR-Name>3식 전투기 히엔(244 비행전대)</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>PBY-5A Catalina</JP-Name>
@@ -927,5 +927,37 @@
 	<Item>
 		<JP-Name>雷電</JP-Name>
 		<TR-Name>라이덴</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>大発動艇(八九式中戦車&amp;陸戦隊)</JP-Name>
+		<TR-Name>대발동정(89식 중전차&amp;육전대)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>5inch沿岸設置砲</JP-Name>
+		<TR-Name>5inch연안 설치포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>沿岸設置レーダー</JP-Name>
+		<TR-Name>연안 설치 레이더</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海解放陸爆</JP-Name>
+		<TR-Name>심해 해방 육폭</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海解放陸爆Ace</JP-Name>
+		<TR-Name>심해 해방 육폭 Ace</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海猫艦戦(爆装)</JP-Name>
+		<TR-Name>심해 고양이 함전(폭장)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海偵察飛行艇</JP-Name>
+		<TR-Name>심해 정찰 비행정</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>5inch連装砲 Mk.28 mod.2</JP-Name>
+		<TR-Name>5inch연장포 Mk.28 mod.2</TR-Name>
 	</Item>
 </Equipment>
