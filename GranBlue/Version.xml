@@ -2,8 +2,8 @@
 <Versions>
 	<Item>
   		<Name>App</Name>
- 		<Version>2.4.0.0</Version>
-		<NoticeURL>http://kcvkr.tistory.com/96</NoticeURL>
+ 		<Version>3.2.0.3</Version>
+		<NoticeURL>http://freyya.tistory.com/170</NoticeURL>
   	</Item>
 	<Item>
 		<Name>JPTRs</Name>
@@ -24,5 +24,15 @@
 		<Name>TenList</Name>
 		<Version>1.0.11</Version>
 		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/TenList.xml</URL>
+	</Item>
+	<Item>
+		<Name>ItemList</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/ItemList.xml</URL>
+	</Item>
+	<Item>
+		<Name>BulletList</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/BulletList.xml</URL>
 	</Item>
 </Versions>
