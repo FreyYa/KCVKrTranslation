@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Versions>
+	<Item>
+  		<Name>App</Name>
+ 		<Version>0.9.0.0</Version>
+		<NoticeURL>http://freyya.tistory.com/203</NoticeURL>
+  	</Item>
+	<Item>
+		<Name>JPTRs</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/JPTRs.xml</URL>
+	</Item>
+	<Item>
+		<Name>WeaponList</Name>
+		<Version>1.0.15</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/WeaponList.xml</URL>
+	</Item>
+	<Item>
+		<Name>SkillList</Name>
+		<Version>1.1.1</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/SkillList.xml</URL>
+	</Item>
+	<Item>
+		<Name>TenList</Name>
+		<Version>1.0.11</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/TenList.xml</URL>
+	</Item>
+	<Item>
+		<Name>ItemList</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/ItemList.xml</URL>
+	</Item>
+	<Item>
+		<Name>BulletList</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/FreyYa/KCVKrTranslation/master/GranBlue/Translations/BulletList.xml</URL>
+	</Item>
+</Versions>
